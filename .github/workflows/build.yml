@@ -26,6 +26,9 @@ jobs:
       # Installs the SDK command-line tools and accepts the licences, so Gradle may fetch the platform and
       # build tools the project needs (gradle.properties turns that off for local builds; -P turns it on here).
       - uses: android-actions/setup-android@v3
+        with:
+          # Its default list also has "tools", a package the SDK no longer offers (the step fails on it).
+          packages: platform-tools
 
       - uses: gradle/actions/setup-gradle@v4
 
