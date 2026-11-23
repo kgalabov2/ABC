@@ -1,0 +1,413 @@
+# Emoji for words whose emoji cannot be mistaken for anything else, used by tools/match_pictures.py.
+# Matched on the word's English meaning (its first part, lower-case, without "a"/"the"). An emoji here wins over a
+# Wikipedia photo, because lead photos are often of something nearby (a rain photo of a roof, a war for "boot").
+# Where the app has a hand-checked photo for the emoji (assets/pictures/credits.tsv), it shows that photo instead.
+# Numbers become digits and colours swatches in match_pictures.py itself, only for words in those topics.
+# meaning<TAB>emoji
+dress	👗
+trousers	👖
+pants	👖
+jeans	👖
+t-shirt	👕
+shirt	👕
+coat	🧥
+jacket	🧥
+overcoat	🧥
+sock	🧦
+socks	🧦
+scarf	🧣
+glove	🧤
+gloves	🧤
+mitten	🧤
+sneaker	👟
+sneakers	👟
+trainers	👟
+shoe	👞
+shoes	👞
+high heels	👠
+high-heeled shoe	👠
+sandal	👡
+sandals	👡
+boot	👢
+boots	👢
+top hat	🎩
+hat	👒
+cap	🧢
+baseball cap	🧢
+glasses	👓
+spectacles	👓
+eyeglasses	👓
+sunglasses	🕶️
+bikini	👙
+swimsuit	🩱
+bathing suit	🩱
+shorts	🩳
+underpants	🩲
+briefs	🩲
+kimono	👘
+sari	🥻
+necktie	👔
+tie	👔
+handbag	👜
+purse	👛
+wallet	👛
+backpack	🎒
+rucksack	🎒
+lipstick	💄
+wristwatch	⌚
+umbrella	☂️
+helmet	🪖
+crown	👑
+thread	🧵
+needle	🪡
+safety pin	🧷
+comb	🪮
+apple	🍎
+pear	🍐
+lemon	🍋
+banana	🍌
+watermelon	🍉
+grape	🍇
+grapes	🍇
+strawberry	🍓
+cherry	🍒
+peach	🍑
+mango	🥭
+pineapple	🍍
+coconut	🥥
+tomato	🍅
+eggplant	🍆
+aubergine	🍆
+avocado	🥑
+broccoli	🥦
+carrot	🥕
+maize	🌽
+corn	🌽
+bell pepper	🫑
+chili pepper	🌶️
+cucumber	🥒
+garlic	🧄
+onion	🧅
+potato	🥔
+mushroom	🍄
+peanut	🥜
+chestnut	🌰
+bread	🍞
+croissant	🥐
+baguette	🥖
+cheese	🧀
+egg	🥚
+milk	🥛
+butter	🧈
+honey	🍯
+rice	🍚
+spaghetti	🍝
+pasta	🍝
+pizza	🍕
+hamburger	🍔
+hot dog	🌭
+sandwich	🥪
+taco	🌮
+sushi	🍣
+noodles	🍜
+salad	🥗
+cake	🍰
+birthday cake	🎂
+cookie	🍪
+biscuit	🍪
+chocolate	🍫
+candy	🍬
+sweet	🍬
+lollipop	🍭
+ice cream	🍦
+doughnut	🍩
+donut	🍩
+coffee	☕
+tea	🍵
+beer	🍺
+wine	🍷
+juice	🧃
+champagne	🍾
+steak	🥩
+shrimp	🦐
+prawn	🦐
+crab	🦀
+lobster	🦞
+octopus	🐙
+squid	🦑
+salt	🧂
+spoon	🥄
+knife	🔪
+chopsticks	🥢
+teapot	🫖
+sake	🍶
+dog	🐶
+cat	🐱
+mouse	🐭
+hamster	🐹
+rabbit	🐰
+fox	🦊
+bear	🐻
+panda	🐼
+koala	🐨
+tiger	🐯
+lion	🦁
+cow	🐮
+pig	🐷
+frog	🐸
+monkey	🐵
+hen	🐔
+penguin	🐧
+bird	🐦
+chick	🐤
+duck	🦆
+eagle	🦅
+owl	🦉
+wolf	🐺
+boar	🐗
+wild boar	🐗
+horse	🐴
+unicorn	🦄
+bee	🐝
+worm	🪱
+butterfly	🦋
+snail	🐌
+ladybird	🐞
+ladybug	🐞
+ant	🐜
+spider	🕷️
+scorpion	🦂
+turtle	🐢
+tortoise	🐢
+snake	🐍
+lizard	🦎
+dolphin	🐬
+whale	🐳
+shark	🦈
+crocodile	🐊
+zebra	🦓
+giraffe	🦒
+elephant	🐘
+rhinoceros	🦏
+rhino	🦏
+camel	🐪
+sheep	🐑
+goat	🐐
+deer	🦌
+squirrel	🐿️
+hedgehog	🦔
+parrot	🦜
+swan	🦢
+flamingo	🦩
+dove	🕊️
+pigeon	🕊️
+rooster	🐓
+cock	🐓
+fish	🐟
+mosquito	🦟
+bed	🛏️
+sofa	🛋️
+couch	🛋️
+chair	🪑
+door	🚪
+window	🪟
+toilet	🚽
+shower	🚿
+bathtub	🛁
+mirror	🪞
+teddy bear	🧸
+candle	🕯️
+light bulb	💡
+lightbulb	💡
+key	🔑
+lock	🔒
+padlock	🔒
+broom	🧹
+basket	🧺
+toilet paper	🧻
+soap	🧼
+sponge	🧽
+bucket	🪣
+suitcase	🧳
+luggage	🧳
+alarm clock	⏰
+clock	🕰️
+television	📺
+tv	📺
+radio	📻
+mobile phone	📱
+cellphone	📱
+cell phone	📱
+smartphone	📱
+telephone	☎️
+laptop	💻
+computer	💻
+keyboard	⌨️
+printer	🖨️
+camera	📷
+flashlight	🔦
+torch	🔦
+battery	🔋
+plug	🔌
+book	📕
+pencil	✏️
+crayon	🖍️
+scissors	✂️
+paper clip	📎
+paperclip	📎
+pushpin	📌
+calendar	📅
+envelope	✉️
+newspaper	📰
+map	🗺️
+compass	🧭
+coin	🪙
+banknote	💵
+credit card	💳
+gift	🎁
+balloon	🎈
+ribbon	🎀
+kite	🪁
+jigsaw puzzle	🧩
+dice	🎲
+die	🎲
+chess	♟️
+hammer	🔨
+axe	🪓
+ax	🪓
+wrench	🔧
+spanner	🔧
+screwdriver	🪛
+magnet	🧲
+ladder	🪜
+test tube	🧪
+microscope	🔬
+telescope	🔭
+pill	💊
+syringe	💉
+plaster	🩹
+bandage	🩹
+stethoscope	🩺
+thermometer	🌡️
+car	🚗
+automobile	🚗
+taxi	🚕
+bus	🚌
+trolleybus	🚎
+ambulance	🚑
+fire engine	🚒
+fire truck	🚒
+police car	🚓
+truck	🚚
+lorry	🚚
+tractor	🚜
+motorcycle	🏍️
+motorbike	🏍️
+scooter	🛵
+bicycle	🚲
+bike	🚲
+locomotive	🚂
+steam locomotive	🚂
+train	🚆
+subway	🚇
+metro	🚇
+underground	🚇
+tram	🚊
+helicopter	🚁
+airplane	✈️
+aeroplane	✈️
+aircraft	✈️
+rocket	🚀
+sailboat	⛵
+sailing boat	⛵
+motorboat	🚤
+speedboat	🚤
+ship	🚢
+ferry	⛴️
+canoe	🛶
+anchor	⚓
+traffic light	🚦
+petrol station	⛽
+gas station	⛽
+wheel	🛞
+shopping cart	🛒
+house	🏠
+hospital	🏥
+school	🏫
+hotel	🏨
+castle	🏰
+church	⛪
+mosque	🕌
+synagogue	🕍
+shrine	⛩️
+bridge	🌉
+factory	🏭
+stadium	🏟️
+ferris wheel	🎡
+roller coaster	🎢
+fountain	⛲
+tent	⛺
+beach	🏖️
+football	⚽
+soccer	⚽
+baseball	⚾
+basketball	🏀
+volleyball	🏐
+tennis	🎾
+table tennis	🏓
+ping-pong	🏓
+badminton	🏸
+boxing	🥊
+ski	🎿
+skis	🎿
+snowboard	🏂
+ice skate	⛸️
+fishing rod	🎣
+guitar	🎸
+piano	🎹
+trumpet	🎺
+violin	🎻
+drum	🥁
+banjo	🪕
+saxophone	🎷
+accordion	🪗
+microphone	🎤
+headphones	🎧
+sun	☀️
+moon	🌙
+cloud	☁️
+rain	🌧️
+snow	❄️
+rainbow	🌈
+lightning	⚡
+tornado	🌪️
+fog	🌫️
+tree	🌳
+palm tree	🌴
+cactus	🌵
+tulip	🌷
+rose	🌹
+sunflower	🌻
+mountain	⛰️
+volcano	🌋
+island	🏝️
+desert	🏜️
+fire	🔥
+water	💧
+stone	🪨
+eye	👁️
+ear	👂
+nose	👃
+mouth	👄
+lip	👄
+lips	👄
+tooth	🦷
+teeth	🦷
+tongue	👅
+foot	🦶
+leg	🦵
+hand	✋
+brain	🧠
+bone	🦴
+lungs	🫁
+baby	👶

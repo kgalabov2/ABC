@@ -1,0 +1,129 @@
+# Japanese vocabulary for Alphabet Writer.
+# Columns: topic<TAB>picture (emoji or digits)<TAB>word in kana<TAB>romaji<TAB>meaning<TAB>kanji spelling (optional)<TAB>note (optional)<TAB>text for speech (optional)
+# The speech text gives text-to-speech the kanji where bare kana would get the wrong pitch (はし: chopsticks, not bridge).
+# Topics: greetings numbers shopping food travel time family colours weather animals. Pictures must be unique within a topic.
+greetings	👋	こんにちは	konnichiwa	hello		The last は is read "wa".
+greetings	🌅	おはよう	ohayō	good morning		Polite: おはようございます (ohayō gozaimasu).
+greetings	🌙	こんばんは	konbanwa	good evening		The last は is read "wa".
+greetings	😴	おやすみ	oyasumi	good night		Polite: おやすみなさい (oyasuminasai).
+greetings	🙏	ありがとう	arigatō	thank you		Polite: ありがとうございます (arigatō gozaimasu).
+greetings	🙇	すみません	sumimasen	excuse me; sorry
+greetings	✅	はい	hai	yes
+greetings	❌	いいえ	iie	no
+greetings	🚶	さようなら	sayōnara	goodbye		For longer partings; friends say じゃあね (jā ne).
+greetings	🍽️	いただきます	itadakimasu	said before eating
+greetings	😊	おげんきですか	ogenki desu ka	how are you?	お元気ですか
+greetings	🤝	はじめまして	hajimemashite	nice to meet you	初めまして
+greetings	📛	なまえ	namae	name	名前
+greetings	❓	なに	nani	what	何
+greetings	🆗	だいじょうぶ	daijōbu	it's OK; I'm fine	大丈夫
+numbers	0	ゼロ	zero	zero		Also れい (rei), written 零.
+numbers	1	いち	ichi	one	一
+numbers	2	に	ni	two	二
+numbers	3	さん	san	three	三
+numbers	4	よん	yon	four	四	Also し (shi), often avoided because it sounds like "death".
+numbers	5	ご	go	five	五
+numbers	6	ろく	roku	six	六
+numbers	7	なな	nana	seven	七	Also しち (shichi).
+numbers	8	はち	hachi	eight	八
+numbers	9	きゅう	kyū	nine	九	Also く (ku).
+numbers	10	じゅう	jū	ten	十
+numbers	100	ひゃく	hyaku	hundred	百
+numbers	1000	せん	sen	thousand	千
+numbers	10000	いちまん	ichiman	ten thousand	一万	Large numbers are counted in units of 10 000 (まん, man): 20 000 is にまん (niman).
+shopping	💴	おかね	okane	money	お金
+shopping	🏷️	いくら	ikura	how much?		いくらですか (ikura desu ka) = how much is it?
+shopping	🛒	かいもの	kaimono	shopping	買い物
+shopping	🏪	みせ	mise	shop	店
+shopping	💳	カード	kādo	card
+shopping	🧾	レシート	reshīto	receipt
+shopping	👕	シャツ	shatsu	shirt
+shopping	👟	くつ	kutsu	shoes	靴
+shopping	👜	かばん	kaban	bag	鞄
+shopping	🛍️	ふくろ	fukuro	shopping bag	袋	ふくろはいりません (fukuro wa irimasen) = I don't need a bag.
+shopping	💎	たかい	takai	expensive	高い
+shopping	🪙	やすい	yasui	cheap	安い
+shopping	🤲	ください	kudasai	please (give me)		これをください (kore o kudasai) = this one, please.
+shopping	📏	サイズ	saizu	size
+food	💧	みず	mizu	water	水
+food	🍵	おちゃ	ocha	green tea	お茶
+food	☕	コーヒー	kōhī	coffee
+food	🍺	ビール	bīru	beer
+food	🍷	ワイン	wain	wine
+food	🍚	ごはん	gohan	rice; meal	ご飯
+food	🍞	パン	pan	bread
+food	🐟	さかな	sakana	fish	魚
+food	🥩	にく	niku	meat	肉
+food	🥚	たまご	tamago	egg	卵
+food	🍎	りんご	ringo	apple	林檎
+food	🍣	すし	sushi	sushi	寿司
+food	🍜	ラーメン	rāmen	ramen
+food	🥢	はし	hashi	chopsticks	箸		箸
+food	😋	おいしい	oishii	delicious	美味しい
+travel	✈️	ひこうき	hikōki	airplane	飛行機
+travel	🚆	でんしゃ	densha	train	電車
+travel	🚌	バス	basu	bus
+travel	🚕	タクシー	takushī	taxi
+travel	🚉	えき	eki	station	駅
+travel	🛫	くうこう	kūkō	airport	空港
+travel	🏨	ホテル	hoteru	hotel
+travel	🎫	きっぷ	kippu	ticket	切符
+travel	🛂	パスポート	pasupōto	passport
+travel	🧳	にもつ	nimotsu	luggage	荷物
+travel	🗺️	ちず	chizu	map	地図
+travel	🚻	トイレ	toire	toilet		トイレはどこですか (toire wa doko desu ka) = where is the toilet?
+travel	⬅️	ひだり	hidari	left	左
+travel	➡️	みぎ	migi	right	右
+travel	⬆️	まっすぐ	massugu	straight ahead	真っ直ぐ
+time	📅	きょう	kyō	today	今日
+time	⏭️	あした	ashita	tomorrow	明日
+time	⏮️	きのう	kinō	yesterday	昨日
+time	🌄	あさ	asa	morning	朝
+time	🌞	ひる	hiru	noon; daytime	昼
+time	🌃	よる	yoru	night	夜
+time	⌚	いま	ima	now	今
+time	⏰	じかん	jikan	time; hours	時間
+time	🕐	いちじ	ichiji	one o'clock	一時
+time	🗓️	しゅうまつ	shūmatsu	weekend	週末
+family	👨‍👧	ちち	chichi	(my) father	父	Someone else's father: おとうさん (otōsan).
+family	👩‍👦	はは	haha	(my) mother	母	Someone else's mother: おかあさん (okāsan).
+family	👦	おとこのこ	otoko no ko	boy	男の子
+family	👧	おんなのこ	onna no ko	girl	女の子
+family	👶	あかちゃん	akachan	baby	赤ちゃん
+family	👫	ともだち	tomodachi	friend	友達
+family	👪	かぞく	kazoku	family	家族
+family	👴	おじいさん	ojiisan	grandfather; old man		Not おじさん (ojisan), which means uncle.
+family	👵	おばあさん	obāsan	grandmother; old woman		Not おばさん (obasan), which means aunt.
+family	🧑‍🏫	せんせい	sensei	teacher	先生
+family	🧍	ひと	hito	person	人
+colours	🔴	あか	aka	red	赤
+colours	🔵	あお	ao	blue	青	Also used for green traffic lights.
+colours	🟢	みどり	midori	green	緑
+colours	🟡	きいろ	kiiro	yellow	黄色
+colours	⚫	くろ	kuro	black	黒
+colours	⚪	しろ	shiro	white	白
+colours	🟣	むらさき	murasaki	purple	紫
+colours	🟠	オレンジ	orenji	orange
+colours	🟤	ちゃいろ	chairo	brown	茶色
+colours	🩷	ピンク	pinku	pink
+weather	☀️	はれ	hare	sunny	晴れ
+weather	🌧️	あめ	ame	rain	雨		雨
+weather	❄️	ゆき	yuki	snow	雪
+weather	☁️	くもり	kumori	cloudy	曇り
+weather	💨	かぜ	kaze	wind	風
+weather	🥵	あつい	atsui	hot	暑い
+weather	🥶	さむい	samui	cold	寒い
+weather	☂️	かさ	kasa	umbrella	傘
+weather	⛈️	かみなり	kaminari	thunder	雷
+weather	🌈	にじ	niji	rainbow	虹
+animals	🐶	いぬ	inu	dog	犬
+animals	🐱	ねこ	neko	cat	猫
+animals	🐦	とり	tori	bird	鳥
+animals	🐴	うま	uma	horse	馬
+animals	🐮	うし	ushi	cow	牛
+animals	🐷	ぶた	buta	pig	豚
+animals	🐭	ねずみ	nezumi	mouse	鼠
+animals	🐰	うさぎ	usagi	rabbit	兎
+animals	🐻	くま	kuma	bear	熊
+animals	🐵	さる	saru	monkey	猿
+animals	🐘	ぞう	zō	elephant	象

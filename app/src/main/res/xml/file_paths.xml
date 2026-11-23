@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Files the app may share: the app itself and the pictures pack, both copied to cache/share first. -->
+<paths>
+    <cache-path name="share" path="share/" />
+</paths>

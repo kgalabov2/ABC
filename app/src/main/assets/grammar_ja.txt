@@ -1,0 +1,479 @@
+# Japanese grammar lessons for ABC (A1–A2, about JLPT N5): kana-only sentences, Hepburn readings, practice questions.
+# Written for this app; checked against English Wiktionary conjugation data.
+
+@lesson desu
+title: Basic sentences: X は Y です
+level: A1
+intro: Say what someone or something is with X は Y です, make it negative and ask questions with か.
+p: The simplest Japanese sentence is **X は Y です**, "X is Y". **は** marks the **topic**, the thing you are talking about; as a particle it is written は but pronounced **wa**. **です** (desu, said "dess") works like "is / am / are" and makes the sentence polite.
+p: Japanese has no words for "a" or "the", and nouns have no plural: がくせい can mean "a student", "the student" or "students". When it is clear who you mean, the topic is left out: がくせいです alone can mean "I am a student". **さん** (san) after a name means Mr or Ms; never use it about yourself.
+p: To say "is not", replace です with **じゃありません** (ja arimasen). **ではありません** (de wa arimasen) means the same and is a little more formal; here too は is read wa.
+p: To ask a question, add **か** (ka) at the end; the word order stays the same. Answer with はい (yes) or いいえ (no). Question words such as なん (what), だれ (who), どこ (where) and いつ (when) stand where the answer would be: おなまえはなんですか "What is your name?"
+table: The basic patterns
+| meaning | pattern | reading |
+| X is Y | X は Y です | X wa Y desu |
+| X is not Y | X は Y じゃありません | X wa Y ja arimasen |
+| X is not Y (more formal) | X は Y ではありません | X wa Y de wa arimasen |
+| Is X Y? | X は Y ですか | X wa Y desu ka? |
+e: わたしはがくせいです。 | watashi wa gakusei desu. | I am a student. | 私は学生です。
+e: たなかさんはせんせいです。 | tanaka-san wa sensei desu. | Mr Tanaka is a teacher. | 田中さんは先生です。
+e: わたしはせんせいじゃありません。 | watashi wa sensei ja arimasen. | I am not a teacher. | 私は先生じゃありません。
+e: マリアさんはにほんじんではありません。 | maria-san wa nihonjin de wa arimasen. | Maria is not Japanese. | マリアさんは日本人ではありません。
+e: たなかさんはがくせいですか。いいえ、がくせいじゃありません。かいしゃいんです。 | tanaka-san wa gakusei desu ka? iie, gakusei ja arimasen. kaishain desu. | Is Mr Tanaka a student? No, he isn't a student. He is an office worker. | 田中さんは学生ですか。いいえ、学生じゃありません。会社員です。
+e: おなまえはなんですか。 | onamae wa nan desu ka? | What is your name? | お名前は何ですか。
+q: わたし___がくせいです。 | は | を; に; か | I am a student. | は marks the topic; as a particle it is pronounced wa. | 私は学生です。
+q: たなかさんはせんせい___。 | です | じゃありません; ですか; でした | Mr Tanaka is a teacher. | | 田中さんは先生です。
+q: わたしはせんせい___。 | じゃありません | です; ですか; でした | I am not a teacher. | じゃありません means "is not". | 私は先生じゃありません。
+q: やまださんはがくせいです___。 | か | よ; が; から | Is Ms Yamada a student? | か at the end turns a sentence into a question. | 山田さんは学生ですか。
+q: おなまえは___ですか。 | なん | なに; だれ; どこ | What is your name? | なに (what) becomes なん before です. | お名前は何ですか。
+q: たなかさんは___ですか。 | だれ | なん; どこ; いつ | Who is Mr Tanaka? | だれ means who. | 田中さんは誰ですか。
+q: わたしはにほんじんじゃありません。アメリカじん___。 | です | じゃありません; ですか; でした | I am not Japanese. I am American. | | 私は日本人じゃありません。アメリカ人です。
+
+@lesson wa-ga
+title: は and が
+level: A1
+intro: Learn when the topic marker は and the subject marker が are used.
+p: **は** (wa) marks the **topic**: what the sentence is about, usually something already known, like "as for X". **が** (ga) marks the **subject**, the one who does or is something, when it is new or important information.
+p: Question words such as だれ (who) and なに (what) are always new information, so when they are the subject they take **が**, never は: だれがきますか "Who is coming?" The answer takes が too: たなかさんがきます "Mr Tanaka is coming."
+p: With **すき** (like), **わかります** (understand) and **あります** (have), the person takes は and the thing takes が: わたしはねこがすきです "I like cats".
+p: は also contrasts two things: さかなはたべます。にくはたべません。 "Fish I eat; meat I don't." When you simply talk about yourself or about something already mentioned, は is the usual choice.
+p: The verbs in these early lessons end in -masu (do, will do) or -masen (don't). Lessons 7 and 8 explain these polite forms.
+table: は or が?
+| | は (wa) | が (ga) |
+| marks | the topic: what you talk about | the subject: who or what does it |
+| information | already known, or contrasted | new or important |
+| question words | never after them | だれが, なにが |
+| with すき, わかります, あります | the person: わたしは | the thing: ねこが |
+e: だれがきますか。 | dare ga kimasu ka? | Who is coming? | 誰が来ますか。
+e: たなかさんがきます。 | tanaka-san ga kimasu. | Mr Tanaka is coming. | 田中さんが来ます。
+e: わたしはねこがすきです。 | watashi wa neko ga suki desu. | I like cats. | 私は猫が好きです。
+e: マリアさんはにほんごがわかります。 | maria-san wa nihongo ga wakarimasu. | Maria understands Japanese. | マリアさんは日本語が分かります。
+e: さかなはたべます。にくはたべません。 | sakana wa tabemasu. niku wa tabemasen. | I eat fish, but I don't eat meat. | 魚は食べます。肉は食べません。
+q: だれ___きますか。 | が | は; を; も | Who is coming? | A question word that is the subject takes が, never は. | 誰が来ますか。
+q: だれがきますか。たなかさん___きます。 | が | は; を; に | Who is coming? Mr Tanaka is coming. | The answer to a が question also takes が. | 誰が来ますか。田中さんが来ます。
+q: トイレ___どこですか。 | は | が; を; に | Where is the toilet? | The thing you ask about is the topic; the question word comes after it. | トイレはどこですか。
+q: なに___すきですか。 | が | は; に; で | What do you like? | The thing liked takes が, and a question word never takes は. | 何が好きですか。
+q: さかなはたべます。にく___たべません。 | は | が; も; で | I eat fish, but I don't eat meat. | は contrasts two things. | 魚は食べます。肉は食べません。
+q: だれ___せんせいですか。 | が | は; を; で | Who is the teacher? | だれ is a question word, so it takes が. | 誰が先生ですか。
+
+@lesson o-ni-de-e
+title: Particles を, に, で, へ
+level: A1
+intro: Mark the object, the time, where you go and where something happens.
+p: Particles come **after** the word they mark, like little labels. Verbs here end in -masu, the polite form for "do" or "will do"; lessons 7 and 8 explain it.
+p: **を** marks the **direct object**, the thing the action is done to. It is written with the kana を but pronounced **o**: パンをたべます "I eat bread".
+p: **に** (ni) marks a point in time (しちじに "at seven") and the place you go to (がっこうにいきます "I go to school"). Words like きょう (today), あした (tomorrow) and まいにち (every day) take no に.
+p: **へ** marks the direction you go. It is written へ but pronounced **e**. With いきます (go), きます (come) and かえります (go home), に and へ mean the same.
+p: **で** (de) marks the place where an action happens (としょかんでべんきょうします "I study at the library") and the means or tool (バスでいきます "I go by bus"). Do not mix it up with に: に is where you go, で is where you do something.
+table: Four particles
+| particle | said | marks | example |
+| を | o | the object | パンをたべます |
+| に | ni | a point in time; where you go | しちじに, がっこうに |
+| へ | e | where you go (direction) | とうきょうへ |
+| で | de | where an action happens; the means | としょかんで, バスで |
+e: わたしはまいあさコーヒーをのみます。 | watashi wa maiasa kōhī o nomimasu. | I drink coffee every morning. | 私は毎朝コーヒーを飲みます。
+e: しちじにおきます。 | shichiji ni okimasu. | I get up at seven. | 七時に起きます。
+e: あしたとうきょうへいきます。 | ashita tōkyō e ikimasu. | I'll go to Tokyo tomorrow. | 明日東京へ行きます。
+e: としょかんでほんをよみます。 | toshokan de hon o yomimasu. | I read books at the library. | 図書館で本を読みます。
+e: バスでがっこうにいきます。 | basu de gakkō ni ikimasu. | I go to school by bus. | バスで学校に行きます。
+e: うちでばんごはんをたべます。 | uchi de bangohan o tabemasu. | I eat dinner at home. | うちで晩ご飯を食べます。
+q: まいにちコーヒー___のみます。 | を | に; で; へ | I drink coffee every day. | を marks the thing you drink. | 毎日コーヒーを飲みます。
+q: しちじ___おきます。 | に | で; を; へ | I get up at seven. | A clock time takes に. | 七時に起きます。
+q: としょかん___べんきょうします。 | で | に; を; へ | I study at the library. | The place where you do something takes で. | 図書館で勉強します。
+q: あしたがっこう___いきます。 | へ | で; を; から | I'll go to school tomorrow. | へ (said e) marks where you go; に would also be right. | 明日学校へ行きます。
+q: バス___いきます。 | で | に; を; へ | I go by bus. | で marks the means. | バスで行きます。
+q: はし___たべます。 | で | を; に; へ | I eat with chopsticks. | で marks the tool; はしをたべます would mean "I eat chopsticks". | 箸で食べます。
+q: ろくじにうち___かえります。 | に | で; を; から | I go home at six. | に marks where you go; へ would also be right. | 六時にうちに帰ります。
+q: スーパー___パンをかいます。 | で | に; を; へ | I buy bread at the supermarket. | Buying happens there, so the place takes で. | スーパーでパンを買います。
+
+@lesson no-to-mo-kara-made
+title: Particles の, と, も, から, まで
+level: A1
+intro: Say whose something is, join nouns with "and" and "with", say "too", and give "from" and "until".
+p: **の** (no) joins two nouns like English 's or "of"; the owner or the describing word comes first: わたしのなまえ "my name", にほんごのせんせい "a teacher of Japanese". わたしの alone means "mine".
+p: **と** (to) means "and" between nouns, never between sentences: パンとたまご "bread and eggs". After a person it means "with": ともだちといきます "I go with a friend".
+p: **も** (mo) means "also, too", and with a negative "(not) either". It replaces は, が and を: わたしもがくせいです "I am a student too".
+p: **から** (kara) means "from" and **まで** (made) "until" or "as far as", for both time and place: くじからごじまで "from nine to five", えきまで "as far as the station".
+table: Five particles
+| particle | said | meaning | example |
+| の | no | 's, of | わたしのなまえ |
+| と | to | and (between nouns); with | パンとたまご, ともだちと |
+| も | mo | also, too; (not) either | わたしも |
+| から | kara | from | くじから |
+| まで | made | until, as far as | ごじまで, えきまで |
+e: わたしのなまえはマリアです。 | watashi no namae wa maria desu. | My name is Maria. | 私の名前はマリアです。
+e: たなかさんはにほんごのせんせいです。 | tanaka-san wa nihongo no sensei desu. | Mr Tanaka is a teacher of Japanese. | 田中さんは日本語の先生です。
+e: まいあさパンとたまごをたべます。 | maiasa pan to tamago o tabemasu. | Every morning I eat bread and eggs. | 毎朝パンと卵を食べます。
+e: ともだちとえいがをみます。 | tomodachi to eiga o mimasu. | I watch a movie with a friend. | 友達と映画を見ます。
+e: やまださんもがくせいです。 | yamada-san mo gakusei desu. | Ms Yamada is a student too. | 山田さんも学生です。
+e: ぎんこうはくじからさんじまでです。 | ginkō wa kuji kara sanji made desu. | The bank is open from nine to three. | 銀行は九時から三時までです。
+q: わたし___なまえはマリアです。 | の | と; も; を | My name is Maria. | の works like 's: わたしの = my. | 私の名前はマリアです。
+q: パン___たまごをかいます。 | と | の; も; から | I buy bread and eggs. | と joins nouns: "and". | パンと卵を買います。
+q: ともだち___きょうとへいきます。 | と | の; を; に | I'm going to Kyoto with a friend. | After a person, と means "with". | 友達と京都へ行きます。
+q: わたし___がくせいです。 | も | は; の; と | I am a student too. | も (too) takes the place of は. | 私も学生です。
+q: わたしはにくをたべません。さかな___たべません。 | も | は; を; と | I don't eat meat. I don't eat fish either. | With a negative, も means "either". | 私は肉を食べません。魚も食べません。
+q: くじ___ごじまではたらきます。 | から | まで; と; に | I work from nine to five. | から means "from". | 九時から五時まで働きます。
+q: えき___あるきます。 | まで | から; と; の | I walk to the station. | まで means "as far as". | 駅まで歩きます。
+q: やまださんはにほんご___せんせいです。 | の | と; も; から | Ms Yamada is a teacher of Japanese. | | 山田さんは日本語の先生です。
+
+@lesson kosoado
+title: これ, この, ここ: pointing words
+level: A1
+intro: Point at things and places with the こ, そ, あ and ど words.
+p: Japanese points with four sets of words starting with **こ**, **そ**, **あ** and **ど**. こ = near me (the speaker), そ = near you (the listener), あ = away from both of us, ど = which? (the question).
+p: **これ, それ, あれ, どれ** stand alone: "this one, that one, which one". **この, その, あの, どの** must be followed by a noun: このほん "this book". Never put a noun right after これ, and never use この alone.
+p: **ここ, そこ, あそこ, どこ** are places: here, there (near you), over there, where? Note that the "far" word is あそこ.
+p: どれ (which one) is a question word, so as the subject it takes **が**, not は: どれがたなかさんのかさですか "Which one is Mr Tanaka's umbrella?"
+table: こ, そ, あ, ど
+| | こ (near me) | そ (near you) | あ (far) | ど (question) |
+| thing | これ | それ | あれ | どれ |
+| + noun | この | その | あの | どの |
+| place | ここ | そこ | あそこ | どこ |
+e: これはなんですか。 | kore wa nan desu ka? | What is this? | これは何ですか。
+e: それはわたしのかさです。 | sore wa watashi no kasa desu. | That is my umbrella. | それは私の傘です。
+e: あのひとはだれですか。 | ano hito wa dare desu ka? | Who is that person? | あの人は誰ですか。
+e: このほんはやまださんのです。 | kono hon wa yamada-san no desu. | This book is Ms Yamada's. | この本は山田さんのです。
+e: トイレはどこですか。 | toire wa doko desu ka? | Where is the toilet? | トイレはどこですか。
+e: えきはあそこです。 | eki wa asoko desu. | The station is over there. | 駅はあそこです。
+q: ___はなんですか。 | これ | この; どの; どれ | What is this? | これ stands alone; この needs a noun after it. | これは何ですか。
+q: ___ほんはわたしのです。 | この | これ; ここ; どの | This book is mine. | この is followed by a noun. | この本は私のです。
+q: トイレは___ですか。 | どこ | どれ; どの; あそこ | Where is the toilet? | どこ asks about a place. | トイレはどこですか。
+q: ___ひとはだれですか。 | あの | あれ; あそこ; どの | Who is that person over there? | あの is followed by a noun. | あの人は誰ですか。
+q: ぎんこうは___です。 | あそこ | あの; ここ; どこ | The bank is over there. | あそこ means "over there". | 銀行はあそこです。
+q: ___がたなかさんのかさですか。 | どれ | どの; どこ; これ | Which one is Mr Tanaka's umbrella? | どれ (which one) stands alone and takes が. | どれが田中さんの傘ですか。
+q: ___かさはわたしのです。 | その | それ; そこ; どの | That umbrella (near you) is mine. | その is followed by a noun. | その傘は私のです。
+
+@lesson aru-iru
+title: あります and います
+level: A1
+intro: Say that something or someone is somewhere, or that you have it.
+p: Both verbs mean "there is" or "to be (somewhere)". **います** (imasu) is for living things that move: people and animals. **あります** (arimasu) is for everything else: things, plants, buildings, and also events.
+p: The pattern is **place に thing が あります**: つくえのうえにほんがあります "There is a book on the desk". に marks where something is. To say where a known thing is, make it the topic: ほんはつくえのうえにあります "The book is on the desk".
+p: They also mean "have": わたしはくるまがあります "I have a car", わたしはおとうとがいます "I have a younger brother". The negatives are **ありません** and **いません**.
+p: Position words take の: つくえの**うえ** (on, above), **した** (under), **なか** (in), **まえ** (in front of), **うしろ** (behind), **となり** (next to).
+table: Living or not?
+| | living: people, animals | not living: things, plants, events |
+| there is, have | います | あります |
+| there isn't, don't have | いません | ありません |
+| dictionary form | いる | ある |
+e: へやにねこがいます。 | heya ni neko ga imasu. | There is a cat in the room. | 部屋に猫がいます。
+e: つくえのうえにほんがあります。 | tsukue no ue ni hon ga arimasu. | There is a book on the desk. | 机の上に本があります。
+e: たなかさんはどこにいますか。 | tanaka-san wa doko ni imasu ka? | Where is Mr Tanaka? | 田中さんはどこにいますか。
+e: えきのまえにぎんこうがあります。 | eki no mae ni ginkō ga arimasu. | There is a bank in front of the station. | 駅の前に銀行があります。
+e: あしたテストがあります。 | ashita tesuto ga arimasu. | There is a test tomorrow. | 明日テストがあります。
+e: わたしはきょうだいがいません。 | watashi wa kyōdai ga imasen. | I have no brothers or sisters. | 私は兄弟がいません。
+q: こうえんにこどもが___。 | います | あります; いません; ありません | There are children in the park. | People and animals: います. | 公園に子供がいます。
+q: つくえのうえにかばんが___。 | あります | います; ありません; いません | There is a bag on the desk. | Things: あります. | 机の上にかばんがあります。
+q: ねこはどこに___か。 | います | あります; いきます; きます | Where is the cat? | A cat is alive: います. | 猫はどこにいますか。
+q: えきのまえにぎんこう___あります。 | が | を; で; へ | There is a bank in front of the station. | The thing that is there takes が. | 駅の前に銀行があります。
+q: ねこはいすのした___います。 | に | で; を; へ | The cat is under the chair. | Where something is takes に; で is for where an action happens. | 猫は椅子の下にいます。
+q: わたしはくるまが___。 | ありません | あります; いません; いります | I don't have a car. | A car is a thing: ありません. | 私は車がありません。
+q: わたしはおとうとが___。 | います | あります; いません; きます | I have a younger brother. | For people, "have" is also います. | 私は弟がいます。
+q: あしたテストが___。 | あります | います; ありません; いません | There is a test tomorrow. | Events also use あります. | 明日テストがあります。
+
+@lesson verb-groups
+title: The three verb groups
+level: A1
+intro: Learn the る-verbs, the う-verbs and the two irregular verbs, and how to tell them apart.
+p: Japanese verbs change their endings where English adds words like "did" or "not". How a verb changes depends on its **group**. Word lists give the **dictionary form**, which always ends in a u-sound: たべる, のむ, いく, する.
+p: **る-verbs** (also called ichidan verbs) simply drop る: たべる → たべます. **う-verbs** (godan verbs) change their last kana from the u-sound to the i-sound: のむ → のみます, かえる → かえります. The only **irregular verbs** are **する** (do) → します and **くる** (come) → きます, plus verbs made with する, such as べんきょうする (study).
+p: How to tell them apart: a verb that does not end in る is always a う-verb (かう, かく, はなす, まつ, のむ). A verb ending in -aru, -uru or -oru is a う-verb too (わかる, つくる, のる), except する and くる.
+p: Only verbs ending in **-iru** or **-eru** (the sound before る is i or e) can be る-verbs, and most of them are: みる, おきる, たべる, ねる. A few common ones are う-verbs and must be learned: **かえる** (go home), **はいる** (enter), **はしる** (run), **しる** (know) and **きる** (cut), while きる (wear) is a る-verb.
+table: Which group?
+| dictionary form ends in | group | examples |
+| not る: う, く, ぐ, す, つ, ぬ, ぶ, む | う-verb | かう, かく, はなす, のむ |
+| -aru, -uru, -oru | う-verb | わかる, つくる, のる |
+| -iru, -eru | usually る-verb | みる, おきる, たべる, ねる |
+| -iru, -eru (exceptions) | う-verb | かえる, はいる, はしる, しる, きる (cut) |
+| する, くる | irregular | する → します, くる → きます |
+table: The ます form of う-verbs: the last kana moves to the i-sound
+| ending | ます form | example |
+| う | います | かう → かいます |
+| く | きます | かく → かきます |
+| ぐ | ぎます | およぐ → およぎます |
+| す | します | はなす → はなします |
+| つ | ちます | まつ → まちます |
+| ぬ | にます | しぬ → しにます |
+| ぶ | びます | あそぶ → あそびます |
+| む | みます | のむ → のみます |
+| る | ります | かえる → かえります |
+e: あさごはんをたべます。 | asagohan o tabemasu. | I eat breakfast. (たべる: る-verb) | 朝ご飯を食べます。
+e: まいにちテレビをみます。 | mainichi terebi o mimasu. | I watch TV every day. (みる: る-verb) | 毎日テレビを見ます。
+e: おちゃをのみます。 | ocha o nomimasu. | I drink tea. (のむ: う-verb) | お茶を飲みます。
+e: ろくじにうちにかえります。 | rokuji ni uchi ni kaerimasu. | I go home at six. (かえる: う-verb) | 六時にうちに帰ります。
+e: としょかんでべんきょうします。 | toshokan de benkyō shimasu. | I study at the library. (べんきょうする: irregular) | 図書館で勉強します。
+e: ともだちがきます。 | tomodachi ga kimasu. | A friend is coming. (くる: irregular) | 友達が来ます。
+q: ろくじにうちに___。 | かえります | かえます; かえりません; かえりました | I go home at six. | かえる (go home) is a う-verb: る becomes り. | 六時にうちに帰ります。
+q: まいばんじゅういちじに___。 | ねます | ねります; ねません; ねました | I go to bed at eleven every night. | ねる is a る-verb: just drop る. | 毎晩十一時に寝ます。
+q: あした、ともだちが___。 | きます | くります; きません; きました | A friend is coming tomorrow. | くる is irregular: きます. | 明日、友達が来ます。
+q: まいあさコーヒーを___。 | のみます | のめます; のみません; のみました | I drink coffee every morning. | のむ is a う-verb: む becomes み. | 毎朝コーヒーを飲みます。
+q: パンをナイフで___。 | きります | きます; きりません; きりました | I cut the bread with a knife. | きる (cut) is a う-verb: きります. きます comes from きる (wear) or くる. | パンをナイフで切ります。
+q: へやに___。 | はいります | はいます; はいりません; はいりました | I go into the room. | はいる is a う-verb although it ends in -iru. | 部屋に入ります。
+q: としょかんでべんきょう___。 | します | できます; しません; しました | I study at the library. | する is irregular: します. できます means "can do". | 図書館で勉強します。
+q: あたらしいシャツを___。 | きます | きります; きません; きました | I'll put on a new shirt. | きる (wear) is a る-verb: きます. | 新しいシャツを着ます。
+
+@lesson masu
+title: Polite verbs: ます, ません, ました, ませんでした
+level: A1
+intro: Use the four polite verb forms for present, future and past, positive and negative.
+p: Polite verb forms are the normal way to talk to people you don't know well, and the safest choice for a learner. All four are built on the ます stem from lesson 7: たべ, のみ, し, き.
+p: **ます** (masu) is the present and the future: たべます means "I eat" or "I will eat"; Japanese has no separate future tense. **ません** (masen) is its negative: "I don't eat, I won't eat".
+p: **ました** (mashita) is the past: "I ate". **ませんでした** (masen deshita) is the past negative: "I didn't eat".
+p: Time words show which time is meant: まいにち (every day) and あした (tomorrow) go with ます; きのう (yesterday), けさ (this morning) and せんしゅう (last week) with ました.
+p: A ませんか question is often a polite invitation, especially with いっしょに (together): いっしょにいきませんか "Would you like to go together?"
+table: The four polite forms
+| | present and future | past |
+| positive | たべます | たべました |
+| negative | たべません | たべませんでした |
+table: More verbs
+| dictionary form | ます | ません | ました | ませんでした |
+| のむ | のみます | のみません | のみました | のみませんでした |
+| いく | いきます | いきません | いきました | いきませんでした |
+| する | します | しません | しました | しませんでした |
+| くる | きます | きません | きました | きませんでした |
+e: まいにちにほんごをべんきょうします。 | mainichi nihongo o benkyō shimasu. | I study Japanese every day. | 毎日日本語を勉強します。
+e: あしたはがっこうにいきません。 | ashita wa gakkō ni ikimasen. | I'm not going to school tomorrow. | 明日は学校に行きません。
+e: きのうともだちにあいました。 | kinō tomodachi ni aimashita. | I met a friend yesterday. | 昨日友達に会いました。
+e: きのうはテレビをみませんでした。 | kinō wa terebi o mimasen deshita. | I didn't watch TV yesterday. | 昨日はテレビを見ませんでした。
+e: いっしょにえいがをみませんか。 | issho ni eiga o mimasen ka? | Would you like to watch a movie together? | 一緒に映画を見ませんか。
+e: しゅうまつはなにをしましたか。 | shūmatsu wa nani o shimashita ka? | What did you do at the weekend? | 週末は何をしましたか。
+q: きのうえいがを___。 | みました | みます; みません; みませんでした | I watched a movie yesterday. | きのう (yesterday) needs the past: ました. | 昨日映画を見ました。
+q: あしたとうきょうに___。 | いきます | いきました; いきません; いきませんでした | I'll go to Tokyo tomorrow. | ます also covers the future. | 明日東京に行きます。
+q: わたしはおさけを___。 | のみません | のみます; のみました; のみませんでした | I don't drink alcohol. | Present negative: ません. | 私はお酒を飲みません。
+q: きのうはしゅくだいを___。 | しませんでした | しません; しました; します | I didn't do my homework yesterday. | Past negative: ませんでした. | 昨日は宿題をしませんでした。
+q: せんしゅう、ともだちがうちに___。 | きました | きます; きません; きませんでした | A friend came to my house last week. | | 先週、友達がうちに来ました。
+q: いっしょにコーヒーをのみ___か。 | ません | ます; ました; ませんでした | Why don't we have coffee together? | 〜ませんか is a polite invitation. | 一緒にコーヒーを飲みませんか。
+q: まいあさしんぶんを___。 | よみます | よめます; よみません; よみました | I read the newspaper every morning. | よめます means "can read". | 毎朝新聞を読みます。
+q: けさ、しちじに___。 | おきました | おきます; おきません; おきませんでした | I got up at seven this morning. | | 今朝、七時に起きました。
+
+@lesson plain-nai
+title: Plain forms: dictionary form and ない
+level: A2
+intro: Use the casual present of verbs, positive and negative.
+p: Every verb also has a **plain** (casual) form, used with family and friends and inside longer sentences. The plain present is simply the **dictionary form**: たべる "I eat", いく "I'll go". To strangers or a teacher it sounds blunt, so keep ます there.
+p: The plain negative ends in **ない** (nai). る-verbs drop る and add ない: たべる → たべない. う-verbs change their last kana to the a-sound and add ない: のむ → のまない, かく → かかない.
+p: Three traps: verbs ending in **う** take **わ**, not あ: かう → かわない. The negative of **ある** is just **ない**. The irregular verbs give **しない** (する) and **こない** (くる).
+p: In casual speech a question is usually made by raising your voice, without か: あしたもくる？ "Are you coming tomorrow too?"
+table: う-verbs: the last kana moves to the a-sound
+| ending | ない form | example |
+| う | わない | かう → かわない |
+| く | かない | かく → かかない |
+| ぐ | がない | およぐ → およがない |
+| す | さない | はなす → はなさない |
+| つ | たない | まつ → またない |
+| ぬ | なない | しぬ → しなない |
+| ぶ | ばない | あそぶ → あそばない |
+| む | まない | のむ → のまない |
+| る | らない | かえる → かえらない |
+table: る-verbs and the special verbs
+| dictionary form | ない form |
+| たべる | たべない |
+| みる | みない |
+| する | しない |
+| くる | こない |
+| ある | ない |
+e: まいにちコーヒーをのむ。 | mainichi kōhī o nomu. | I drink coffee every day. (casual) | 毎日コーヒーを飲む。
+e: きょうはがっこうにいかない。 | kyō wa gakkō ni ikanai. | I'm not going to school today. (casual) | 今日は学校に行かない。
+e: にくはたべない。 | niku wa tabenai. | I don't eat meat. (casual) | 肉は食べない。
+e: あしたもくる？ | ashita mo kuru? | Are you coming tomorrow too? (casual) | 明日も来る？
+e: おかねがない。 | okane ga nai. | I have no money. (casual) | お金がない。
+e: ぜんぜんわからない。 | zenzen wakaranai. | I don't understand at all. (casual) | 全然分からない。
+q: きょうはがっこうに___。 | いかない | いく; いった; いかなかった | I'm not going to school today. | いく → いかない. | 今日は学校に行かない。
+q: わたしはにくを___。 | たべない | たべる; たべた; たべなかった | I don't eat meat. | たべる is a る-verb: drop る, add ない. | 私は肉を食べない。
+q: このことばは___。 | しらない | しない; しる; しらなかった | I don't know this word. | しる is a う-verb: しらない. しない is the negative of する. | この言葉は知らない。
+q: きょう、ともだちはうちに___。 | こない | くる; きた; こなかった | My friend isn't coming to my house today. | くる is irregular: こない. | 今日、友達はうちに来ない。
+q: おかねが___。 | ない | ある; いない; なかった | I have no money. | The negative of ある is simply ない. | お金がない。
+q: かれはにほんごがぜんぜん___。 | わからない | わかる; わかない; わからなかった | He doesn't understand Japanese at all. | わかる is a う-verb: る becomes らない. | 彼は日本語が全然分からない。
+q: きょうはしゅくだいを___。 | しない | する; しらない; しなかった | I'm not doing my homework today. | する is irregular: しない. | 今日は宿題をしない。
+q: このパンは___。 | かわない | かう; かえない; かわなかった | I won't buy this bread. | Verbs ending in う take わ: かわない. かえない means "can't buy". | このパンは買わない。
+
+@lesson plain-past
+title: Plain past: た and なかった
+level: A2
+intro: Say what you did and didn't do, in casual speech.
+p: The plain past ends in **た** (ta) or **だ** (da). For る-verbs, drop る and add た: たべる → たべた, みる → みた.
+p: For う-verbs the last kana decides: う, つ and る become **った**; む, ぶ and ぬ become **んだ**; く becomes **いた**, ぐ becomes **いだ**, and す becomes **した**. The one exception is **いく → いった**. The irregular verbs give した (する) and きた (くる).
+p: For the past negative, take the ない form and change ない to **なかった**: たべない → たべなかった, いかない → いかなかった, ない → なかった.
+p: These are casual forms. With people you don't know well, use ました and ませんでした (lesson 8).
+table: The plain past of う-verbs
+| ending | past | example |
+| う, つ, る | った | かう → かった, まつ → まった, かえる → かえった |
+| む, ぶ, ぬ | んだ | のむ → のんだ, あそぶ → あそんだ, しぬ → しんだ |
+| く | いた | かく → かいた |
+| ぐ | いだ | およぐ → およいだ |
+| す | した | はなす → はなした |
+| いく (exception) | いった | いく → いった |
+table: The four plain forms
+| dictionary form | ない | た | なかった |
+| たべる | たべない | たべた | たべなかった |
+| のむ | のまない | のんだ | のまなかった |
+| いく | いかない | いった | いかなかった |
+| する | しない | した | しなかった |
+| くる | こない | きた | こなかった |
+| ある | ない | あった | なかった |
+e: きのうすしをたべた。 | kinō sushi o tabeta. | I ate sushi yesterday. (casual) | 昨日寿司を食べた。
+e: しゅうまつはともだちとあそんだ。 | shūmatsu wa tomodachi to asonda. | I hung out with friends at the weekend. (casual) | 週末は友達と遊んだ。
+e: けさはコーヒーをのまなかった。 | kesa wa kōhī o nomanakatta. | I didn't drink coffee this morning. (casual) | 今朝はコーヒーを飲まなかった。
+e: きのう、どこにいった？ | kinō, doko ni itta? | Where did you go yesterday? (casual) | 昨日、どこに行った？
+e: としょかんでほんをかりた。 | toshokan de hon o karita. | I borrowed a book from the library. (casual) | 図書館で本を借りた。
+e: やまださんはこなかった。 | yamada-san wa konakatta. | Ms Yamada didn't come. (casual) | 山田さんは来なかった。
+q: きのうえいがを___。 | みた | みる; みない; みなかった | I saw a movie yesterday. | みる is a る-verb: drop る, add た. | 昨日映画を見た。
+q: しゅうまつにてがみを___。 | かいた | かった; かいだ; かかなかった | I wrote a letter at the weekend. | く becomes いた. かった is the past of かう (buy). | 週末に手紙を書いた。
+q: けさ、コーヒーを___。 | のんだ | のった; のまない; のまなかった | I drank coffee this morning. | む becomes んだ. | 今朝、コーヒーを飲んだ。
+q: えきでともだちを___。 | まった | まつ; またない; またなかった | I waited for my friend at the station. | つ becomes った. | 駅で友達を待った。
+q: きのうはどこに___？ | いった | いた; いく; いかなかった | Where did you go yesterday? | いく is the exception: いった. いた means "was". | 昨日はどこに行った？
+q: きのう、としょかんでほんを___。 | よんだ | よった; よむ; よまなかった | I read a book at the library yesterday. | む becomes んだ. | 昨日、図書館で本を読んだ。
+q: ともだちが___。 | きた | くった; くる; こなかった | My friend came. | くる is irregular: きた. | 友達が来た。
+q: きのうはしゅくだいを___。 | しなかった | しない; した; しらなかった | I didn't do my homework yesterday. | Past negative: ない becomes なかった. | 昨日は宿題をしなかった。
+
+@lesson te-form
+title: The て-form
+level: A2
+intro: Make the て-form of any verb and use it to join actions.
+p: The **て-form** (te-form) is the most useful verb form after ます. On its own it joins actions: "do A and (then) B". In the next lessons it builds ています, てください and more.
+p: It is made exactly like the plain past (lesson 10), with **て** in place of た and **で** in place of だ: たべた → たべて, のんだ → のんで, かいた → かいて.
+p: The rules again: る-verbs drop る and add て. For う-verbs, う, つ, る → って; む, ぶ, ぬ → んで; く → いて; ぐ → いで; す → して. The exception is **いく → いって**. する → して, くる → きて.
+p: In a chain of actions only the last verb shows the tense and the politeness: あさおきて、シャワーをあびて、がっこうにいきました "I got up, took a shower and went to school".
+table: Making the て-form
+| verb ends in | て-form | example |
+| る (る-verb) | て | たべる → たべて, みる → みて |
+| う, つ, る | って | かう → かって, まつ → まって, かえる → かえって |
+| む, ぶ, ぬ | んで | のむ → のんで, あそぶ → あそんで, しぬ → しんで |
+| く | いて | かく → かいて |
+| ぐ | いで | およぐ → およいで |
+| す | して | はなす → はなして |
+| いく (exception) | いって | いく → いって |
+| する, くる | して, きて | する → して, くる → きて |
+e: あさおきて、かおをあらいます。 | asa okite, kao o araimasu. | In the morning I get up and wash my face. | 朝起きて、顔を洗います。
+e: スーパーにいって、パンをかいました。 | sūpā ni itte, pan o kaimashita. | I went to the supermarket and bought bread. | スーパーに行って、パンを買いました。
+e: うちにかえって、ばんごはんをたべました。 | uchi ni kaette, bangohan o tabemashita. | I went home and ate dinner. | うちに帰って、晩ご飯を食べました。
+e: ともだちとあって、コーヒーをのみました。 | tomodachi to atte, kōhī o nomimashita. | I met a friend and we had coffee. | 友達と会って、コーヒーを飲みました。
+e: としょかんでほんをよんで、レポートをかきました。 | toshokan de hon o yonde, repōto o kakimashita. | I read books at the library and wrote a report. | 図書館で本を読んで、レポートを書きました。
+e: うみでおよいで、ビールをのみました。 | umi de oyoide, bīru o nomimashita. | I swam in the sea and drank beer. | 海で泳いで、ビールを飲みました。
+q: デパートに___、くつをかいました。 | いって | いて; いきて; いった | I went to the department store and bought shoes. | いく is the exception: いって. いて comes from いる (be). | デパートに行って、靴を買いました。
+q: てがみを___、だしました。 | かいて | かって; かいで; かいた | I wrote a letter and posted it. | く becomes いて. かって comes from かう (buy). | 手紙を書いて、出しました。
+q: コーヒーを___、しんぶんをよみます。 | のんで | のって; のまないで; のんだ | I drink coffee and read the newspaper. | む becomes んで. | コーヒーを飲んで、新聞を読みます。
+q: ともだちと___、えいがをみました。 | あって | あいて; あった; あわないで | I met a friend and we watched a movie. | う becomes って. | 友達と会って、映画を見ました。
+q: うちに___、ねました。 | かえって | かえて; かえらないで; かえった | I went home and went to bed. | かえる (go home) is a う-verb: かえって. | うちに帰って、寝ました。
+q: プールで___、シャワーをあびました。 | およいで | およいだ; およがないで; およぐ | I swam in the pool and took a shower. | ぐ becomes いで. | プールで泳いで、シャワーを浴びました。
+q: せんせいと___、うちにかえりました。 | はなして | はなって; はなさないで; はなした | I talked with the teacher and went home. | す becomes して. | 先生と話して、うちに帰りました。
+q: あさ___、シャワーをあびます。 | おきて | おいて; おきた; おきないで | In the morning I get up and take a shower. | おきる is a る-verb: drop る, add て. | 朝起きて、シャワーを浴びます。
+
+@lesson te-imasu
+title: ています: ongoing actions and states
+level: A2
+intro: Say what is happening now, what you do regularly, and what state something is in.
+p: **て-form + います** describes an action going on right now, like English "-ing": いまテレビをみています "I am watching TV now".
+p: It also describes an ongoing situation such as a job or a habit: ぎんこうではたらいています "I work at a bank".
+p: With verbs that describe a change it gives the **state** after the change: けっこんする (get married) → けっこんしています "I am married", しる (get to know) → しっています "I know". すむ (live) works the same way: とうきょうにすんでいます "I live in Tokyo". The negative of しっています is **しりません**, not しっていません.
+p: Change the います part for the negative and the past: みていません "I'm not watching", みていました "I was watching". In casual speech the い often drops: みてる, しってる.
+table: Uses of ています
+| use | example | meaning |
+| action now | たべています | is eating |
+| job, habit | はたらいています | works (somewhere) |
+| state after a change | すんでいます, けっこんしています | lives (somewhere), is married |
+| negative | たべていません | is not eating |
+| past | たべていました | was eating |
+e: いま、なにをしていますか。 | ima, nani o shite imasu ka? | What are you doing now? | 今、何をしていますか。
+e: ほんをよんでいます。 | hon o yonde imasu. | I'm reading a book. | 本を読んでいます。
+e: あねはぎんこうではたらいています。 | ane wa ginkō de hataraite imasu. | My older sister works at a bank. | 姉は銀行で働いています。
+e: わたしはとうきょうにすんでいます。 | watashi wa tōkyō ni sunde imasu. | I live in Tokyo. | 私は東京に住んでいます。
+e: たなかさんはけっこんしています。 | tanaka-san wa kekkon shite imasu. | Mr Tanaka is married. | 田中さんは結婚しています。
+e: あめがふっています。 | ame ga futte imasu. | It is raining. | 雨が降っています。
+q: いま、テレビを___。 | みています | みます; みていました; みていません | I'm watching TV now. | An action going on now: ています. | 今、テレビを見ています。
+q: わたしはおおさかに___。 | すんでいます | すみます; すんでいました; すんでいません | I live in Osaka. | Where you live is a state: すんでいます. | 私は大阪に住んでいます。
+q: たなかさんのでんわばんごうを___か。 | しっています | しります; しっていました; しりました | Do you know Mr Tanaka's phone number? | "Know" is しっています. | 田中さんの電話番号を知っていますか。
+q: いいえ、___。 | しりません | しっていません; しりませんでした; しっています | No, I don't know. | The negative of しっています is しりません. | いいえ、知りません。
+q: あめが___。 | ふっています | ふります; ふっていません; ふりました | It is raining. | ふります would mean "it will rain". | 雨が降っています。
+q: あにはびょういんで___。 | はたらいています | はたらいていません; はたらいていました; はたらいてください | My older brother works at a hospital. | A job is described with ています. | 兄は病院で働いています。
+q: わたしはけっこん___。 | していません | しません; しています; しませんでした | I am not married. | Being married is a state: けっこんしています; not married: けっこんしていません. | 私は結婚していません。
+q: きのうのよる、なにを___か。 | していました | しています; します; しませんでした | What were you doing last night? | Past of ています: ていました. | 昨日の夜、何をしていましたか。
+
+@lesson te-kudasai
+title: Please, may I, must not: てください, てもいいです, てはいけません
+level: A2
+intro: Ask people to do something, ask for permission and say what is not allowed.
+p: **て-form + ください** (kudasai) is a polite request, "please do": まってください "Please wait". ちょっと makes it "just a moment": ちょっとまってください.
+p: **て-form + もいいです** gives permission, "you may". As a question it asks for permission: しゃしんをとってもいいですか "May I take a photo?" A friendly yes is はい、どうぞ "Yes, go ahead".
+p: **て-form + はいけません** means "you must not". The は is pronounced wa: すってはいけません (sutte wa ikemasen). It is strong, like a rule or a sign.
+p: To ask someone **not** to do something, use the ない form + **でください**: たべないでください "Please don't eat (it)".
+table: Requests and permission
+| pattern | meaning | example |
+| て-form + ください | please do | まってください |
+| ない form + でください | please don't | はいらないでください |
+| て-form + もいいです | you may | はいってもいいです |
+| て-form + もいいですか | may I? | すわってもいいですか |
+| て-form + はいけません | you must not | すってはいけません |
+e: ちょっとまってください。 | chotto matte kudasai. | Please wait a moment. | ちょっと待ってください。
+e: もういちどいってください。 | mō ichido itte kudasai. | Please say it once more. | もう一度言ってください。
+e: ここにすわってもいいですか。 | koko ni suwatte mo ii desu ka? | May I sit here? | ここに座ってもいいですか。
+e: しゃしんをとってもいいですか。 | shashin o totte mo ii desu ka? | May I take a photo? | 写真を撮ってもいいですか。
+e: ここでたばこをすってはいけません。 | koko de tabako o sutte wa ikemasen. | You must not smoke here. | ここでたばこを吸ってはいけません。
+e: このへやにはいらないでください。 | kono heya ni hairanaide kudasai. | Please don't go into this room. | この部屋に入らないでください。
+q: ちょっと___ください。 | まって | まった; まつ; またないで | Please wait a moment. | ください follows the て-form. | ちょっと待ってください。
+q: ここでしゃしんをとって___いいですか。 | も | は; を; が | May I take a photo here? | Permission: て-form + もいいですか. | ここで写真を撮ってもいいですか。
+q: ここでたばこをすって___いけません。 | は | も; を; が | You must not smoke here. | "Must not": て-form + はいけません (は is said wa). | ここでたばこを吸ってはいけません。
+q: ここに___もいいですか。 | すわって | すわる; すわった; すわらないで | May I sit here? | もいいです follows the て-form. | ここに座ってもいいですか。
+q: このへやに___ください。 | はいらないで | はいって; はいらなくて; はいらない | Please don't go into this room. | "Please don't": ない form + でください. | この部屋に入らないでください。
+q: もういちど___ください。 | いって | いった; いう; いわないで | Please say it once more. | いう (say) → いって. | もう一度言ってください。
+q: テストのとき、じしょをつかって___。 | はいけません | もいいです; ください; もいいですか | You must not use a dictionary during the test. | | テストの時、辞書を使ってはいけません。
+q: どうぞ、はいって___。 | ください | はいけません; もいいですか; いません | Please come in. | | どうぞ、入ってください。
+
+@lesson adjectives
+title: い-adjectives and な-adjectives
+level: A1
+intro: Describe things with adjectives in the present and the past, positive and negative.
+p: Japanese has two kinds of adjectives. **い-adjectives** end in い: たかい (expensive, high), おいしい (tasty). **な-adjectives** take な before a noun: しずかなへや "a quiet room", きれいなはな "a pretty flower".
+p: い-adjectives change their own ending. Negative: い → **くない**; past: い → **かった**; past negative: い → **くなかった**. Add です to be polite: たかいです, たかくないです, たかかったです. **いい** (good) changes to よ: よくない, よかった.
+p: Never put でした after an い-adjective: "it was cold" is さむかったです, not さむいでした.
+p: な-adjectives work like nouns with です: しずかです, しずかじゃありません, しずかでした, しずかじゃありませんでした. There is no な before です.
+p: Careful: **きれい** (pretty, clean) and **ゆうめい** (famous) end in い but are な-adjectives: きれいじゃありません, never きれくない.
+table: Adjective forms
+| | たかい (い-adjective) | いい (good) | しずか (な-adjective) |
+| present | たかいです | いいです | しずかです |
+| negative | たかくないです | よくないです | しずかじゃありません |
+| past | たかかったです | よかったです | しずかでした |
+| past negative | たかくなかったです | よくなかったです | しずかじゃありませんでした |
+| before a noun | たかいほん | いいほん | しずかなへや |
+e: このラーメンはおいしいです。 | kono rāmen wa oishii desu. | This ramen is delicious. | このラーメンはおいしいです。
+e: きのうはさむかったです。 | kinō wa samukatta desu. | It was cold yesterday. | 昨日は寒かったです。
+e: このかばんはたかくないです。 | kono kaban wa takaku nai desu. | This bag is not expensive. | このかばんは高くないです。
+e: このまちはしずかじゃありません。 | kono machi wa shizuka ja arimasen. | This town is not quiet. | この町は静かじゃありません。
+e: きのうはてんきがよかったです。 | kinō wa tenki ga yokatta desu. | The weather was good yesterday. | 昨日は天気がよかったです。
+e: えきのちかくにきれいなこうえんがあります。 | eki no chikaku ni kirei na kōen ga arimasu. | There is a beautiful park near the station. | 駅の近くにきれいな公園があります。
+q: このケーキはとても___です。 | おいしい | おいしく; おいしかった; おいしくない | This cake is very tasty. | | このケーキはとてもおいしいです。
+q: きのうはとても___です。 | あつかった | あつい; あつくない; あつくなかった | It was very hot yesterday. | Past of an い-adjective: い → かった, then です. | 昨日はとても暑かったです。
+q: このほんは___です。 | おもしろくない | おもしろい; おもしろかった; おもしろくなかった | This book is not interesting. | Negative: い → くない. | この本は面白くないです。
+q: きのうは___。 | さむかったです | さむいでした; さむいです; さむくないです | It was cold yesterday. | い-adjectives never take でした. | 昨日は寒かったです。
+q: このまちは___。 | しずかじゃありません | しずかです; しずかでした; しずかじゃありませんでした | This town is not quiet. | な-adjectives use じゃありません like nouns. | この町は静かじゃありません。
+q: やまださんは___ひとです。 | しんせつな | しんせつ; しんせつの; しんせつに | Ms Yamada is a kind person. | な-adjectives take な before a noun. | 山田さんは親切な人です。
+q: このへやは___。 | きれいじゃありません | きれくないです; きれいです; きれいでした | This room is not clean. | きれい is a な-adjective although it ends in い. | この部屋はきれいじゃありません。
+q: きのうはてんきが___です。 | よくなかった | よくない; よかった; いい | The weather was not good yesterday. | いい changes to よ: よくなかった. | 昨日は天気がよくなかったです。
+
+@lesson tai-hoshii
+title: Wanting: たい and ほしい
+level: A1
+intro: Say what you want to do with たい and what you want to have with ほしい.
+p: To say you want to **do** something, take the ます stem (lesson 7) and add **たい** (tai): のみます → **のみたい** "want to drink". Add です to be polite: のみたいです.
+p: たい changes like an い-adjective (lesson 14): のみたくないです "I don't want to drink", のみたかったです "I wanted to drink", のみたくなかったです "I didn't want to drink". The thing may take が or を: みずがのみたいです and みずをのみたいです are both correct.
+p: To say you want a **thing**, use **ほしい** (hoshii), also an い-adjective. The thing takes が: あたらしいくるまがほしいです "I want a new car".
+p: Both words describe your own wishes; for what someone else wants, Japanese uses other forms. Asking someone you don't know well "do you want to...?" with たいですか can sound too direct; an invitation with 〜ませんか (lesson 8) is more polite.
+table: たい and ほしい
+| | want to drink | want (a thing) |
+| present | のみたいです | ほしいです |
+| negative | のみたくないです | ほしくないです |
+| past | のみたかったです | ほしかったです |
+| past negative | のみたくなかったです | ほしくなかったです |
+e: つめたいみずがのみたいです。 | tsumetai mizu ga nomitai desu. | I want to drink some cold water. | 冷たい水が飲みたいです。
+e: にほんにいきたいです。 | nihon ni ikitai desu. | I want to go to Japan. | 日本に行きたいです。
+e: きょうはでかけたくないです。 | kyō wa dekaketaku nai desu. | I don't want to go out today. | 今日は出かけたくないです。
+e: なにがたべたいですか。 | nani ga tabetai desu ka? | What do you want to eat? | 何が食べたいですか。
+e: あたらしいパソコンがほしいです。 | atarashii pasokon ga hoshii desu. | I want a new computer. | 新しいパソコンが欲しいです。
+e: こどものとき、いぬがほしかったです。 | kodomo no toki, inu ga hoshikatta desu. | When I was a child, I wanted a dog. | 子供の時、犬が欲しかったです。
+q: にほんに___です。 | いきたい | いきたくない; いきたかった; いきたくなかった | I want to go to Japan. | ます stem + たい. | 日本に行きたいです。
+q: あたらしいくるまが___です。 | ほしい | ほしくない; ほしかった; ほしくなかった | I want a new car. | | 新しい車が欲しいです。
+q: こどものとき、いぬがほし___です。 | かった | い; くない; くなかった | When I was a child, I wanted a dog. | ほしい is an い-adjective: past ほしかった. | 子供の時、犬が欲しかったです。
+q: きょうはなにもたべ___です。 | たくない | たい; たかった; ない | I don't want to eat anything today. | なにも with a negative means "nothing". | 今日は何も食べたくないです。
+q: なに___のみたいですか。 | が | は; で; に | What do you want to drink? | With たい the thing you want may take が (を is also possible); a question word never takes は. | 何が飲みたいですか。
+q: はやくうちに___です。 | かえりたい | かえたい; かえりたくない; かえりたかった | I want to go home soon. | The ます stem of かえる (go home) is かえり. | 早くうちに帰りたいです。
+q: えいがをみたいですか。いいえ、あまり___。 | みたくないです | みたいです; みたかったです; みたくなかったです | Do you want to watch a movie? No, not really. | あまり with a negative means "not really". | 映画を見たいですか。いいえ、あまり見たくないです。

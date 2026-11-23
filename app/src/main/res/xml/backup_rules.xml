@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android 11 and older: progress is backed up; downloaded photos (too big) and the cloud-file permission
+     (sync.xml, cannot survive a reinstall) are not. -->
+<full-backup-content>
+    <exclude domain="sharedpref" path="sync.xml" />
+    <exclude domain="file" path="pictures/" />
+</full-backup-content>

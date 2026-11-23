@@ -1,0 +1,126 @@
+# German vocabulary for Alphabet Writer. Nouns carry their article (der, die, das), which shows the gender.
+# Columns: topic<TAB>picture<TAB>word<TAB>pronunciation in Cyrillic<TAB>meaning<TAB>(unused)<TAB>note (optional)
+greetings	👋	hallo	хало	hello
+greetings	🌅	guten Morgen	гутен морген	good morning
+greetings	🌙	guten Abend	гутен абент	good evening
+greetings	😴	gute Nacht	гуте нахт	good night
+greetings	🙏	danke	данке	thank you
+greetings	🤲	bitte	бите	please; you're welcome
+greetings	🙇	Entschuldigung	ентшулдигунг	excuse me; sorry
+greetings	✅	ja	я	yes
+greetings	❌	nein	найн	no
+greetings	🚶	auf Wiedersehen	ауф видерзеен	goodbye		Among friends: tschüss (чюс).
+greetings	😊	wie geht's?	ви гейтс?	how are you?
+greetings	🆗	gut	гут	good; fine
+greetings	🤝	freut mich	фройт мих	nice to meet you
+greetings	📛	der Name	дер наме	name
+greetings	❓	was	вас	what
+numbers	0	null	нул	zero
+numbers	1	eins	айнс	one
+numbers	2	zwei	цвай	two
+numbers	3	drei	драй	three
+numbers	4	vier	фир	four
+numbers	5	fünf	фюнф	five
+numbers	6	sechs	зекс	six
+numbers	7	sieben	зибен	seven
+numbers	8	acht	ахт	eight
+numbers	9	neun	нойн	nine
+numbers	10	zehn	цен	ten
+numbers	100	hundert	хундерт	hundred
+numbers	1000	tausend	таузент	thousand
+shopping	💶	das Geld	дас гелт	money
+shopping	🏷️	was kostet das?	вас костет дас?	how much is it?
+shopping	🛒	das Einkaufen	дас айнкауфен	shopping
+shopping	🏪	der Laden	дер ладен	shop		Also das Geschäft (дас гешефт).
+shopping	💳	die Karte	ди карте	card
+shopping	🧾	der Kassenbon	дер касенбон	receipt
+shopping	👕	das Hemd	дас хемт	shirt
+shopping	👟	die Schuhe	ди шуе	shoes
+shopping	👜	die Tasche	ди таше	bag
+shopping	💎	teuer	тойер	expensive
+shopping	🪙	billig	билих	cheap
+shopping	🤲	ich möchte	их мьохте	I would like
+shopping	📏	die Größe	ди грьосе	size
+food	💧	das Wasser	дас васер	water
+food	🍵	der Tee	дер те	tea
+food	☕	der Kaffee	дер кафе	coffee
+food	🍺	das Bier	дас бир	beer
+food	🍷	der Wein	дер вайн	wine
+food	🍞	das Brot	дас брот	bread
+food	🐟	der Fisch	дер фиш	fish
+food	🥩	das Fleisch	дас флайш	meat
+food	🥚	das Ei	дас ай	egg
+food	🍎	der Apfel	дер апфел	apple
+food	🧀	der Käse	дер кезе	cheese
+food	🫒	die Olive	ди оливе	olive
+food	🥗	der Salat	дер залат	salad
+food	😋	lecker	лекер	tasty
+travel	✈️	das Flugzeug	дас флугцойг	airplane
+travel	🚆	der Zug	дер цуг	train
+travel	🚌	der Bus	дер бус	bus
+travel	🚕	das Taxi	дас такси	taxi
+travel	🚢	das Schiff	дас шиф	ship
+travel	🚉	der Bahnhof	дер банхоф	railway station
+travel	🛫	der Flughafen	дер флугхафен	airport
+travel	🏨	das Hotel	дас хотел	hotel
+travel	🎫	die Fahrkarte	ди фаркарте	ticket
+travel	🛂	der Reisepass	дер райзепас	passport
+travel	🧳	der Koffer	дер кофер	suitcase
+travel	🗺️	die Landkarte	ди ланткарте	map
+travel	🚻	die Toilette	ди тоалете	toilet
+travel	⬅️	links	линкс	left
+travel	➡️	rechts	рехтс	right
+travel	⬆️	geradeaus	герадеаус	straight ahead
+travel	🏖️	der Strand	дер щрант	beach
+time	📅	heute	хойте	today
+time	⏭️	morgen	морген	tomorrow		With a capital and an article, der Morgen means "the morning".
+time	⏮️	gestern	гестерн	yesterday
+time	🌄	der Morgen	дер морген	morning
+time	🌞	der Mittag	дер митаг	noon
+time	🌆	der Abend	дер абент	evening
+time	🌃	die Nacht	ди нахт	night
+time	⌚	jetzt	йецт	now
+time	⏰	die Stunde	ди щунде	hour
+time	🗓️	die Woche	ди вохе	week
+family	👨‍👧	der Vater	дер фатер	father
+family	👩‍👦	die Mutter	ди мутер	mother
+family	👦	der Junge	дер юнге	boy
+family	👧	das Mädchen	дас медхен	girl
+family	👶	das Baby	дас бейби	baby
+family	👫	der Freund	дер фройнт	friend		A female friend: die Freundin (ди фройндин).
+family	👪	die Familie	ди фамилие	family
+family	👴	der Großvater	дер гросфатер	grandfather		Informally: der Opa (дер опа).
+family	👵	die Großmutter	ди гросмутер	grandmother		Informally: die Oma (ди ома).
+family	🧑‍🏫	der Lehrer	дер лерер	teacher		A female teacher: die Lehrerin (ди лерерин).
+family	🧍	der Mensch	дер менш	person
+colours	🔴	rot	рот	red
+colours	🔵	blau	блау	blue
+colours	🟢	grün	грюн	green
+colours	🟡	gelb	гелп	yellow
+colours	⚫	schwarz	шварц	black
+colours	⚪	weiß	вайс	white
+colours	🟣	lila	лила	purple
+colours	🟠	orange	оранже	orange
+colours	🟤	braun	браун	brown
+colours	🩷	rosa	роза	pink
+weather	☀️	die Sonne	ди зоне	sun
+weather	🌧️	der Regen	дер реген	rain
+weather	❄️	der Schnee	дер шне	snow
+weather	☁️	die Wolke	ди волке	cloud
+weather	💨	der Wind	дер винт	wind
+weather	🥵	heiß	хайс	hot
+weather	🥶	kalt	калт	cold
+weather	☂️	der Regenschirm	дер регенширм	umbrella
+weather	⛈️	das Gewitter	дас гевитер	thunderstorm
+weather	🌈	der Regenbogen	дер регенбоген	rainbow
+animals	🐶	der Hund	дер хунт	dog
+animals	🐱	die Katze	ди каце	cat
+animals	🐦	der Vogel	дер фогел	bird
+animals	🐴	das Pferd	дас пферт	horse
+animals	🐮	die Kuh	ди ку	cow
+animals	🐷	das Schwein	дас швайн	pig
+animals	🐭	die Maus	ди маус	mouse
+animals	🐰	das Kaninchen	дас канинхен	rabbit
+animals	🐻	der Bär	дер бер	bear
+animals	🐵	der Affe	дер афе	monkey
+animals	🐘	der Elefant	дер елефант	elephant

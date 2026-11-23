@@ -1,0 +1,126 @@
+# Bulgarian vocabulary for Alphabet Writer.
+# Columns: topic<TAB>picture<TAB>word<TAB>transliteration<TAB>meaning<TAB>(unused)<TAB>note (optional)
+greetings	👋	здравей	zdravey	hello; hi		To several people, or politely: здравейте (zdraveyte).
+greetings	🌅	добро утро	dobro utro	good morning
+greetings	🌙	добър вечер	dobar vecher	good evening
+greetings	😴	лека нощ	leka nosht	good night
+greetings	🙏	благодаря	blagodarya	thank you
+greetings	🤲	моля	molya	please; you're welcome
+greetings	🙇	извинете	izvinete	excuse me; sorry
+greetings	✅	да	da	yes		Many Bulgarians shake the head for yes and nod for no.
+greetings	❌	не	ne	no
+greetings	🚶	довиждане	dovizhdane	goodbye
+greetings	😊	как си?	kak si?	how are you?
+greetings	🆗	добре	dobre	fine; well
+greetings	🤝	приятно ми е	priyatno mi e	nice to meet you
+greetings	📛	име	ime	name
+greetings	❓	какво	kakvo	what
+numbers	0	нула	nula	zero
+numbers	1	едно	edno	one
+numbers	2	две	dve	two
+numbers	3	три	tri	three
+numbers	4	четири	chetiri	four
+numbers	5	пет	pet	five
+numbers	6	шест	shest	six
+numbers	7	седем	sedem	seven
+numbers	8	осем	osem	eight
+numbers	9	девет	devet	nine
+numbers	10	десет	deset	ten
+numbers	100	сто	sto	hundred
+numbers	1000	хиляда	hilyada	thousand
+shopping	💶	пари	pari	money
+shopping	🏷️	колко струва?	kolko struva?	how much is it?
+shopping	🛒	пазаруване	pazaruvane	shopping
+shopping	🏪	магазин	magazin	shop
+shopping	💳	банкова карта	bankova karta	bank card
+shopping	🧾	касова бележка	kasova belezhka	receipt
+shopping	👕	риза	riza	shirt
+shopping	👟	обувки	obuvki	shoes
+shopping	👜	чанта	chanta	bag
+shopping	💎	скъпо	skapo	expensive
+shopping	🪙	евтино	evtino	cheap
+shopping	🤲	бих искал	bih iskal	I would like		A woman says: бих искала (bih iskala).
+shopping	📏	размер	razmer	size
+food	💧	вода	voda	water
+food	🍵	чай	chay	tea
+food	☕	кафе	kafe	coffee
+food	🍺	бира	bira	beer
+food	🍷	вино	vino	wine
+food	🍞	хляб	hlyab	bread
+food	🐟	риба	riba	fish
+food	🥩	месо	meso	meat
+food	🥚	яйце	yaytse	egg
+food	🍎	ябълка	yabalka	apple
+food	🧀	сирене	sirene	(white) cheese		Yellow cheese is кашкавал (kashkaval).
+food	🫒	маслина	maslina	olive
+food	🥗	салата	salata	salad
+food	😋	вкусно	vkusno	tasty
+travel	✈️	самолет	samolet	airplane
+travel	🚆	влак	vlak	train
+travel	🚌	автобус	avtobus	bus
+travel	🚕	такси	taksi	taxi
+travel	🚢	кораб	korab	ship
+travel	🚉	гара	gara	railway station
+travel	🛫	летище	letishte	airport
+travel	🏨	хотел	hotel	hotel
+travel	🎫	билет	bilet	ticket
+travel	🛂	паспорт	pasport	passport
+travel	🧳	куфар	kufar	suitcase
+travel	🗺️	карта	karta	map
+travel	🚻	тоалетна	toaletna	toilet
+travel	⬅️	наляво	nalyavo	left
+travel	➡️	надясно	nadyasno	right
+travel	⬆️	направо	napravo	straight ahead
+travel	🏖️	плаж	plazh	beach
+time	📅	днес	dnes	today
+time	⏭️	утре	utre	tomorrow
+time	⏮️	вчера	vchera	yesterday
+time	🌄	сутрин	sutrin	morning
+time	🌞	обед	obed	noon; lunch
+time	🌆	вечер	vecher	evening
+time	🌃	нощ	nosht	night
+time	⌚	сега	sega	now
+time	⏰	час	chas	hour
+time	🗓️	седмица	sedmitsa	week
+family	👨‍👧	баща	bashta	father
+family	👩‍👦	майка	mayka	mother
+family	👦	момче	momche	boy
+family	👧	момиче	momiche	girl
+family	👶	бебе	bebe	baby
+family	👫	приятел	priyatel	friend		A female friend: приятелка (priyatelka).
+family	👪	семейство	semeystvo	family
+family	👴	дядо	dyado	grandfather
+family	👵	баба	baba	grandmother
+family	🧑‍🏫	учител	uchitel	teacher		A female teacher: учителка (uchitelka).
+family	🧍	човек	chovek	person
+colours	🔴	червен	cherven	red
+colours	🔵	син	sin	blue
+colours	🟢	зелен	zelen	green
+colours	🟡	жълт	zhalt	yellow
+colours	⚫	черен	cheren	black
+colours	⚪	бял	byal	white
+colours	🟣	лилав	lilav	purple
+colours	🟠	оранжев	oranzhev	orange
+colours	🟤	кафяв	kafyav	brown
+colours	🩷	розов	rozov	pink
+weather	☀️	слънце	slantse	sun
+weather	🌧️	дъжд	dazhd	rain
+weather	❄️	сняг	snyag	snow
+weather	☁️	облак	oblak	cloud
+weather	💨	вятър	vyatar	wind
+weather	🥵	горещо	goreshto	hot
+weather	🥶	студено	studeno	cold
+weather	☂️	чадър	chadar	umbrella
+weather	⛈️	буря	burya	storm
+weather	🌈	дъга	daga	rainbow
+animals	🐶	куче	kuche	dog
+animals	🐱	котка	kotka	cat
+animals	🐦	птица	ptitsa	bird
+animals	🐴	кон	kon	horse
+animals	🐮	крава	krava	cow
+animals	🐷	прасе	prase	pig
+animals	🐭	мишка	mishka	mouse
+animals	🐰	заек	zaek	rabbit
+animals	🐻	мечка	mechka	bear
+animals	🐵	маймуна	maymuna	monkey
+animals	🐘	слон	slon	elephant

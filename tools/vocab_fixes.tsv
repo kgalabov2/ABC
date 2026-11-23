@@ -1,0 +1,509 @@
+# Hand-checked fixes for the most common words, applied by build_vocab.py.
+# Wiktionary describes function words by their grammar ("Short form of the first-person singular pronoun…") and a
+# frequency list cannot tell homographs apart (French "est" is "is", not "east"), so the top words are checked by hand.
+# language<TAB>word (the lemma, without article)<TAB>meaning to show, or "-" to leave the word out
+# [<TAB>part of speech: use only this entry of the word, e.g. pas as the adverb "not", not the noun "step"]
+# [<TAB>written form, when the article cannot be worked out: i soldi]
+de	werden	to become; will
+de	können	can, to be able to
+de	für	for
+de	sich	oneself, himself, herself, themselves
+de	als	as, than; when
+de	am	at the, on the
+de	nun	now; well
+de	Leid	sorrow, harm (es tut mir leid: I'm sorry)
+de	Leute	people
+de	stellen	to put, to place
+de	Arbeit	work
+de	gerne	gladly, with pleasure
+de	gern	gladly, with pleasure
+de	so	so, like this
+de	noch	still, yet
+de	nur	only, just
+de	weg	away, gone
+de	ja	yes
+de	mal	times, once; just
+de	mehr	more
+de	richtig	right, correct
+de	gerade	just, right now; straight
+de	sicher	sure, safe
+de	klar	clear; sure
+de	einfach	simple; simply
+de	wohl	probably; well
+de	doch	but; yes (contradicting)
+de	da	there; since
+de	denn	because; then (in questions)
+de	wo	where
+de	allein	alone
+de	gleich	same; right away
+de	recht	right; quite
+de	erst	first; only
+de	halt	stop!; just
+de	gar	at all
+de	ob	whether, if
+de	selbst	oneself; even
+de	paar	a few, a couple
+de	schön	beautiful, nice
+de	fahren	to drive, to go (by vehicle)
+de	dürfen	may, to be allowed to
+de	ab	from, off
+de	durch	through
+de	her	here (towards the speaker)
+de	hin	there (away from the speaker)
+de	dabei	there, with it; in doing so
+de	dank	thanks to
+de	ne	no; right?
+de	lange	long, for a long time
+de	dafür	for it, for that
+de	rein	in, inside; pure
+de	stimmt	that's right
+de	einzig	only, single
+de	kurz	short; briefly
+de	fertig	ready, finished
+de	schlecht	bad; badly
+de	weiter	further, on
+de	Sache	thing, matter
+de	es	it
+de	ihr	you (plural); her
+de	Ihr	your (polite)
+de	einer	one, someone
+de	sein	to be; his
+de	brauchen	to need
+de	bitten	to ask, to request
+de	bringen	to bring
+de	zurück	back
+de	davon	of it, from it
+de	dazu	to it, in addition
+de	bedeuten	to mean
+de	eigen	own
+de	schicken	to send
+de	ziemlich	quite, rather
+de	umbringen	to kill
+de	sorgen	to take care of; to worry (sich sorgen)
+de	genug	enough
+de	lieben	to love
+de	wichtig	important
+de	verschwinden	to disappear
+de	einen	-
+de	frau	-
+de	Habe	-
+de	Hast	-
+de	Muss	-
+de	Leut	-
+de	Er	-
+de	Letzter	-
+de	tagen	-
+de	stunden	-
+de	losen	-
+de	malen	-
+de	schonen	-
+de	weißen	-
+de	zeit	-
+de	Es	-
+de	Bis	-
+de	Ich	-
+de	Du	-
+de	Ja	-
+de	Aber	-
+de	Wenn	-
+de	Nein	-
+de	Wie	-
+de	Was	-
+de	Warum	-
+de	Hier	-
+de	Jetzt	-
+de	Doch	-
+de	Und	-
+de	Oder	-
+de	Nun	-
+fr	le	the (masculine); him, it
+fr	la	the (feminine); her, it
+fr	un	a, an; one
+fr	de	of, from
+fr	que	that, what, than
+fr	du	of the; some
+fr	en	in; some, of it
+fr	se	oneself, himself, herself
+fr	pas	not (ne … pas)	adv
+fr	y	there
+fr	dit	said
+fr	là	there
+fr	allez	come on!; go
+fr	parce	because (parce que)
+fr	gens	people
+fr	monsieur	sir, mister, gentleman
+fr	papa	dad
+fr	eh	hey, eh
+fr	pendant	during
+fr	certain	certain, some
+fr	quitter	to leave
+fr	tiens	here!, well!
+fr	génial	great, brilliant
+fr	merci	thank you
+fr	monde	world; people	noun
+fr	maison	house, home	noun
+fr	beau	beautiful, handsome
+fr	fin	end; thin, fine
+fr	type	guy; type
+fr	genre	kind, sort; like
+fr	côté	side
+fr	droit	right; straight
+fr	fait	fact; done
+fr	mort	dead; death
+fr	salut	hi!; bye!
+fr	bonjour	hello, good morning
+fr	accord	agreement (d'accord: OK)
+fr	argent	money; silver
+fr	super	great, super
+fr	désolé	sorry
+fr	importer	to matter; to import
+fr	tenir	to hold
+fr	partir	to leave, to go
+fr	ouais	yeah
+fr	puis	then
+fr	assez	enough; quite
+fr	juste	just; fair
+fr	aussi	also, too
+fr	peu	little, not much
+fr	personne	nobody; person
+fr	seul	alone, only
+fr	vu	seen
+fr	mal	badly; pain, evil
+fr	mieux	better
+fr	vie	life
+fr	eau	water
+fr	œil	eye
+fr	truc	thing, trick
+fr	chance	luck, chance
+fr	moins	less
+fr	changer	to change
+fr	essayer	to try
+fr	gars	guy, lad
+fr	tant	so much
+fr	souvenir	to remember (se souvenir); memory
+fr	occuper	to take care of (s'occuper de); to occupy
+fr	sentir	to feel; to smell
+fr	rendre	to give back; to make
+fr	donner	to give
+fr	penser	to think
+fr	je	I
+fr	être	to be
+fr	ce	this, that, it
+fr	à	to, at, in
+fr	VA	-
+fr	Monsieur	-
+fr	désoler	-
+fr	bonne	-
+fr	fem	-
+fr	hé	-
+fr	seoir	-
+fr	dan	-
+fr	as	-
+fr	une	-
+fr	est	-
+it	di	of, from
+it	che	that, what, which
+it	uno	a, an; one
+it	lo	the; him, it
+it	la	the (feminine); her
+it	il	the (masculine)
+it	a	to, at, in
+it	si	oneself; one (impersonal)
+it	ci	us; there
+it	dire	to say, to tell
+it	dovere	must, to have to; duty
+it	come	how; like, as
+it	tuo	your, yours
+it	mio	my, mine
+it	suo	his, her, its
+it	solo	only; alone
+it	al	to the, at the
+it	gli	the (masculine plural); to him
+it	ora	now; hour
+it	ne	of it, of them
+it	sì	yes
+it	altro	other, another
+it	alla	to the, at the
+it	più	more
+it	sia	both; be (subjunctive)
+it	signore	sir, mister; lord	noun
+it	fa	ago; does
+it	uomo	man	noun
+it	mi	me, to me; myself
+it	proprio	really, just; own
+it	vi	you, to you (plural); there
+it	li	them; there
+it	dio	god
+it	dai	come on!
+it	tipo	type, kind; like
+it	ce	there (ce n'è)
+it	sangue	blood
+it	grande	big, great
+it	gente	people	noun
+it	amico	friend	noun
+it	minuto	minute
+it	secondo	second; according to
+it	male	badly; evil, pain
+it	polizia	police
+it	cui	whom, which
+it	qualche	some, a few
+it	dal	from the, since
+it	tanto	so much, a lot
+it	grazie	thank you
+it	piano	slowly; floor; piano
+it	ecco	here it is!, there you go
+it	stato	state
+it	caso	case; chance
+it	certo	certainly, of course
+it	quanto	how much, how many
+it	guardare	to look at, to watch
+it	forse	maybe, perhaps
+it	ricordare	to remember
+it	giocare	to play
+it	subito	at once, immediately
+it	mandare	to send
+it	mah	well… (doubt)
+it	immaginare	to imagine
+it	interessare	to interest
+it	cominciare	to begin, to start
+it	ricevere	to receive
+it	decidere	to decide
+it	permettere	to allow
+it	liberare	to free
+it	telefonare	to phone
+it	io	I
+it	ha	-
+it	so	-
+it	perca	-
+it	ti	-
+it	ché	-
+it	figliare	-
+it	cazzare	-
+it	amicarsi	-
+it	cosare	-
+it	ideare	-
+it	mondare	-
+it	testare	-
+it	farlo	-
+it	AI	-
+it	Dottore	-
+el	θα	will (future particle)
+el	να	to, that (particle before verbs)
+el	μου	my; me
+el	μπορώ	can, to be able
+el	πρέπει	must, to have to
+el	τη	the (feminine); her
+el	δε	not (= δεν)
+el	ας	let (let's)
+el	μέχρι	until, up to
+el	άνδρας	man (formal)
+el	το	the (neuter); it
+el	τα	the (plural); them
+el	τον	the (masculine); him
+el	την	the (feminine); her
+el	του	of the; his, him
+el	της	of the; her
+el	τους	their; them
+el	τις	the (feminine plural); them
+el	σε	in, at, to; you
+el	με	with; me
+el	σου	your; you
+el	έλα	come!; come on
+el	φίλος	friend
+el	μόνο	only
+el	δυο	two
+el	καιρός	weather; time
+el	λόγος	reason; word, speech
+el	όλο	all, whole; always
+el	χρόνια	years
+el	συγγνώμη	sorry, excuse me
+el	παρακαλώ	please; you're welcome
+el	ευχαριστώ	thank you; to thank
+el	κύριε	sir (addressing a man)
+el	χέρι	hand, arm
+el	είδος	kind, type
+el	βράδυ	evening, night
+el	δίκιο	right (έχεις δίκιο: you're right)
+el	εγώ	I
+el	εντάξει	OK, all right
+el	δικός	own (δικός μου: mine)
+el	αρέσω	to please (μου αρέσει: I like)
+el	όμως	but, however
+el	κόσμος	world; people
+el	πρόβλημα	problem
+el	αφήνω	to leave, to let
+el	σίγουρα	certainly, surely
+el	βρίσκομαι	to be (somewhere)
+el	εαυτός	oneself
+el	σοβαρός	serious
+el	δείχνω	to show
+el	φοβάμαι	to be afraid
+el	μάλιστα	yes, indeed; especially
+el	αμέσως	immediately
+el	πια	any more, no longer
+el	σημαντικός	important
+el	ορίστε	here you are; pardon?
+el	ώστε	so that
+el	χρησιμοποιώ	to use
+el	υπέροχος	wonderful
+el	δηλαδή	that is, namely
+el	βέβαια	of course
+el	γονέας	parent
+el	ΝΑ	-
+el	κ.	-
+el	πας	-
+el	χρόνιος	-
+el	συμβαίνω	-
+bg	да	to, that (particle before verbs); yes
+bg	е	is; eh
+bg	не	not, no
+bg	се	oneself (reflexive particle)
+bg	на	on, at; of, to
+bg	си	oneself (to oneself); you are
+bg	за	for, about
+bg	ще	will (future particle)
+bg	в	in, into, at
+bg	ли	(question particle)
+bg	това	this, that, it
+bg	ти	you (singular)
+bg	от	from, of; since
+bg	с	with
+bg	ми	me, to me; my
+bg	го	him, it
+bg	този	this (masculine)
+bg	те	they; you (object)
+bg	ме	me
+bg	а	and, but, while
+bg	по	on, along, by, about
+bg	му	him, to him; his
+bg	ни	us, to us; our
+bg	я	her, it
+bg	мене	me
+bg	тебе	you
+bg	мога	can, to be able to
+bg	ги	them
+bg	ви	you, to you (plural); your
+bg	Ви	you (polite)
+bg	нали	right? isn't it?
+bg	толкова	so much, so many
+bg	него	him
+bg	вие	you (plural)
+bg	им	them, to them; their
+bg	нас	us
+bg	нея	her
+bg	тях	them
+bg	онзи	that (one) (masculine)
+bg	приятел	friend
+bg	какъв	what, what kind of
+bg	Вас	you (polite)
+bg	вас	you (plural)
+bg	бе	hey (in address); was
+bg	пък	and, but; then again
+bg	коя	which, who (feminine)
+bg	де	where; come on (particle)
+bg	надявам	to hope (надявам се)
+bg	радвам	to be glad (радвам се)
+bg	о	oh
+bg	нещо	something
+bg	хората	people
+bg	край	end; edge; by
+bg	повече	more
+bg	мъж	man; husband
+bg	дали	whether, if
+bg	стига	enough!
+bg	у	at (someone's place)
+bg	хубаво	nicely; good, fine
+bg	прав	right, correct; straight
+bg	свят	world; holy
+bg	май	it seems; May
+bg	такова	such (neuter); thingamajig
+bg	син	son; blue
+bg	предвид	in view of (имам предвид: I mean)
+bg	цял	whole, entire
+bg	наред	in order, all right
+bg	правя	to do, to make
+bg	разбирам	to understand
+bg	такъв	such
+bg	възможно	possible; possibly
+bg	бърз	fast, quick
+bg	кола	car
+bg	съвсем	completely
+bg	тръгвам	to set off, to leave
+bg	тръгна	to set off, to leave
+bg	въпреки	despite
+bg	насам	this way, over here
+bg	убия	to kill
+bg	разбера	to understand
+bg	помогна	to help
+bg	спра	to stop
+bg	жъна	-
+bg	видим	-
+bg	добра	-
+bg	връв	-
+fr	mademoiselle	miss, young lady
+de	Mal	time, occasion (das erste Mal)
+de	Sage	-
+it	volto	face	noun
+el	θείος	uncle	noun
+el	κύριος	Mr; lord, master	noun
+it	sei	six; you are (essere)
+it	era	-
+it	ero	-
+it	sulla	-
+it	credo	-
+it	soldi	money	noun	i soldi
+it	pronto	ready; hello (on the phone)
+it	forza	strength, force	noun
+it	occhio	eye	noun
+it	mezzo	half; middle
+it	fuoco	fire	noun
+it	attenzione	attention	noun
+de	Soll	-
+de	Gute	-
+de	Würde	-
+de	alle	all, everyone
+fr	prêt	ready	adj
+fr	petit	small	adj
+fr	vieux	old	adj
+fr	fou	mad, crazy	adj
+fr	madame	madam, Mrs
+fr	bon	good; well	adj
+fr	minute	minute	noun
+fr	attention	attention; watch out!	noun
+fr	compris	understood
+fr	service	service	noun
+fr	sérieux	serious	adj
+el	καλός	good	adj
+el	τρελός	crazy	adj
+bg	седмица	week
+bg	късмет	luck	noun
+it	ottimo	excellent	adj
+it	possibile	possible	adj
+it	nero	black	adj
+it	topi	-
+de	der	the (der, die, das)
+bg	ела	come! (here)	intj
+el	παιδιά	-
+it	mani	-
+it	amo	-
+it	stia	-
+it	possa	-
+it	do	-
+it	bisogna	-
+fr	aura	-
+fr	laisse	-
+fr	donne	-
+fr	mets	-
+fr	oublie	-
+fr	bouge	-
+de	Weiß	-
+de	Warte	-
+de	Denke	-
+de	Tage	-
+bg	било	-
+bg	права	-
+bg	чувал	-
+bg	става	-
+el	είναι	-
+de	lass	-
+de	Lieber	-

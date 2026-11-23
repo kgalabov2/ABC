@@ -1,0 +1,126 @@
+# Greek vocabulary for Alphabet Writer.
+# Columns: topic<TAB>picture (emoji or digits)<TAB>word<TAB>reading<TAB>meaning<TAB>(unused)<TAB>note (optional)<TAB>text for speech (optional)
+# Readings use the app's convention: dh = th in "this", gh = soft g, h = Bulgarian х, y = й; the accent marks the stress.
+greetings	👋	γεια σου	ya su	hi; bye (to one friend)		To several people, or politely: γεια σας (ya sas).
+greetings	🌅	καλημέρα	kaliméra	good morning
+greetings	🌙	καλησπέρα	kalispéra	good evening
+greetings	😴	καληνύχτα	kaliníhta	good night
+greetings	🙏	ευχαριστώ	efharistó	thank you
+greetings	🤲	παρακαλώ	parakaló	please; you're welcome
+greetings	🙇	συγγνώμη	sighnómi	sorry; excuse me
+greetings	✅	ναι	ne	yes		Careful: it sounds like Bulgarian "не" (no), but means yes.
+greetings	❌	όχι	óhi	no
+greetings	🚶	αντίο	andío	goodbye
+greetings	😊	τι κάνεις;	ti kánis?	how are you?		The Greek question mark is ; (it looks like a semicolon).
+greetings	🆗	καλά	kalá	fine; well
+greetings	🤝	χαίρω πολύ	héro polí	nice to meet you		When parting after meeting someone: χάρηκα (hárika), "it was nice meeting you".
+greetings	📛	όνομα	ónoma	name
+greetings	❓	τι	ti	what
+numbers	0	μηδέν	midhén	zero
+numbers	1	ένα	éna	one
+numbers	2	δύο	dhío	two
+numbers	3	τρία	tría	three
+numbers	4	τέσσερα	tésera	four
+numbers	5	πέντε	pénde	five
+numbers	6	έξι	éksi	six
+numbers	7	επτά	eptá	seven		Also εφτά (eftá).
+numbers	8	οκτώ	októ	eight		Also οχτώ (ohtó).
+numbers	9	εννέα	enéa	nine		Also εννιά (enyá).
+numbers	10	δέκα	dhéka	ten
+numbers	100	εκατό	ekató	hundred
+numbers	1000	χίλια	hílya	thousand
+shopping	💶	λεφτά	leftá	money		The everyday word; formal: χρήματα (hrímata).
+shopping	🏷️	πόσο κάνει;	póso káni?	how much is it?
+shopping	🛒	ψώνια	psónya	shopping; groceries
+shopping	🏪	μαγαζί	maghazí	shop
+shopping	💳	κάρτα	kárta	card
+shopping	🧾	απόδειξη	apódhiksi	receipt
+shopping	👕	πουκάμισο	pukámiso	shirt
+shopping	👟	παπούτσια	papútsya	shoes
+shopping	👜	τσάντα	tsánda	bag
+shopping	💎	ακριβό	akrivó	expensive
+shopping	🪙	φτηνό	ftinó	cheap
+shopping	🤲	θα ήθελα	tha íthela	I would like
+shopping	📏	μέγεθος	méyethos	size
+food	💧	νερό	neró	water
+food	🍵	τσάι	tsái	tea
+food	☕	καφές	kafés	coffee
+food	🍺	μπύρα	bíra	beer
+food	🍷	κρασί	krasí	wine
+food	🍞	ψωμί	psomí	bread
+food	🐟	ψάρι	psári	fish
+food	🥩	κρέας	kréas	meat
+food	🥚	αυγό	avghó	egg
+food	🍎	μήλο	mílo	apple
+food	🧀	τυρί	tirí	cheese
+food	🫒	ελιά	elyá	olive
+food	🥗	σαλάτα	saláta	salad
+food	😋	νόστιμο	nóstimo	tasty
+travel	✈️	αεροπλάνο	aeropláno	airplane
+travel	🚆	τρένο	tréno	train
+travel	🚌	λεωφορείο	leoforío	bus
+travel	🚕	ταξί	taksí	taxi
+travel	🚢	πλοίο	plío	ship; ferry
+travel	🛫	αεροδρόμιο	aerodhrómio	airport
+travel	🏨	ξενοδοχείο	ksenodhohío	hotel
+travel	🎫	εισιτήριο	isitírio	ticket
+travel	🛂	διαβατήριο	dhiavatírio	passport
+travel	🧳	βαλίτσα	valítsa	suitcase
+travel	🗺️	χάρτης	hártis	map
+travel	🚻	τουαλέτα	tualéta	toilet
+travel	⬅️	αριστερά	aristerá	left
+travel	➡️	δεξιά	dheksyá	right
+travel	⬆️	ευθεία	efthía	straight ahead
+travel	🏖️	παραλία	paralía	beach
+time	📅	σήμερα	símera	today
+time	⏭️	αύριο	ávrio	tomorrow
+time	⏮️	χθες	hthes	yesterday		Also χτες (htes).
+time	🌄	πρωί	proí	morning
+time	🌞	μεσημέρι	mesiméri	noon
+time	🌆	βράδυ	vrádhi	evening
+time	🌃	νύχτα	níhta	night
+time	⌚	τώρα	tóra	now
+time	⏰	ώρα	óra	hour; time
+time	🗓️	εβδομάδα	evdhomádha	week
+family	👨‍👧	πατέρας	patéras	father
+family	👩‍👦	μητέρα	mitéra	mother
+family	👦	αγόρι	aghóri	boy
+family	👧	κορίτσι	korítsi	girl
+family	👶	μωρό	moró	baby
+family	👫	φίλος	fílos	friend		A female friend: φίλη (fíli).
+family	👪	οικογένεια	ikoyénya	family
+family	👴	παππούς	papús	grandfather
+family	👵	γιαγιά	yayá	grandmother
+family	🧑‍🏫	δάσκαλος	dháskalos	teacher		A female teacher: δασκάλα (dhaskála).
+family	🧍	άνθρωπος	ánthropos	person
+colours	🔴	κόκκινο	kókino	red
+colours	🔵	μπλε	ble	blue
+colours	🟢	πράσινο	prásino	green
+colours	🟡	κίτρινο	kítrino	yellow
+colours	⚫	μαύρο	mávro	black
+colours	⚪	άσπρο	áspro	white
+colours	🟣	μωβ	mov	purple
+colours	🟠	πορτοκαλί	portokalí	orange
+colours	🟤	καφέ	kafé	brown
+colours	🩷	ροζ	roz	pink
+weather	☀️	ήλιος	ílyos	sun
+weather	🌧️	βροχή	vrohí	rain
+weather	❄️	χιόνι	hyóni	snow
+weather	☁️	σύννεφο	sínefo	cloud
+weather	💨	αέρας	aéras	wind
+weather	🥵	ζέστη	zésti	heat		Κάνει ζέστη (káni zésti) = it's hot.
+weather	🥶	κρύο	krío	cold		Κάνει κρύο (káni krío) = it's cold.
+weather	☂️	ομπρέλα	ombréla	umbrella
+weather	⛈️	καταιγίδα	kateyídha	storm
+weather	🌈	ουράνιο τόξο	uránio tókso	rainbow
+animals	🐶	σκύλος	skílos	dog
+animals	🐱	γάτα	gháta	cat
+animals	🐦	πουλί	pulí	bird
+animals	🐴	άλογο	álogho	horse
+animals	🐮	αγελάδα	ayeládha	cow
+animals	🐷	γουρούνι	ghurúni	pig
+animals	🐭	ποντίκι	pondíki	mouse
+animals	🐰	κουνέλι	kunéli	rabbit
+animals	🐻	αρκούδα	arkúdha	bear
+animals	🐵	μαϊμού	maimú	monkey
+animals	🐘	ελέφαντας	eléfandas	elephant

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android 12 and newer.
+     Cloud backup: progress only. Downloaded photos are left out (Android's cloud backup stops working above
+     25 MB) and so is the cloud-file permission (sync.xml), which cannot survive a reinstall.
+     Phone-to-phone transfer: everything except sync.xml, so the photos come along. -->
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="sharedpref" path="sync.xml" />
+        <exclude domain="file" path="pictures/" />
+    </cloud-backup>
+    <device-transfer>
+        <exclude domain="sharedpref" path="sync.xml" />
+    </device-transfer>
+</data-extraction-rules>

@@ -1,0 +1,529 @@
+# German grammar lessons for the app's Grammar section (A1–A2, for English speakers), in teaching order.
+# Written for this app; checked against English Wiktionary conjugation data.
+
+@lesson pronouns-sein-haben
+title: Pronouns, sein and haben
+level: A1
+intro: Meet the personal pronouns and the two most important verbs, sein (to be) and haben (to have).
+p: A **pronoun** is a short word that stands for a person or thing: **ich** (I), **du** (you), **er** (he), **sie** (she), **es** (it), **wir** (we), **ihr** (you, several people) and **sie** (they).
+p: German has three words for "you": **du** for one friend, child or family member, **ihr** for several of them, and polite **Sie**, always with a capital S, for adults you don't know well. Polite Sie works for one person or several.
+p: **sie** means both "she" and "they". The verb shows which one is meant: sie **ist** (she is), sie **sind** (they are). Polite Sie uses the same verb form as "they".
+p: **sein** (to be) and **haben** (to have) are irregular, so learn their forms by heart. German uses haben in some phrases where English uses "to be": **Hunger haben** (to be hungry), **Durst haben** (to be thirsty), **Angst haben** (to be afraid).
+table: sein and haben in the present tense
+| pronoun | English | sein | haben |
+| ich | I | bin | habe |
+| du | you (one friend) | bist | hast |
+| er / sie / es | he / she / it | ist | hat |
+| wir | we | sind | haben |
+| ihr | you (several friends) | seid | habt |
+| sie / Sie | they / you (polite) | sind | haben |
+e: Ich bin müde. | | I am tired.
+e: Bist du zu Hause? | | Are you at home?
+e: Wir haben Zeit. | | We have time.
+e: Anna ist Lehrerin. | | Anna is a teacher.
+e: Habt ihr Hunger? | | Are you hungry? (to several people)
+e: Sind Sie Herr Weber? | | Are you Mr Weber?
+q: Ich ___ müde. | bin | bist; ist; sind | I am tired.
+q: Du ___ heute Zeit. | hast | habe; hat; habt | You have time today.
+q: Wir ___ in Berlin. | sind | seid; ist; haben | We are in Berlin.
+q: ___ ihr zu Hause? | Seid | Sind; Ist; Bist | Are you at home? (to several people) | seid is the ihr form of sein.
+q: Er ___ Hunger. | hat | ist; habe; haben | He is hungry. | German says "to have hunger": Hunger haben.
+q: ___ Sie Frau Müller? | Sind | Ist; Seid; Bist | Are you Mrs Müller? | Polite Sie uses the same form as "they": Sie sind.
+q: Anna ___ Lehrerin. | ist | bin; sind; hat | Anna is a teacher.
+q: Habt ___ Zeit? | ihr | du; wir; er | Do you have time? (to several people) | habt is the ihr form of haben.
+
+@lesson gender-articles
+title: Gender and articles
+level: A1
+intro: Every German noun is masculine, feminine or neuter, and its article shows which.
+p: Every German noun has a grammatical **gender**: masculine, feminine or neuter. The word for "the" depends on it: **der** for masculine nouns, **die** for feminine nouns and **das** for neuter nouns. Nouns are always written with a capital letter.
+p: Gender belongs to the word, not to the thing: **der** Tisch (the table) is masculine, **die** Lampe (the lamp) is feminine and **das** Mädchen (the girl) is neuter. So always learn a new noun together with its article.
+p: The word for "a" or "an" is the **indefinite article**: **ein** for masculine and neuter nouns, **eine** for feminine nouns. With jobs German usually uses no article: Ich bin Lehrer (I am a teacher).
+p: You can't always guess the gender, but some endings and groups of words are reliable clues. The second table shows the most useful ones.
+table: The articles
+| | masculine | feminine | neuter |
+| the | der Mann | die Frau | das Kind |
+| a / an | ein Mann | eine Frau | ein Kind |
+table: Useful gender clues
+| clue | gender | examples |
+| male people | der | der Mann, der Vater |
+| female people | die | die Frau, die Mutter |
+| -ung, -heit, -keit, -schaft, -ion, -tät | die | die Zeitung, die Freiheit, die Information |
+| -in (a female person) | die | die Lehrerin, die Freundin |
+| most nouns ending in -e | die | die Lampe, die Katze (but der Name) |
+| -chen and -lein (small things) | das | das Mädchen, das Brötchen |
+| a verb used as a noun | das | das Essen, das Leben |
+| days, months and seasons | der | der Montag, der Mai, der Sommer |
+| -er for a person who does something | der | der Lehrer, der Fahrer |
+e: Der Kaffee ist heiß. | | The coffee is hot.
+e: Die Lampe ist neu. | | The lamp is new.
+e: Das Mädchen heißt Lena. | | The girl is called Lena.
+e: Das ist ein Tisch. | | That is a table.
+e: Das ist eine Zeitung. | | That is a newspaper.
+e: Ich bin Lehrerin. | | I am a teacher.
+q: ___ Tisch ist groß. | Der | Die; Das; Den | The table is big.
+q: ___ Lampe ist neu. | Die | Der; Das; Den | The lamp is new.
+q: Das ist ___ Buch. | ein | eine; einen; der | That is a book. | Buch is neuter (das Buch), so "a" is ein.
+q: Das ist ___ Zeitung. | eine | ein; einen; einer | That is a newspaper. | Nouns ending in -ung are feminine.
+q: ___ Mädchen heißt Lena. | Das | Die; Der; Den | The girl is called Lena. | Mädchen ends in the small-word (diminutive) ending -chen, which always makes a noun neuter.
+q: ___ Freundin ist nett. | Die | Der; Das; Den | The friend is nice. | Words for female people ending in -in are feminine.
+q: ___ Universität ist alt. | Die | Der; Das; Den | The university is old. | Nouns ending in -tät are feminine.
+q: Das ist ___ Hund. | ein | eine; einen; das | That is a dog. | Hund is masculine (der Hund), so "a" is ein.
+
+@lesson plural
+title: Plural of nouns
+level: A1
+intro: German nouns form their plural in several ways, but "the" in the plural is die for every gender.
+p: In the plural, "the" is **die** for every gender: der Tisch → **die** Tische, das Buch → **die** Bücher. (It only changes in other cases, which come later: mit **den** Kindern.) ein has no plural, so you just leave it out: Ich habe Bücher (I have books).
+p: There are five main ways to form the plural, and many of them add an **umlaut**, the two dots on ä, ö and ü. The plural is hard to guess, so learn it together with each noun: der Apfel, die Äpfel.
+p: Some rules of thumb help: most feminine nouns add **-n** or **-en** (die Lampe → die Lampen); masculine and neuter nouns ending in -er, -el or -en often add nothing (der Lehrer → die Lehrer); many words from English and most words ending in -a, -i, -o or -y add **-s** (das Auto → die Autos).
+p: Words for women ending in -in double the n: die Lehrerin → die Lehrerinnen, die Freundin → die Freundinnen.
+table: The main plural patterns
+| pattern | singular | plural |
+| -e, often with umlaut | der Tisch, die Stadt | die Tische, die Städte |
+| -er, with umlaut if possible | das Kind, das Buch | die Kinder, die Bücher |
+| -n or -en | die Lampe, die Frau | die Lampen, die Frauen |
+| no ending, sometimes umlaut | der Lehrer, der Apfel | die Lehrer, die Äpfel |
+| -s | das Auto, das Handy | die Autos, die Handys |
+e: Die Kinder spielen im Garten. | | The children are playing in the garden.
+e: Wir haben zwei Katzen. | | We have two cats.
+e: Die Bücher sind neu. | | The books are new.
+e: Die Äpfel sind rot. | | The apples are red.
+e: Die Autos sind teuer. | | The cars are expensive.
+e: Die Frauen sind Lehrerinnen. | | The women are teachers.
+q: ___ Bücher sind neu. | Die | Das; Der; Den | The books are new. | In the plural, "the" is die for every gender.
+q: Ich habe zwei ___. | Brüder | Bruder; Bruders; Brüdern | I have two brothers. | der Bruder, die Brüder: no ending, but an umlaut.
+q: Die ___ spielen im Garten. | Kinder | Kind; Kindes; Kindern | The children are playing in the garden. | das Kind, die Kinder.
+q: Wir kaufen drei ___. | Äpfel | Apfel; Apfels; Äpfeln | We are buying three apples. | der Apfel, die Äpfel.
+q: Die ___ sind alt. | Häuser | Haus; Hauses; Häusern | The houses are old. | das Haus, die Häuser: -er with an umlaut.
+q: Sie hat zwei ___. | Hunde | Hund; Hundes; Hunden | She has two dogs. | der Hund, die Hunde.
+q: Wir brauchen vier ___. | Stühle | Stuhl; Stuhles; Stühlen | We need four chairs. | der Stuhl, die Stühle: -e with an umlaut.
+q: Die Katzen ___ klein. | sind | ist; bist; seid | The cats are small. | A plural subject takes the plural verb form.
+
+@lesson present-regular
+title: Present tense: regular verbs
+level: A1
+intro: Regular verbs add the same set of endings to their stem.
+p: The dictionary form of a verb is the **infinitive**, and it almost always ends in **-en**: wohnen (to live), lernen (to learn). Take off -en and you have the **stem** (wohn-, lern-). In the present tense you add the ending that matches the person.
+p: German has only one present tense: **ich wohne** means both "I live" and "I am living". With a time word it can also refer to the future: Morgen arbeite ich (I'm working tomorrow).
+p: If the stem ends in **-t** or **-d** (arbeiten, finden), add an extra **e** before the endings -st and -t so that they can be heard: du arbeitest, er arbeitet. Verbs like regnen, öffnen and rechnen do the same: es regnet, du öffnest. If the stem ends in -s, -ß or -z (heißen, tanzen), the du form only adds **-t**: du heißt, du tanzt.
+p: The forms for wir, sie (they) and polite Sie look just like the infinitive.
+table: Endings, with wohnen (to live) and arbeiten (to work)
+| person | ending | wohnen | arbeiten |
+| ich | -e | wohne | arbeite |
+| du | -st | wohnst | arbeitest |
+| er / sie / es | -t | wohnt | arbeitet |
+| wir | -en | wohnen | arbeiten |
+| ihr | -t | wohnt | arbeitet |
+| sie / Sie | -en | wohnen | arbeiten |
+e: Ich wohne in Berlin. | | I live in Berlin.
+e: Du lernst Deutsch. | | You are learning German.
+e: Er arbeitet heute. | | He is working today.
+e: Wir spielen Fußball. | | We play football.
+e: Wie heißt du? | | What's your name?
+e: Was kocht ihr? | | What are you cooking? (to several people)
+q: Ich ___ in Hamburg. | wohne | wohnst; wohnt; wohnen | I live in Hamburg.
+q: Du ___ zu viel. | arbeitest | arbeitet; arbeite; arbeiten | You work too much. | The stem ends in -t, so the du form ends in -est.
+q: Er ___ Deutsch. | lernt | lerne; lernst; lernen | He is learning German.
+q: Wir ___ Musik. | hören | höre; hörst; hört | We are listening to music.
+q: Ihr ___ sehr gut. | kocht | koche; kochst; kochen | You cook very well. (to several people)
+q: Was ___ du? | trinkst | trinke; trinkt; trinken | What are you drinking?
+q: Anna und Tom ___ Fußball. | spielen | spiele; spielst; spielt | Anna and Tom are playing football. | Two people are sie (they), so the verb ends in -en.
+q: Er ___ das Buch gut. | findet | finde; findest; finden | He thinks the book is good. | The stem ends in -d, so the er form ends in -et.
+
+@lesson present-stem-change
+title: Present tense: verbs that change their vowel
+level: A1
+intro: Many common verbs change their stem vowel in the du and er/sie/es forms.
+p: Some very common verbs change the vowel of their stem in the present tense, but only in the **du** and **er/sie/es** forms. All the other forms, and all the endings, are regular.
+p: There are three main patterns: **a → ä** (fahren: du fährst, er fährt), **e → i** (sprechen: du sprichst, er spricht) and **e → ie** (sehen: du siehst, er sieht). A dictionary shows the change, so learn the er form with the verb: fahren, er fährt.
+p: A few verbs change a little more: **nehmen** → du nimmst, er nimmt; **essen** → du isst, er isst. **wissen** (to know a fact) is special: ich weiß, du weißt, er weiß, wir wissen.
+table: Three patterns
+| person | fahren (a → ä) | sprechen (e → i) | sehen (e → ie) |
+| ich | fahre | spreche | sehe |
+| du | **fährst** | **sprichst** | **siehst** |
+| er / sie / es | **fährt** | **spricht** | **sieht** |
+| wir | fahren | sprechen | sehen |
+| ihr | fahrt | sprecht | seht |
+| sie / Sie | fahren | sprechen | sehen |
+table: More verbs like these
+| pattern | verb | er / sie / es |
+| a → ä | schlafen (to sleep) | schläft |
+| a → ä | tragen (to carry, to wear) | trägt |
+| au → äu | laufen (to run) | läuft |
+| e → i | essen (to eat) | isst |
+| e → i | geben (to give) | gibt |
+| e → i | helfen (to help) | hilft |
+| e → i | nehmen (to take) | nimmt |
+| e → ie | lesen (to read) | liest |
+e: Fährst du nach Berlin? | | Are you going to Berlin?
+e: Er spricht sehr gut Englisch. | | He speaks English very well.
+e: Sie liest ein Buch. | | She is reading a book.
+e: Das Baby schläft. | | The baby is sleeping.
+e: Was isst du gern? | | What do you like to eat?
+e: Weißt du das? | | Do you know that?
+q: Du ___ sehr schnell. | fährst | fährt; fahrt; fahre | You drive very fast. | fahren changes a → ä: du fährst.
+q: Er ___ Deutsch und Englisch. | spricht | sprecht; sprichst; spreche | He speaks German and English. | sprechen changes e → i: er spricht.
+q: Maria ___ eine Zeitung. | liest | lest; lese; lesen | Maria is reading a newspaper. | lesen changes e → ie: sie liest.
+q: Was ___ du, Tee oder Kaffee? | nimmst | nimmt; nehmt; nehme | What will you have, tea or coffee? | nehmen: du nimmst.
+q: Das Kind ___ viel. | schläft | schlaft; schläfst; schlafe | The child sleeps a lot.
+q: Tom ___ gern Pizza. | isst | esst; esse; essen | Tom likes eating pizza. | essen: er isst.
+q: ___ ihr Englisch? | Sprecht | Spricht; Sprichst; Sprechen | Do you speak English? (to several people) | The ihr form never changes its vowel.
+q: Das ___ ich. | weiß | weißt; wissen; wisst | I know that. | wissen: ich weiß, with no ending.
+
+@lesson word-order
+title: Word order: the verb in second place
+level: A1
+intro: In a German statement the conjugated verb always comes second; in yes/no questions it comes first.
+p: The **conjugated verb** is the verb with the person ending (bin, wohnst, spielt). In a statement it is always the **second element**. The first element is often the subject, but it can also be a time, a place or an object, and it can be several words long: Am Samstag **spiele** ich Fußball.
+p: When something other than the subject comes first, the subject moves to just after the verb: Ich gehe heute ins Kino → Heute **gehe ich** ins Kino. "Heute ich gehe" is always wrong.
+p: **W-questions** begin with a question word, and the verb comes second: Wo **wohnst** du? **Yes/no questions** begin with the verb: **Wohnst** du in Berlin?
+p: The words **und** (and), **aber** (but) and **oder** (or) join two sentences without counting as an element, so normal word order follows them: Ich bin müde, aber ich arbeite noch.
+table: The verb comes second
+| first element | verb | rest |
+| Ich | spiele | heute Fußball. |
+| Heute | spiele | ich Fußball. |
+| Am Samstag | spiele | ich Fußball. |
+| Wann | spielst | du Fußball? |
+| (nothing) | Spielst | du heute Fußball? |
+table: Question words
+| German | English |
+| wer | who |
+| was | what |
+| wo | where |
+| woher | where from |
+| wohin | where to |
+| wann | when |
+| wie | how |
+| warum | why |
+e: Heute arbeite ich zu Hause. | | Today I'm working at home.
+e: Am Samstag spielen wir Fußball. | | On Saturday we play football.
+e: Wo wohnst du? | | Where do you live?
+e: Woher kommen Sie? | | Where are you from?
+e: Hast du heute Zeit? | | Do you have time today?
+e: Ich bin müde, aber ich arbeite noch. | | I'm tired, but I'm still working.
+q: Heute ___ ins Kino. | gehen wir | wir gehen; geht ihr; gehen sie | Today we are going to the cinema. | Heute is the first element, so the verb comes next and the subject follows it.
+q: Am Samstag ___ Fußball. | spielt er | er spielt; spielst du; spielen wir | On Saturday he plays football. | Am Samstag is the first element, so the verb comes next.
+q: Jetzt ___ müde. | bin ich | ich bin; ist er; sind wir | Now I am tired.
+q: ___ wohnst du? | Wo | Wohin; Woher; Wer | Where do you live?
+q: ___ kommen Sie? | Woher | Wo; Wohin; Wann | Where are you from?
+q: ___ heißt du? | Wie | Was; Wer; Wo | What's your name? | German asks "How are you called?": Wie heißt du?
+q: ___ lernst du Deutsch? | Warum | Wer; Wann; Wohin | Why are you learning German?
+q: Ich bin müde, aber ___ noch. | ich arbeite | arbeite ich; arbeitest du; arbeitet er | I'm tired, but I'm still working. | aber does not count as an element, so the subject comes first.
+
+@lesson negation
+title: Saying no: nicht and kein
+level: A1
+intro: Use kein with nouns that would have ein or no article, and nicht for everything else.
+p: **kein** means "not a", "not any" or "no". Use it in place of **ein**, or with a noun that has no article: Das ist ein Problem → Das ist **kein** Problem. Wir haben Zeit → Wir haben **keine** Zeit.
+p: kein takes the same endings as ein, and unlike ein it also has a plural: **keine** Kinder (no children).
+p: **nicht** (not) is used for everything else: verbs, adjectives, names and nouns with der, die or das. In a simple sentence it usually comes at the **end** (Ich komme heute **nicht**), but it goes **before** an adjective or a place: Er ist **nicht** müde. Sie wohnt **nicht** in Berlin.
+p: To answer "yes" to a negative question, say **doch**, not ja: Hast du keine Zeit? – **Doch**, ich habe Zeit.
+table: ein and kein (subject form)
+| | masculine | feminine | neuter | plural |
+| with ein | ein Hund | eine Katze | ein Auto | Kinder |
+| with kein | kein Hund | keine Katze | kein Auto | keine Kinder |
+table: kein or nicht?
+| positive | negative |
+| Das ist ein Problem. | Das ist **kein** Problem. |
+| Ich habe Zeit. | Ich habe **keine** Zeit. |
+| Ich komme heute. | Ich komme heute **nicht**. |
+| Das ist der Bus. | Das ist **nicht** der Bus. |
+| Er ist müde. | Er ist **nicht** müde. |
+e: Ich habe keine Zeit. | | I have no time.
+e: Das ist kein Problem. | | That's no problem.
+e: Er kommt heute nicht. | | He isn't coming today.
+e: Wir wohnen nicht in Berlin. | | We don't live in Berlin.
+e: Die Suppe ist nicht heiß. | | The soup isn't hot.
+e: Hast du keine Zeit? – Doch, ich habe Zeit. | | Don't you have time? – Yes, I do.
+q: Ich habe ___ Auto. | kein | keine; nicht; keinen | I don't have a car. | Auto is neuter: ein Auto → kein Auto.
+q: Das ist ___ Problem. | kein | keine; nicht; keinen | That's no problem. | Problem is neuter: ein Problem → kein Problem.
+q: Wir haben ___ Zeit. | keine | kein; nicht; keinen | We have no time. | Zeit is feminine and has no article here, so use keine.
+q: Er arbeitet heute ___. | nicht | kein; keine; keinen | He isn't working today. | To negate a verb, use nicht.
+q: Das Wasser ist ___ kalt. | nicht | kein; keine; keines | The water isn't cold. | Adjectives are negated with nicht.
+q: Sie hat ___ Kinder. | keine | kein; nicht; keinen | She has no children. | The plural of kein is keine.
+q: Das ist ___ der Bus nach Berlin. | nicht | kein; keine; keinen | That isn't the bus to Berlin. | A noun with der, die or das is negated with nicht.
+q: Ich komme heute ___. | nicht | kein; keine; keines | I'm not coming today.
+
+@lesson accusative
+title: The accusative case
+level: A1
+intro: The direct object of a verb is in the accusative case, which turns der into den.
+p: German nouns and pronouns change their form according to their job in the sentence; these forms are called **cases**. The **nominative** is the form for the subject, the one who does the action. The **accusative** is the form for the **direct object**, the person or thing the action is done to: **Der Mann** kauft **den Tisch**.
+p: Good news: in the accusative only the **masculine singular** changes: der → **den**, ein → **einen**, kein → **keinen**. Feminine, neuter and plural forms are the same as in the nominative.
+p: Because the article shows who does what, the object can come first for emphasis: **Den Film** finde ich gut. The verb still stays in second place.
+p: Pronouns have accusative forms too: ich → **mich**, du → **dich**, er → **ihn**, wir → **uns**, ihr → **euch**; sie, es and Sie don't change. The phrase **es gibt** (there is, there are) is also followed by the accusative: Es gibt hier einen Park.
+p: These prepositions are always followed by the accusative: **durch** (through), **für** (for), **gegen** (against), **ohne** (without) and **um** (around; at a time).
+table: Articles in the nominative and accusative
+| | masculine | feminine | neuter | plural |
+| nominative | der / ein | die / eine | das / ein | die / – |
+| accusative | **den / einen** | die / eine | das / ein | die / – |
+table: Personal pronouns
+| nominative | accusative |
+| ich | **mich** |
+| du | **dich** |
+| er | **ihn** |
+| sie | sie |
+| es | es |
+| wir | **uns** |
+| ihr | **euch** |
+| sie / Sie | sie / Sie |
+e: Ich kaufe einen Tisch. | | I'm buying a table.
+e: Siehst du den Hund? | | Do you see the dog?
+e: Den Film finde ich gut. | | I think the film is good.
+e: Das Geschenk ist für dich. | | The present is for you.
+e: Wir gehen ohne ihn. | | We are going without him.
+e: Es gibt hier einen Park. | | There is a park here.
+q: Ich habe ___ Bruder. | einen | ein; eine; einem | I have a brother. | Bruder is masculine and the object of haben: einen.
+q: Siehst du ___ Mann dort? | den | der; dem; des | Do you see the man over there? | The man is the object, so der becomes den.
+q: Wir kaufen ___ Lampe. | eine | einen; ein; einer | We are buying a lamp. | Feminine nouns don't change in the accusative.
+q: Das Geschenk ist für ___. | dich | du; dir; dein | The present is for you. | für is followed by the accusative.
+q: Kennst du ___? | ihn | er; ihm; sein | Do you know him? | The accusative of er is ihn.
+q: Wir gehen durch ___ Park. | den | der; dem; einem | We are walking through the park. | durch is followed by the accusative.
+q: Der Ball ist für ___ Kind. | das | dem; den; der | The ball is for the child. | Neuter nouns don't change in the accusative.
+q: Hier gibt es ___ Supermarkt. | einen | ein; eine; einem | There is a supermarket here. | es gibt is followed by the accusative.
+
+@lesson dative
+title: The dative case
+level: A2
+intro: The dative case marks the person who receives something, and it follows some very common prepositions.
+p: The **dative** case marks the **indirect object**, usually the person who receives something or who benefits from it: Ich gebe **dem Kind** einen Apfel (I give the child an apple). Here einen Apfel is the direct object, in the accusative.
+p: In the dative every article changes: der → **dem**, die → **der**, das → **dem**, and plural die → **den**. In the plural the noun also adds **-n**, unless it already ends in -n or -s: die Kinder → **den Kindern**, but den Autos.
+p: Some common verbs take a dative object instead of an accusative one: **helfen** (to help), **danken** (to thank), **gehören** (to belong to) and **gefallen** (to please): Das gefällt **mir** (I like that). The question Wie geht es **dir**? (How are you?) also uses the dative.
+p: These prepositions are always followed by the dative: **aus** (out of, from), **bei** (at, at someone's place), **mit** (with, by), **nach** (after; to a city or country), **seit** (since, for), **von** (from, of) and **zu** (to). Some merge with the article: zu dem → **zum**, zu der → **zur**, bei dem → **beim**, von dem → **vom**.
+table: Articles in three cases
+| | masculine | feminine | neuter | plural |
+| nominative | der / ein | die / eine | das / ein | die |
+| accusative | den / einen | die / eine | das / ein | die |
+| dative | **dem / einem** | **der / einer** | **dem / einem** | **den** (noun + -n) |
+table: Personal pronouns
+| nominative | accusative | dative |
+| ich | mich | **mir** |
+| du | dich | **dir** |
+| er | ihn | **ihm** |
+| sie | sie | **ihr** |
+| es | es | **ihm** |
+| wir | uns | **uns** |
+| ihr | euch | **euch** |
+| sie / Sie | sie / Sie | **ihnen / Ihnen** |
+e: Ich gebe dem Kind einen Apfel. | | I give the child an apple.
+e: Wir fahren mit dem Bus. | | We're going by bus.
+e: Hilfst du mir? | | Will you help me?
+e: Das Buch gehört ihr. | | The book belongs to her.
+e: Nach der Arbeit gehe ich zum Supermarkt. | | After work I'm going to the supermarket.
+e: Ich wohne seit zwei Jahren in Berlin. | | I have been living in Berlin for two years.
+q: Ich fahre mit ___ Zug. | dem | den; der; das | I'm going by train. | mit is followed by the dative; Zug is masculine: dem.
+q: Sie wohnt bei ___ Freundin. | einer | eine; einen; einem | She lives at a friend's place. | bei is followed by the dative; Freundin is feminine: einer.
+q: Hilfst du ___? | mir | mich; ich; mein | Will you help me? | helfen takes the dative.
+q: Das Auto gehört ___. | ihm | ihn; er; sein | The car belongs to him. | gehören takes the dative.
+q: Ich gebe ___ Kindern Schokolade. | den | die; dem; der | I give the children chocolate. | Dative plural: den, and the noun ends in -n.
+q: Nach ___ Arbeit trinke ich einen Tee. | der | die; dem; den | After work I drink a tea. | nach is followed by the dative; Arbeit is feminine: der.
+q: Wie geht es ___? | Ihnen | Sie; dich; Ihre | How are you? (polite) | The dative of polite Sie is Ihnen.
+q: Ich gehe ___ Arzt. | zum | zur; beim; nach | I'm going to the doctor. | zu dem becomes zum; Arzt is masculine.
+
+@lesson possessives
+title: Possessive articles: mein, dein, sein…
+level: A1
+intro: Possessive articles say whose something is, and they take the same endings as ein.
+p: A **possessive article** says who something belongs to: **mein** Buch (my book), **dein** Auto (your car). It stands in the place of ein or der.
+p: First choose the word for the owner: mein (my), dein (your, to one friend), sein (his, its), ihr (her), unser (our), euer (your, to several friends), ihr (their) and Ihr (your, polite). **ihr** means both "her" and "their", and with a capital letter **Ihr** means polite "your".
+p: Then add the ending that matches the noun that follows, exactly as for ein: **meine** Mutter, **meinen** Vater (accusative), **meinem** Kind (dative). The ending depends on the thing owned, not on the owner: Tom besucht **seine** Mutter. Anna besucht **ihren** Vater.
+p: **euer** usually drops the e before r when it has an ending: eure Kinder, euren Hund.
+table: Who is the owner?
+| owner | possessive | meaning |
+| ich | mein | my |
+| du | dein | your (one friend) |
+| er / es | sein | his / its |
+| sie | ihr | her |
+| wir | unser | our |
+| ihr | euer | your (several friends) |
+| sie | ihr | their |
+| Sie | Ihr | your (polite) |
+table: Endings, with mein
+| | masculine | feminine | neuter | plural |
+| nominative | mein Vater | meine Mutter | mein Kind | meine Eltern |
+| accusative | **meinen** Vater | meine Mutter | mein Kind | meine Eltern |
+| dative | **meinem** Vater | **meiner** Mutter | **meinem** Kind | **meinen** Eltern |
+e: Das ist mein Bruder. | | This is my brother.
+e: Wo ist deine Tasche? | | Where is your bag?
+e: Anna besucht ihren Vater. | | Anna is visiting her father.
+e: Unser Haus ist klein. | | Our house is small.
+e: Ist das Ihr Auto, Herr Klein? | | Is this your car, Mr Klein?
+e: Wir sprechen mit unseren Kindern. | | We are talking to our children.
+q: Das ist ___ Schwester. | meine | mein; meinen; meiner | This is my sister. | Schwester is feminine: meine.
+q: Tom besucht ___ Mutter. | seine | ihre; sein; seinen | Tom is visiting his mother. | The owner is male (sein-) and Mutter is feminine (-e).
+q: Anna sucht ___ Schlüssel. | ihren | ihr; seinen; ihrem | Anna is looking for her key. | The owner is female (ihr-) and Schlüssel is a masculine object (-en).
+q: Wir lieben ___ Hund. | unseren | unser; unsere; unserem | We love our dog. | Hund is a masculine object: unseren.
+q: Wo sind ___ Kinder, Frau Weber? | Ihre | Ihr; Ihren; Ihrem | Where are your children, Mrs Weber? | Polite "your" is Ihr; in the plural it is Ihre.
+q: Ich spiele mit ___ Bruder. | meinem | meinen; mein; meiner | I'm playing with my brother. | mit is followed by the dative; Bruder is masculine: meinem.
+q: Wo ist ___ Auto? | euer | eure; euren; eurem | Where is your car? (to several friends) | Auto is neuter, so euer has no ending.
+q: Das ist ___ Haus. | ihr | ihre; ihren; sein | That is their house. | "their" is ihr; Haus is neuter, so there is no ending.
+
+@lesson modal-verbs
+title: Modal verbs
+level: A1
+intro: Modal verbs like können and müssen work with a second verb, which goes to the end of the sentence.
+p: **Modal verbs** say whether you can, must, want to or may do something. The modal verb takes second place with its person ending, and the main verb goes to the **end** of the sentence in the infinitive: Ich **kann** gut **schwimmen**.
+p: In the present tense, the **ich** and **er/sie/es** forms of a modal verb are the same: ich kann, er kann. They have no ending, except möchten: ich möchte, er möchte. Most modal verbs also have a different vowel in the singular: können → ich kann.
+p: The meanings: **können** (can, to be able to), **müssen** (must, to have to), **wollen** (to want to), **dürfen** (may, to be allowed to), **sollen** (should, to be supposed to) and **möchten** (would like to), the polite way to say what you want. When the meaning is clear, the infinitive can be left out: Ich möchte einen Kaffee.
+p: Be careful with negatives: **nicht müssen** means "not have to", while "must not" is **nicht dürfen**. Du musst nicht kommen (you don't have to come); du darfst nicht kommen (you're not allowed to come).
+table: Present tense of the modal verbs
+| verb | ich, er / sie / es | du | wir, sie / Sie | ihr |
+| können | kann | kannst | können | könnt |
+| müssen | muss | musst | müssen | müsst |
+| wollen | will | willst | wollen | wollt |
+| dürfen | darf | darfst | dürfen | dürft |
+| sollen | soll | sollst | sollen | sollt |
+| möchten | möchte | möchtest | möchten | möchtet |
+e: Ich kann gut schwimmen. | | I can swim well.
+e: Wir müssen jetzt gehen. | | We have to go now.
+e: Willst du ins Kino gehen? | | Do you want to go to the cinema?
+e: Hier darf man nicht rauchen. | | You're not allowed to smoke here.
+e: Ich möchte einen Tee, bitte. | | I'd like a tea, please.
+e: Du musst heute nicht arbeiten. | | You don't have to work today.
+q: Ich ___ gut kochen. | kann | kannst; können; könnt | I can cook well. | The ich form of können is kann, with no ending.
+q: Er ___ heute arbeiten. | muss | musst; müssen; müsst | He has to work today. | The er form of müssen is muss, with no ending.
+q: ___ du ins Kino gehen? | Willst | Will; Wollt; Wollen | Do you want to go to the cinema?
+q: Wir möchten einen Kaffee ___. | trinken | trinkt; getrunken; trinke | We would like to drink a coffee. | The second verb goes to the end in the infinitive.
+q: Hier ___ man nicht parken. | darf | darfst; dürft; dürfen | You're not allowed to park here. | man (people in general) takes the er/sie/es form.
+q: Morgen ist Sonntag. Ich ___ nicht arbeiten. | muss | darf; will; kann | Tomorrow is Sunday. I don't have to work. | nicht müssen = not have to; nicht dürfen = must not.
+q: Ihr ___ hier warten. | sollt | soll; sollst; sollen | You're supposed to wait here. (to several people)
+q: ___ Sie einen Tee? | Möchten | Möchte; Möchtest; Möchtet | Would you like a tea? | Polite Sie takes the same form as wir: möchten.
+
+@lesson separable-verbs
+title: Separable verbs
+level: A1
+intro: Many verbs have a prefix that splits off and moves to the end of the sentence.
+p: Many German verbs are made of a short **prefix** plus a basic verb: **an**rufen (to phone), **auf**stehen (to get up), **ein**kaufen (to go shopping). In a normal sentence the verb part takes second place and the prefix goes to the **end**: Ich **stehe** um sieben Uhr **auf**.
+p: The prefix changes the meaning, so don't forget it: Ich **komme** (I'm coming), but Der Zug **kommt** um acht **an** (The train arrives at eight).
+p: When the verb itself goes to the end, for example after a modal verb, it stays in one piece: Ich muss morgen früh **aufstehen**.
+p: Common separable prefixes are ab, an, auf, aus, ein, fern, mit, zu and zurück, and they are stressed in speech: **AUF**stehen. The prefixes **be-**, **ver-** and **er-** never separate: Ich **besuche** meine Oma. Ich **verstehe** das.
+table: Where the parts go
+| verb | statement | with a modal verb |
+| aufstehen (to get up) | Ich **stehe** um sieben **auf**. | Ich muss um sieben **aufstehen**. |
+| anrufen (to phone) | Er **ruft** seine Mutter **an**. | Er will seine Mutter **anrufen**. |
+| einkaufen (to go shopping) | Wir **kaufen** heute **ein**. | Wir müssen heute **einkaufen**. |
+| fernsehen (to watch TV) | **Siehst** du oft **fern**? | Willst du **fernsehen**? |
+table: More separable verbs
+| verb | meaning |
+| abholen | to pick up |
+| anfangen | to begin, to start |
+| ankommen | to arrive |
+| aufmachen | to open |
+| zumachen | to close |
+| mitkommen | to come along |
+e: Ich stehe jeden Tag um sieben Uhr auf. | | I get up at seven every day.
+e: Der Zug kommt um acht Uhr an. | | The train arrives at eight o'clock.
+e: Kommst du mit? | | Are you coming along?
+e: Wir kaufen am Samstag ein. | | We go shopping on Saturday.
+e: Kannst du mich morgen abholen? | | Can you pick me up tomorrow?
+e: Der Film fängt um acht an. | | The film starts at eight.
+q: Ich ___ um sechs Uhr auf. | stehe | stehst; steht; aufstehe | I get up at six o'clock. | The verb part goes to second place and the prefix auf to the end.
+q: Er ruft seine Mutter ___. | an | auf; ab; aus | He phones his mother. | anrufen = to phone.
+q: Der Zug kommt um neun Uhr ___. | an | ab; auf; mit | The train arrives at nine o'clock. | ankommen = to arrive.
+q: Ich muss heute ___. | einkaufen | kaufe ein; einkaufe; einkauft | I have to go shopping today. | After a modal verb, the separable verb stays together at the end.
+q: ___ du heute Abend fern? | Siehst | Sieht; Seht; Sehe | Are you watching TV this evening? | fernsehen: du siehst ... fern.
+q: Wann fängt der Film ___? | an | auf; ein; ab | When does the film start? | anfangen = to begin, to start.
+q: Wir ___ dich um acht Uhr ab. | holen | hole; holt; abholen | We'll pick you up at eight o'clock. | The verb part holen goes to second place and ab to the end.
+q: Kommst du ___? | mit | an; zu; auf | Are you coming along? | mitkommen = to come along.
+
+@lesson perfect
+title: The perfect tense
+level: A2
+intro: To talk about the past in conversation, use haben or sein with a past participle at the end.
+p: In everyday speech Germans talk about the past with the **perfect tense**: a present form of **haben** or **sein** in second place and the **past participle** at the end of the sentence: Ich **habe** Pizza **gegessen**. It translates both "I ate" and "I have eaten".
+p: Regular verbs form the participle with **ge-** + stem + **-t** (**-et** if the stem ends in -t or -d): machen → **gemacht**, kaufen → **gekauft**, arbeiten → **gearbeitet**. Irregular verbs usually end in **-en**, often with a different vowel: trinken → **getrunken**, schreiben → **geschrieben**. Learn these together with the verb.
+p: Most verbs use **haben**. Verbs that mean moving from one place to another (gehen, kommen, fahren, fliegen) or a change of state (aufwachen, einschlafen) use **sein**, and so do **sein** and **bleiben**: Wir **sind** nach Wien **gefahren**. fahren takes haben when you drive someone or something somewhere: Ich **habe** dich zum Bahnhof **gefahren**.
+p: Separable verbs put **ge** between the prefix and the verb: aufstehen → auf**ge**standen, einkaufen → ein**ge**kauft. Verbs ending in **-ieren** and verbs with the prefixes be-, ver- or er- have no ge-: studieren → studiert, besuchen → besucht, verstehen → verstanden.
+table: Common past participles
+| infinitive | participle | with |
+| machen (to do, to make) | gemacht | haben |
+| kaufen (to buy) | gekauft | haben |
+| arbeiten (to work) | gearbeitet | haben |
+| essen (to eat) | gegessen | haben |
+| trinken (to drink) | getrunken | haben |
+| sehen (to see) | gesehen | haben |
+| schreiben (to write) | geschrieben | haben |
+| gehen (to go) | gegangen | sein |
+| kommen (to come) | gekommen | sein |
+| fahren (to go, to travel) | gefahren | sein |
+| bleiben (to stay) | geblieben | sein |
+| sein (to be) | gewesen | sein |
+e: Ich habe gestern Pizza gegessen. | | I ate pizza yesterday.
+e: Was hast du am Wochenende gemacht? | | What did you do at the weekend?
+e: Wir sind nach Italien gefahren. | | We went to Italy.
+e: Er hat den ganzen Tag gearbeitet. | | He worked all day.
+e: Sie ist zu Hause geblieben. | | She stayed at home.
+e: Ich bin um sieben Uhr aufgestanden. | | I got up at seven o'clock.
+q: Ich ___ einen Kaffee getrunken. | habe | bin; hat; ist | I drank a coffee. | trinken takes haben.
+q: Wir ___ ins Kino gegangen. | sind | haben; seid; habt | We went to the cinema. | gehen means moving to a place, so it takes sein.
+q: Maria ___ um sechs Uhr aufgestanden. | ist | hat; sind; haben | Maria got up at six o'clock. | aufstehen takes sein.
+q: Wo ___ du gestern gewesen? | bist | hast; ist; seid | Where were you yesterday? | sein takes sein: du bist gewesen.
+q: Hast du den Film ___? | gesehen | sehen; siehst; sah | Have you seen the film? | sehen → gesehen.
+q: Er hat gestern viel ___. | gearbeitet | arbeitet; arbeiten; arbeitete | He worked a lot yesterday. | The stem ends in -t: ge + arbeit + et.
+q: Wir haben im Supermarkt ___. | eingekauft | einkaufen; einkauft; kaufte ein | We went shopping at the supermarket. | Separable verbs put ge after the prefix: eingekauft.
+q: Was hast du ___? | studiert | studieren; studierst; studierte | What did you study? | Verbs ending in -ieren have no ge-.
+
+@lesson imperative
+title: The imperative
+level: A1
+intro: Use the imperative to give instructions, make requests and invite people to do things.
+p: The **imperative** is the verb form for orders, requests and advice. The verb comes **first**, and there is one form for each kind of "you": du, ihr and Sie. Add **bitte** (please) to sound friendly.
+p: **du**: use just the stem of the verb, without du and without an ending: kommen → **Komm!** If the stem ends in -t or -d, add -e: **Warte!** Verbs that change e → i or e → ie use the changed stem (du nimmst → **Nimm!**, du liest → **Lies!**), but verbs that change a → ä don't: **Fahr!**
+p: **ihr**: use the normal ihr form without ihr: ihr kommt → **Kommt!** **Sie**: use the Sie form and put Sie right after it: **Kommen Sie!**
+p: Separable prefixes go to the end as usual: **Mach** die Tür **zu**! The verb sein is irregular: **Sei** ruhig! **Seid** ruhig! **Seien Sie** ruhig!
+table: The three forms
+| infinitive | du | ihr | Sie |
+| kommen | Komm! | Kommt! | Kommen Sie! |
+| warten | Warte! | Wartet! | Warten Sie! |
+| nehmen | Nimm! | Nehmt! | Nehmen Sie! |
+| lesen | Lies! | Lest! | Lesen Sie! |
+| fahren | Fahr! | Fahrt! | Fahren Sie! |
+| sein | Sei! | Seid! | Seien Sie! |
+e: Komm bitte her! | | Please come here!
+e: Mach die Tür zu! | | Close the door!
+e: Nimm noch ein Stück Kuchen! | | Have another piece of cake!
+e: Seid bitte leise! | | Please be quiet! (to several people)
+e: Warten Sie bitte hier. | | Please wait here.
+e: Sprich bitte langsam. | | Please speak slowly.
+q: ___ bitte langsam! | Sprich | Sprichst; Spricht; Sprechen | Please speak slowly! (to one friend) | sprechen keeps e → i in the du imperative: Sprich!
+q: ___ Sie bitte hier! | Warten | Wartet; Warte; Wartest | Please wait here! | The Sie imperative is the Sie form with Sie after it.
+q: ___ die Tür zu! | Mach | Machst; Macht; Machen | Close the door! (to one friend) | du machst → Mach!
+q: Kinder, ___ bitte leise! | seid | sei; sind; seien | Children, please be quiet! | Talking to several children, use the ihr form.
+q: ___ das Buch! | Lies | Lese; Liest; Lest | Read the book! (to one friend) | lesen keeps e → ie: Lies!
+q: ___ noch ein Stück Kuchen! | Nimm | Nimmst; Nehmt; Nehmen | Have another piece of cake! (to one friend) | du nimmst → Nimm!
+q: Bitte ___ Sie Platz! | nehmen | nimm; nehmt; nimmst | Please take a seat! | With Sie, use the Sie form: nehmen Sie.
+q: ___ ruhig, Anna! | Sei | Bist; Seid; Ist | Be quiet, Anna! | The du imperative of sein is Sei!
+
+@lesson subordinate-clauses
+title: Subordinate clauses: weil, dass, wenn
+level: A2
+intro: After weil, dass and wenn the conjugated verb moves to the end of the clause.
+p: A **clause** is a part of a sentence with its own verb. A **subordinate clause**, like "because I'm tired", can't stand on its own. In German it starts with a joining word (a **conjunction**) such as **weil**, **dass** or **wenn**, and a **comma** separates it from the rest of the sentence.
+p: In a subordinate clause the conjugated verb goes to the very **end**: Ich bleibe zu Hause, weil ich müde **bin**. If there are two verbs, the conjugated one comes last: ..., weil ich arbeiten **muss**. Separable verbs join up again: ..., wenn der Zug **ankommt**.
+p: **weil** (because) gives a reason. **dass** (that) introduces what someone says, thinks or knows: Ich glaube, dass er krank **ist**. **wenn** means "if" or "when, whenever": Wenn es regnet, bleiben wir zu Hause.
+p: If the subordinate clause comes first, it counts as the first element, so the main clause starts with its verb: Wenn ich Zeit **habe**, **komme** ich. You get verb, comma, verb.
+table: The verb at the end
+| main clause | conjunction | middle | verb |
+| Ich komme nicht, | weil | ich krank | bin. |
+| Ich weiß, | dass | du recht | hast. |
+| Wir gehen spazieren, | wenn | das Wetter gut | ist. |
+| Er sagt, | dass | er morgen | kommen kann. |
+table: When the subordinate clause comes first
+| subordinate clause | main clause |
+| Wenn ich Zeit habe, | **komme** ich. |
+| Weil es regnet, | **bleiben** wir zu Hause. |
+e: Ich lerne Deutsch, weil ich in Berlin arbeite. | | I'm learning German because I work in Berlin.
+e: Ich glaube, dass sie heute nicht kommt. | | I think that she isn't coming today.
+e: Wenn es regnet, bleiben wir zu Hause. | | If it rains, we stay at home.
+e: Sie sagt, dass der Film sehr gut ist. | | She says that the film is very good.
+e: Ich bin froh, dass du da bist. | | I'm glad that you're here.
+e: Er ist müde, weil er lange gearbeitet hat. | | He is tired because he worked for a long time.
+q: Ich weiß, dass du müde ___. | bist | bin; ist; seid | I know that you are tired. | The verb goes to the end of the dass clause.
+q: Ich glaube, dass ___. | er heute kommt | er kommt heute; kommt er heute; heute kommt er | I think that he is coming today. | After dass, the conjugated verb goes to the end.
+q: Wenn ich Zeit habe, ___ ins Kino. | gehe ich | ich gehe; gehst du; geht er | When I have time, I go to the cinema. | The wenn clause is the first element, so the main clause starts with its verb.
+q: Wir bleiben zu Hause, ___ es heute sehr kalt ist. | weil | dass; wenn; aber | We're staying at home because it is very cold today. | weil gives a reason and sends the verb to the end.
+q: Er sagt, dass er morgen nicht ___. | kommen kann | kann kommen; kommen können; können kommen | He says that he can't come tomorrow. | With two verbs, the conjugated one (kann) comes last.
+q: Ich rufe dich an, wenn der Zug ___. | ankommt | kommt an; ankommen; angekommen | I'll call you when the train arrives. | At the end of the clause, a separable verb is written as one word.
+q: ___ du willst, können wir morgen gehen. | Wenn | Dass; Weil; Aber | If you want, we can go tomorrow. | wenn = if.
+q: Er ist müde, weil er lange gearbeitet ___. | hat | ist; habe; haben | He is tired because he worked for a long time. | arbeiten takes haben, and it goes to the very end.

@@ -1,0 +1,127 @@
+# French vocabulary for Alphabet Writer. Nouns carry their article (le, la, l', les), which shows the gender.
+# Columns: topic<TAB>picture<TAB>word<TAB>pronunciation in Cyrillic<TAB>meaning<TAB>(unused)<TAB>note (optional)
+# The Cyrillic is an approximation: French nasal vowels (on, an, in) have no exact Bulgarian equivalent.
+greetings	👋	salut	салю	hi; bye
+greetings	🌅	bonjour	бонжур	good morning; hello
+greetings	🌙	bonsoir	бонсоар	good evening
+greetings	😴	bonne nuit	бон нюи	good night
+greetings	🙏	merci	мерси	thank you
+greetings	🤲	s'il vous plaît	сил ву пле	please		To a friend: s'il te plaît (сил тьо пле).
+greetings	🙇	pardon	пардон	sorry; excuse me
+greetings	✅	oui	уи	yes
+greetings	❌	non	нон	no
+greetings	🚶	au revoir	о ревоар	goodbye
+greetings	😊	ça va ?	са ва?	how are you?
+greetings	🆗	bien	биен	fine; well
+greetings	🤝	enchanté	аншанте	nice to meet you		A woman writes enchantée (same sound).
+greetings	📛	le nom	льо нон	name
+greetings	❓	quoi	коа	what
+numbers	0	zéro	зеро	zero
+numbers	1	un	ен	one
+numbers	2	deux	дьо	two
+numbers	3	trois	троа	three
+numbers	4	quatre	катр	four
+numbers	5	cinq	сенк	five
+numbers	6	six	сис	six
+numbers	7	sept	сет	seven
+numbers	8	huit	юит	eight
+numbers	9	neuf	ньоф	nine
+numbers	10	dix	дис	ten
+numbers	100	cent	сан	hundred
+numbers	1000	mille	мил	thousand
+shopping	💶	l'argent	ларжан	money
+shopping	🏷️	c'est combien ?	се комбиен?	how much is it?
+shopping	🛒	les courses	ле курс	(grocery) shopping
+shopping	🏪	le magasin	льо магазен	shop
+shopping	💳	la carte bancaire	ла карт банкер	bank card
+shopping	🧾	le ticket de caisse	льо тике дьо кес	receipt
+shopping	👕	la chemise	ла шьомиз	shirt
+shopping	👟	les chaussures	ле шосюр	shoes
+shopping	👜	le sac	льо сак	bag
+shopping	💎	cher	шер	expensive
+shopping	🪙	pas cher	па шер	cheap
+shopping	🤲	je voudrais	жьо вудре	I would like
+shopping	📏	la taille	ла тай	size
+food	💧	l'eau	ло	water
+food	🍵	le thé	льо те	tea
+food	☕	le café	льо кафе	coffee
+food	🍺	la bière	ла биер	beer
+food	🍷	le vin	льо вен	wine
+food	🍞	le pain	льо пен	bread
+food	🐟	le poisson	льо поасон	fish
+food	🥩	la viande	ла вянд	meat
+food	🥚	l'œuf	льоф	egg
+food	🍎	la pomme	ла пом	apple
+food	🧀	le fromage	льо фромаж	cheese
+food	🫒	l'olive	лолив	olive
+food	🥗	la salade	ла салад	salad
+food	😋	délicieux	делисьо	delicious
+travel	✈️	l'avion	лавион	airplane
+travel	🚆	le train	льо трен	train
+travel	🚌	le bus	льо бюс	bus
+travel	🚕	le taxi	льо такси	taxi
+travel	🚢	le bateau	льо бато	boat; ship
+travel	🚉	la gare	ла гар	railway station
+travel	🛫	l'aéroport	лаеропор	airport
+travel	🏨	l'hôtel	лотел	hotel
+travel	🎫	le billet	льо бийе	ticket
+travel	🛂	le passeport	льо паспор	passport
+travel	🧳	la valise	ла вализ	suitcase
+travel	🗺️	la carte	ла карт	map
+travel	🚻	les toilettes	ле тоалет	toilet
+travel	⬅️	à gauche	а гош	left
+travel	➡️	à droite	а дроат	right
+travel	⬆️	tout droit	ту дроа	straight ahead
+travel	🏖️	la plage	ла плаж	beach
+time	📅	aujourd'hui	ожурдюи	today
+time	⏭️	demain	дьомен	tomorrow
+time	⏮️	hier	иер	yesterday
+time	🌄	le matin	льо матен	morning
+time	🌞	midi	миди	noon
+time	🌆	le soir	льо соар	evening
+time	🌃	la nuit	ла нюи	night
+time	⌚	maintenant	ментнан	now
+time	⏰	l'heure	льор	hour; time
+time	🗓️	la semaine	ла сьомен	week
+family	👨‍👧	le père	льо пер	father
+family	👩‍👦	la mère	ла мер	mother
+family	👦	le garçon	льо гарсон	boy
+family	👧	la fille	ла фий	girl; daughter
+family	👶	le bébé	льо бебе	baby
+family	👫	l'ami	лами	friend		A female friend: l'amie (same sound).
+family	👪	la famille	ла фамий	family
+family	👴	le grand-père	льо гран пер	grandfather
+family	👵	la grand-mère	ла гран мер	grandmother
+family	🧑‍🏫	le professeur	льо професьор	teacher
+family	🧍	la personne	ла персон	person
+colours	🔴	rouge	руж	red
+colours	🔵	bleu	бльо	blue
+colours	🟢	vert	вер	green
+colours	🟡	jaune	жон	yellow
+colours	⚫	noir	ноар	black
+colours	⚪	blanc	блан	white
+colours	🟣	violet	виоле	purple
+colours	🟠	orange	оранж	orange
+colours	🟤	marron	марон	brown
+colours	🩷	rose	роз	pink
+weather	☀️	le soleil	льо солей	sun
+weather	🌧️	la pluie	ла плюи	rain
+weather	❄️	la neige	ла неж	snow
+weather	☁️	le nuage	льо нюаж	cloud
+weather	💨	le vent	льо ван	wind
+weather	🥵	chaud	шо	hot
+weather	🥶	froid	фроа	cold
+weather	☂️	le parapluie	льо параплюи	umbrella
+weather	⛈️	l'orage	лораж	thunderstorm
+weather	🌈	l'arc-en-ciel	ларкансиел	rainbow
+animals	🐶	le chien	льо шиен	dog
+animals	🐱	le chat	льо ша	cat
+animals	🐦	l'oiseau	лоазо	bird
+animals	🐴	le cheval	льо шьовал	horse
+animals	🐮	la vache	ла ваш	cow
+animals	🐷	le cochon	льо кошон	pig
+animals	🐭	la souris	ла сури	mouse
+animals	🐰	le lapin	льо лапен	rabbit
+animals	🐻	l'ours	лурс	bear
+animals	🐵	le singe	льо сенж	monkey
+animals	🐘	l'éléphant	лелефан	elephant

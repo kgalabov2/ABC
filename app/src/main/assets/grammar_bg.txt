@@ -1,0 +1,532 @@
+# Bulgarian grammar lessons for ABC: 14 short A1–A2 lessons with tables, examples and practice questions.
+# Written for this app; checked against English Wiktionary conjugation data.
+
+@lesson pronouns-to-be
+title: Personal pronouns and съм (to be)
+level: A1
+intro: Say who you are with the personal pronouns and the verb съм, "to be".
+p: A **pronoun** is a short word that stands for a noun: I, you, she. Bulgarian has two words for "you": **ти** for one person you know well, and **вие** for several people or, politely, for one person you don't know well.
+p: The verb **съм** "to be" has a different form for each person (see the table). Bulgarian dictionaries name a verb by its "I" form, so the verb "to be" is called **съм** "I am".
+p: The forms of съм are short words that never start a sentence. Say **Аз съм тук.** or **Тук съм.** "I am here", but never "Съм тук".
+p: Because the verb already shows the person, the pronoun is often left out: **Уморен съм.** "I am tired." Use the pronoun when you want to stress who.
+p: Bulgarian usually needs no word for "a" or "an": **Той е лекар.** "He is a doctor."
+table: The verb съм
+| person | pronoun | to be |
+| I | аз | съм |
+| you (one person) | ти | си |
+| he / she / it | той / тя / то | е |
+| we | ние | сме |
+| you (several or polite) | вие | сте |
+| they | те | са |
+e: Аз съм Мария. | Az săm Maríja. | I am Maria.
+e: Ти си добър приятел. | Ti si dobắr prijátel. | You are a good friend.
+e: Той е лекар. | Toj e lékar. | He is a doctor.
+e: Ние сме вкъщи. | Níe sme vkắšti. | We are at home.
+e: Те са тук. | Te sa tuk. | They are here.
+e: Уморен съм. | Umorén săm. | I am tired.
+q: Аз ___ студент. | съм | си; е; сме | I am a student. | аз → съм
+q: Ти ___ много мил. | си | съм; е; сте | You are very kind. | ти → си
+q: Тя ___ лекар. | е | са; си; съм | She is a doctor. | той, тя, то → е
+q: Ние ___ приятели. | сме | сте; са; съм | We are friends. | ние → сме
+q: Вие ___ в София. | сте | сме; са; си | You are in Sofia. | вие → сте
+q: Те ___ в училище. | са | сте; сме; е | They are at school. | те → са
+q: ___ сме вкъщи. | Ние | Вие; Те; Аз | We are at home. | сме goes with ние.
+q: Уморен ___. | съм | си; е; сте | I am tired. | The pronoun аз is left out; съм still shows "I".
+
+@lesson noun-gender
+title: Gender of nouns
+level: A1
+intro: Every Bulgarian noun is masculine, feminine or neuter, and its ending usually tells you which.
+p: A **noun** is a word for a person, thing or idea. Every Bulgarian noun has a **gender**: masculine, feminine or neuter. The gender matters because words that go with the noun change to match it: **голям град** "a big city", **голяма къща** "a big house", **голямо село** "a big village".
+p: The ending of the noun usually shows the gender: a **consonant** → masculine (**град**, **телефон**), **-а** or **-я** → feminine (**жена**, **книга**, **стая**), **-о** or **-е** → neuter (**село**, **море**, **момиче**).
+p: For people, meaning wins over the ending: **баща** "father", **дядо** "grandfather" and **чичо** "uncle" are masculine. But **момиче** "girl" and **дете** "child" are neuter, because they end in -е.
+p: Some feminine nouns end in a consonant: **нощ** "night", **любов** "love", **есен** "autumn", **сол** "salt", and the many abstract nouns in **-ост**, such as **радост** "joy" and **възможност** "possibility".
+p: Nouns borrowed from other languages that end in **-е, -и, -у** or **-ю** are neuter: **кафе**, **такси**, **бижу** "jewel", **меню**. Many words for people come in pairs: **мъж / жена** "man / woman", **приятел / приятелка** "friend", **учител / учителка** "teacher".
+table: Gender by ending
+| gender | ending | examples |
+| masculine | consonant | град, стол, мъж |
+| feminine | -а, -я | жена, книга, стая |
+| neuter | -о, -е | село, море, момиче |
+| neuter (borrowed words) | -и, -у, -ю | такси, бижу, меню |
+table: Common exceptions
+| noun | meaning | gender |
+| баща | father | masculine |
+| дядо | grandfather | masculine |
+| чичо | uncle | masculine |
+| нощ | night | feminine |
+| любов | love | feminine |
+| радост | joy | feminine |
+e: Това е голям град. | Tová e goljám grad. | This is a big city.
+e: Това е голяма къща. | Tová e goljáma kắšta. | This is a big house.
+e: Това е голямо село. | Tová e goljámo sélo. | This is a big village.
+e: Той е добър баща. | Toj e dobắr baštá. | He is a good father.
+e: Това е хубава песен. | Tová e húbava pésen. | This is a lovely song.
+e: Това е ново такси. | Tová e nóvo taksí. | This is a new taxi.
+q: Това е ___ кола. | нова | нов; ново; нови | This is a new car. | кола ends in -а: feminine.
+q: Това е ___ село. | малко | малък; малка; малки | This is a small village. | село ends in -о: neuter.
+q: Той е ___ баща. | добър | добра; добро; добри | He is a good father. | баща ends in -а, but it means a man, so it is masculine.
+q: Това е ___ кафе. | хубаво | хубав; хубава; хубави | This is good coffee. | кафе ends in -е: neuter.
+q: Това е ___ нощ. | дълга | дълъг; дълго; дълги | This is a long night. | нощ is feminine although it ends in a consonant.
+q: Това е ___ момиче. | добро | добър; добра; добри | This is a good girl. | момиче ends in -е, so it is neuter, although it means a girl.
+q: Това е ___ такси. | старо | стар; стара; стари | This is an old taxi. | Borrowed words in -и are neuter.
+q: Това е ___ любов. | голяма | голям; голямо; големи | This is a great love. | любов is feminine although it ends in a consonant.
+
+@lesson noun-plural
+title: Plural of nouns
+level: A1
+intro: Make nouns plural with -и, -ове, -а or -та, and learn the common irregular plurals.
+p: Most nouns form the **plural** (more than one) with **-и**: **телефон → телефони**, **приятел → приятели**, **жена → жени**, **стая → стаи**, **нощ → нощи**. The -а or -я of a feminine noun is replaced by -и.
+p: Masculine nouns of one syllable usually take **-ове**: **град → градове**, **стол → столове**. A few take -и: **гост → гости**, **зъб → зъби**.
+p: Neuter nouns in **-о** take **-а**: **село → села**, **писмо → писма**. Neuter nouns in **-е** usually take **-ета**: **момиче → момичета**, **куче → кучета**, **кафе → кафета**, and borrowed words in -и, -у, -ю add **-та**: **такси → таксита**, **меню → менюта**. Some neuters in -е just change it to -а or -я: **сърце → сърца**, **упражнение → упражнения**.
+p: The stress can move in the plural: **град → градове** (gradové), **село → села** (selá). The most common nouns often have irregular plurals; learn them as words of their own (second table).
+p: **Има** means "there is" or "there are": **Тук има много хора.** "There are many people here."
+table: Regular plurals
+| singular | plural | examples |
+| masculine, two or more syllables | -и | телефон → телефони |
+| masculine, one syllable | -ове | град → градове |
+| feminine | -и | жена → жени, нощ → нощи |
+| neuter in -о | -а | село → села |
+| neuter in -е | -ета | момиче → момичета |
+| neuter in -и, -у, -ю | -та | такси → таксита |
+table: Irregular plurals
+| singular | plural | meaning |
+| човек | хора | person → people |
+| дете | деца | child → children |
+| ден | дни | day → days |
+| брат | братя | brother → brothers |
+| мъж | мъже | man → men |
+| око | очи | eye → eyes |
+| ръка | ръце | hand → hands |
+| крак | крака | leg → legs |
+| име | имена | name → names |
+| път | пътища | road → roads |
+e: В София има много магазини. | V Sófija íma mnógo magazíni. | There are many shops in Sofia.
+e: Имам братя и сестри. | Ímam brátja i sestrí. | I have brothers and sisters.
+e: Тук има много деца. | Tuk íma mnógo decá. | There are many children here.
+e: Те са добри приятели. | Te sa dobrí prijáteli. | They are good friends.
+e: Имаме кучета и котки. | Ímame kúčeta i kótki. | We have dogs and cats.
+e: Тук има много таксита. | Tuk íma mnógo taksíta. | There are many taxis here.
+q: Тук има много ___. | магазини | магазин; магазинът; магазините | There are many shops here. | Masculine, more than one syllable: -и.
+q: В София има много ___. | таксита | такси; таксито; такситата | There are many taxis in Sofia. | Borrowed neuter in -и: add -та.
+q: В България има много големи ___. | градове | град; градът; градовете | There are many big cities in Bulgaria. | Masculine, one syllable: -ове.
+q: Те имат ___ и котки. | кучета | куче; кучето; кучетата | They have dogs and cats. | Neuter in -е: -ета.
+q: На улицата има много ___. | хора | човек; човекът; хората | There are many people in the street. | The plural of човек is хора.
+q: Около София има много ___. | села | село; селото; селата | There are many villages around Sofia. | Neuter in -о: -а.
+q: Имам ___ и сестри. | братя | брат; брата; братът | I have brothers and sisters. | The plural of брат is братя.
+q: В тази стая има много ___. | книги | книга; книгата; книгите | There are many books in this room. | Feminine -а → -и.
+
+@lesson definite-article
+title: The definite article ("the")
+level: A1
+intro: Bulgarian says "the" with an ending on the word: книга "a book", книгата "the book".
+p: Bulgarian has no separate word for "the". Instead, an ending called the **definite article** is joined to the end of the word: **книга** "a book" → **книгата** "the book".
+p: Feminine nouns add **-та** (**жената**, **нощта**) and neuter nouns add **-то** (**селото**, **кафето**). Plurals add **-те** (**жените**, **градовете**), but plurals that end in -а or -я add **-та** (**селата**, **братята**, **децата**).
+p: Masculine nouns have a **full** form **-ът** and a **short** form **-а**. The full form is for the **subject**, the noun that does the action or is described: **Градът е голям.** It is also used for the noun after **е** "is": **Това е градът.** Everywhere else, after a preposition or as the object, use the short form: **Живея в града.** This is the rule of the written language; in casual speech the difference is often lost.
+p: Nouns ending in **-й**, and some others such as **ден**, **път**, **учител**, **лекар** and **приятел**, take **-ят / -я** instead: **чаят / чая**, **учителят / учителя**. Masculine nouns ending in -а or -о take -та or -то: **бащата**, **дядото**.
+p: In some short words the stress moves onto the article: **градът** (gradắt), **нощта** (noštá).
+table: The article endings
+| | without article | with article |
+| masculine | град | градът / града |
+| masculine in -й | чай | чаят / чая |
+| feminine | жена, нощ | жената, нощта |
+| neuter | село, кафе | селото, кафето |
+| plural in -и, -е | жени, мъже | жените, мъжете |
+| plural in -а, -я | села, братя | селата, братята |
+e: Градът е голям. | Gradắt e goljám. | The city is big.
+e: Живея в града. | Živéja v gradá. | I live in the city.
+e: Книгата е на масата. | Knígata e na másata. | The book is on the table.
+e: Кафето е горещо. | Kaféto e goréšto. | The coffee is hot.
+e: Децата са в парка. | Decáta sa v párka. | The children are in the park.
+e: Виждам учителя. | Víždam učítelja. | I see the teacher.
+q: ___ е много голям. | Градът | Града; Град; Градове | The city is very big. | The city is the subject: full form -ът.
+q: Живея в ___. | града | градът; град; градове | I live in the city. | After a preposition: short form -а.
+q: ___ е на масата. | Книгата | Книга; Книгите; Книги | The book is on the table. | Feminine: -та.
+q: ___ е горещо. | Кафето | Кафе; Кафета; Кафетата | The coffee is hot. | Neuter: -то.
+q: ___ са в парка. | Децата | Деца; Детето; Дете | The children are in the park. | The plural деца ends in -а, so it takes -та.
+q: Виждам ___. | учителя | учителят; учител; учители | I see the teacher. | The teacher is the object, not the subject: short form -я.
+q: ___ е тиха. | Нощта | Нощ; Нощите; Нощи | The night is quiet. | нощ is feminine: -та.
+q: ___ е топъл. | Чаят | Чая; Чай; Чайове | The tea is warm. | Subject, noun in -й: full form -ят.
+
+@lesson adjectives
+title: Adjectives and their article
+level: A1
+intro: Adjectives change their ending to match the noun, and before a noun they carry the article.
+p: An **adjective** describes a noun: new, big, good. Bulgarian adjectives change to match the gender and number of their noun: **нов телефон**, **нова кола**, **ново село**, and one plural form for all genders: **нови книги**.
+p: Some adjectives lose a vowel when they take an ending: **добър → добра, добро, добри**; **малък → малка, малко, малки**. In **голям** the я becomes е in the plural and in the masculine with the article: **големи**, **големият**.
+p: When an adjective comes before the noun, the article goes on the **adjective**, not on the noun: **новата кола** "the new car".
+p: The masculine article on an adjective is **-ият** (full) or **-ия** (short), with the same rule as for nouns: **Новият телефон е тук.** but **Имам новия телефон.** The others are **-ата**, **-ото** and **-ите**: **новата**, **новото**, **новите**.
+table: нов "new"
+| | without article | with article |
+| masculine | нов | новият / новия |
+| feminine | нова | новата |
+| neuter | ново | новото |
+| plural | нови | новите |
+table: Adjectives that change their stem
+| | good | small | big |
+| masculine | добър | малък | голям |
+| feminine | добра | малка | голяма |
+| neuter | добро | малко | голямо |
+| plural | добри | малки | големи |
+| masculine with article | добрият | малкият | големият |
+e: Това е нова кола. | Tová e nóva kolá. | This is a new car.
+e: Новата кола е много бърза. | Nóvata kolá e mnógo bắrza. | The new car is very fast.
+e: Новият телефон е на масата. | Nóvijat telefón e na másata. | The new phone is on the table.
+e: Харесвам новия телефон. | Harésvam nóvija telefón. | I like the new phone.
+e: Малкото дете спи. | Málkoto deté spi. | The little child is sleeping.
+e: Имам добри приятели. | Ímam dobrí prijáteli. | I have good friends.
+q: Това е ___ кола. | нова | нов; ново; нови | This is a new car. | кола is feminine.
+q: ___ кола е много бърза. | Новата | Нова; Новия; Новото | The new car is very fast. | The article goes on the adjective: новата.
+q: ___ телефон е на масата. | Новият | Новия; Нов; Новата | The new phone is on the table. | Subject: full form -ият.
+q: Харесвам ___ телефон. | новия | новият; нов; новата | I like the new phone. | Object: short form -ия.
+q: Имам ___ приятели. | добри | добър; добра; добро | I have good friends. | Plural: добри.
+q: Това е ___ град. | голям | голяма; голямо; големи | This is a big city. | град is masculine.
+q: ___ дете спи. | Малкото | Малко; Малкият; Малката | The little child is sleeping. | дете is neuter: -ото.
+q: Живеем в ___ къща. | голямата | голяма; големите; голямото | We live in the big house. | къща is feminine: голямата.
+
+@lesson present-tense
+title: Present tense: the three conjugations
+level: A1
+intro: Learn the present tense of the three verb groups with чета, говоря and имам.
+p: Bulgarian has no infinitive (the "to read" form). A verb is listed in the dictionary in its "I" form: **чета** means "I read" and is also the name of the verb.
+p: The **present tense** is used for what happens now and for what happens usually, so **чета** is both "I read" and "I am reading".
+p: Verbs fall into three groups, called **conjugations**. You can tell them by the vowel in the "he / she" form: **-е** (**чете**), **-и** (**говори**) or **-а / -я** (**има**). The ти, ние and вие forms have the same vowel (see the table).
+p: The "I" form ends in **-а / -я** in the first two groups and in **-м** in the third: **чета**, **говоря**, but **имам**. In the third group "we" ends in **-ме**: **имаме**.
+p: As with съм, the pronoun is usually left out: **Говоря английски.** "I speak English."
+table: The three conjugations
+| | чета (read) | говоря (speak) | имам (have) |
+| аз | чета | говоря | имам |
+| ти | четеш | говориш | имаш |
+| той / тя | чете | говори | има |
+| ние | четем | говорим | имаме |
+| вие | четете | говорите | имате |
+| те | четат | говорят | имат |
+table: More verbs in each group
+| -е (like чета) | -и (like говоря) | -а, -я (like имам) |
+| пиша (write) | работя (work) | искам (want) |
+| живея (live) | ходя (go, walk) | слушам (listen) |
+| пия (drink) | правя (do, make) | чакам (wait) |
+e: Чета книга. | Četá kníga. | I'm reading a book.
+e: Ти говориш много бързо. | Ti govóriš mnógo bắrzo. | You speak very fast.
+e: Тя има две деца. | Tja íma dve decá. | She has two children.
+e: Ние живеем в София. | Níe živéem v Sófija. | We live in Sofia.
+e: Вие работите много. | Víe rabótite mnógo. | You work a lot.
+e: Те слушат музика. | Te slúšat múzika. | They are listening to music.
+q: Аз ___ книга. | чета | чете; четем; четат | I'm reading a book. | аз: чета
+q: Той ___ английски. | говори | говоря; говориш; говорят | He speaks English. | той: говори
+q: Ние ___ куче. | имаме | имам; имате; имат | We have a dog. | ние in the third group: -ме
+q: Те ___ в София. | живеят | живее; живеем; живееш | They live in Sofia. | те: живеят
+q: Ти ___ много бързо. | говориш | говори; говорим; говорите | You speak very fast. | ти: -ш
+q: Вие ___ много. | работите | работим; работят; работиш | You work a lot. | вие: -те
+q: Тя ___ музика. | слуша | слушам; слушат; слушаш | She is listening to music. | тя: слуша
+q: Децата ___ книга. | четат | чете; четем; четете | The children are reading a book. | децата = they: четат
+
+@lesson negation-questions
+title: Negation and questions
+level: A1
+intro: Say "not" with не, ask yes/no questions with ли, and use the question words.
+p: To say "not", put **не** directly before the verb: **Не говоря английски.** "I don't speak English." Bulgarian has no helper verb like the English "do".
+p: **Не** also goes before the forms of съм: **Не съм уморен.** "I'm not tired."
+p: For a yes/no question, put **ли** right after the word you are asking about, usually the verb: **Говориш ли български?** "Do you speak Bulgarian?" To ask about another word, put ли after that word: **Тук ли е Мария?** "Is Maria here?"
+p: Questions with a question word (what, where, when...) start with that word and don't use ли: **Къде живееш?** "Where do you live?"
+p: Words like **нищо** "nothing", **никой** "nobody" and **никога** "never" still need **не** before the verb: **Нищо не разбирам.** "I don't understand anything."
+table: Question words
+| word | reading | meaning |
+| какво | kakvó | what |
+| кой, коя, кое, кои | koj, kojá, koé, koí | who, which |
+| къде | kădé | where |
+| кога | kogá | when |
+| защо | zaštó | why |
+| как | kak | how |
+| колко | kólko | how much, how many |
+e: Не говоря английски. | Ne govórja anglíjski. | I don't speak English.
+e: Не съм уморен. | Ne săm umorén. | I'm not tired.
+e: Говориш ли български? | Govóriš li bắlgarski? | Do you speak Bulgarian?
+e: Тук ли е Мария? | Tuk li e Maríja? | Is Maria here?
+e: Къде живееш? | Kădé živéeš? | Where do you live?
+e: Нищо не разбирам. | Níšto ne razbíram. | I don't understand anything.
+q: Аз ___ говоря английски. | не | ли; ни; но | I don't speak English. | не goes right before the verb.
+q: Говориш ___ български? | ли | не; ни; да | Do you speak Bulgarian? | ли comes after the verb you ask about.
+q: ___ живееш? | Къде | Кога; Какво; Как | Where do you live? | къде = where
+q: ___ е това? | Какво | Кой; Къде; Кога | What is this? | какво = what
+q: ___ струва? | Колко | Кога; Къде; Защо | How much does it cost? | колко = how much
+q: ___ не идваш? | Защо | Кога; Къде; Кой | Why aren't you coming? | защо = why
+q: Не ___ уморен. | съм | си; е; сме | I'm not tired. | не + съм
+q: ___ не разбирам. | Нищо | Нещо; Никой; Никога | I don't understand anything. | нищо = nothing; the verb still takes не.
+
+@lesson future-tense
+title: Future tense: ще and няма да
+level: A1
+intro: Talk about the future with ще, and say what won't happen with няма да.
+p: The **future tense** is the little word **ще** plus the present form of the verb: **ще чета** "I will read", **ще четеш** "you will read". **Ще** itself never changes.
+p: The negative is not "не ще" but **няма да** plus the present form: **Няма да чета.** "I won't read." **Няма да** never changes either: **те няма да четат**.
+p: The future of **съм** uses the verb **бъда**: **ще бъда**, **ще бъдеш**, **ще бъде**. In everyday speech **ще съм** is also common.
+p: After **ще** you will often see a perfective verb such as **купя** or **дойда**; the lesson on verbal aspect explains these pairs.
+table: Future of чета (read)
+| | will read | won't read |
+| аз | ще чета | няма да чета |
+| ти | ще четеш | няма да четеш |
+| той / тя | ще чете | няма да чете |
+| ние | ще четем | няма да четем |
+| вие | ще четете | няма да четете |
+| те | ще четат | няма да четат |
+table: Future of съм (be)
+| | will be |
+| аз | ще бъда |
+| ти | ще бъдеш |
+| той / тя | ще бъде |
+| ние | ще бъдем |
+| вие | ще бъдете |
+| те | ще бъдат |
+e: Утре ще купя хляб. | Útre šte kúpja hljab. | Tomorrow I'll buy bread.
+e: Ще говоря с него. | Šte govórja s négo. | I'll talk to him.
+e: Довечера ще бъда вкъщи. | Dovéčera šte bắda vkắšti. | I'll be at home tonight.
+e: Няма да работя утре. | Njáma da rabótja útre. | I won't work tomorrow.
+e: Ще дойдеш ли? | Šte dójdeš li? | Will you come?
+e: Те няма да чакат. | Te njáma da čákat. | They won't wait.
+q: Утре ___ чета. | ще | не; да; ли | I will read tomorrow. | Future: ще + present form.
+q: Утре ___ да работя. | няма | не; ще; нямам | I won't work tomorrow. | The negative future is няма да.
+q: Довечера ще ___ вкъщи. | бъда | бъдеш; бъде; бъдат | I'll be at home tonight. | The future of съм: ще бъда.
+q: Ние ще ___ утре. | дойдем | дойда; дойдат; дойдете | We will come tomorrow. | ние: дойдем
+q: Те ___ да чакат. | няма | нямат; не; ще | They won't wait. | няма да never changes, even with те.
+q: ___ дойдеш ли? | Ще | Не; Няма; Нека | Will you come? | ще + verb, then ли.
+q: Утре ще ___ хляб. | купим | купя; купят; купите | Tomorrow we'll buy bread. | ние: купим
+q: Ще ___ с него. | говоря | говори; говорим; говорят | I'll talk to him. | аз: говоря
+
+@lesson past-aorist
+title: Past tense (aorist)
+level: A2
+intro: Say what you did with the aorist, the main past tense for finished actions.
+p: The **aorist** is the main past tense. It is used for an action that happened at a time in the past: "I read, I came, I bought". **Вчера четох цял ден.** "Yesterday I read all day."
+p: The endings are the same for almost all verbs: **-х** (I), no ending (you, he / she), **-хме** (we), **-хте** (you, plural), **-ха** (they). Before them comes a vowel: **четох**, **говорих**, **имах**.
+p: The "you" and "he / she" forms are the same, and they can look like a present form: **чете** (četé) "he reads", but **чете** (čéte) "he read". Only the stress tells them apart.
+p: Many common verbs change their stem in the past, so learn them as you meet them (second table). **Съм** has its own past: **бях, беше, беше, бяхме, бяхте, бяха**. **Бе** is a shorter form of беше.
+table: The aorist of three verbs
+| | чета | говоря | имам |
+| аз | четох | говорих | имах |
+| ти | чете | говори | има |
+| той / тя | чете | говори | има |
+| ние | четохме | говорихме | имахме |
+| вие | четохте | говорихте | имахте |
+| те | четоха | говориха | имаха |
+table: Common verbs in the past
+| verb | I ... (past) | meaning |
+| съм | бях | was |
+| ходя | ходих | went, walked |
+| видя | видях | saw |
+| дойда | дойдох | came |
+| кажа | казах | said |
+| купя | купих | bought |
+| ям | ядох | ate |
+| пия | пих | drank |
+| взема | взех | took |
+| дам | дадох | gave |
+e: Вчера четох цял ден. | Včéra čétoh cjal den. | Yesterday I read all day.
+e: Вчера бях вкъщи. | Včéra bjah vkắšti. | Yesterday I was at home.
+e: Той дойде вчера. | Toj dojdé včéra. | He came yesterday.
+e: Купих хляб. | Kúpih hljab. | I bought bread.
+e: Видях Иван в парка. | Vidjáh Iván v párka. | I saw Ivan in the park.
+e: Ядохме в ресторант. | Jádohme v restoránt. | We ate in a restaurant.
+q: Вчера ___ на работа. | бях | беше; бяха; съм | Yesterday I was at work. | The past of съм for аз: бях.
+q: Вчера ние ___ с Мария. | говорихме | говорим; говорих; говориха | Yesterday we talked to Maria. | ние: -хме
+q: Те ___ вчера. | дойдоха | дойдохме; дойде; дойдат | They came yesterday. | те: -ха
+q: Вчера ___ цял ден. | четох | чета; чете; четоха | Yesterday I read all day. | аз: -х
+q: Какво ___ в магазина? | купи | купих; купиш; купиха | What did you buy at the shop? | ти: no ending (купи).
+q: Ти къде ___ вчера? | беше | бях; бяха; бяхме | Where were you yesterday? | The past of съм for ти: беше.
+q: Ние ___ в ресторант. | ядохме | ядем; ядоха; ядох | We ate in a restaurant. | The past of ям: ядох, ядохме.
+q: Тя ___ Иван вчера. | видя | видях; видяха; вижда | She saw Ivan yesterday. | тя: no ending (видя).
+
+@lesson possessives
+title: Possessive pronouns
+level: A2
+intro: Say "my, your, his, her" with the full forms (мой, моя, мое, мои) or the short forms (ми, ти, му...).
+p: Bulgarian has two sets of possessives ("my", "your"...): **full** words that go before the noun, and **short** words that go after it. Both are common; the short ones are more usual in speech.
+p: The full forms change like adjectives to match the thing owned: **мой телефон**, **моя кола**, **мое кафе**, **мои книги**. Before a noun they usually take the article: **моята кола** "my car". After **е** "is" they don't: **Колата е моя.** "The car is mine."
+p: The short forms **ми, ти, му, ѝ, ни, ви, им** follow the noun, and the noun takes the article: **колата ми** "my car", **къщата им** "their house", **телефонът ти** "your phone".
+p: Most family words in the singular take the short form **without** the article: **майка ми** "my mother", **баща ми**, **брат ти**, **сестра му**. Exceptions are **синът ми** "my son" and **мъжът ми** "my husband". In the plural the article comes back: **децата ми**, **братята ми**.
+p: **ѝ** "her" has a grave accent to tell it apart from **и** "and".
+table: Possessive pronouns
+| owner | full form (m, f, n, plural) | short form |
+| I | мой, моя, мое, мои | ми |
+| you | твой, твоя, твое, твои | ти |
+| he, it | негов, негова, негово, негови | му |
+| she | неин, нейна, нейно, нейни | ѝ |
+| we | наш, наша, наше, наши | ни |
+| you (plural) | ваш, ваша, ваше, ваши | ви |
+| they | техен, тяхна, тяхно, техни | им |
+table: "My" with the article
+| | without article | with article |
+| masculine | мой телефон | моят / моя телефон |
+| feminine | моя кола | моята кола |
+| neuter | мое кафе | моето кафе |
+| plural | мои книги | моите книги |
+e: Това е моята кола. | Tová e mójata kolá. | This is my car.
+e: Колата ми е нова. | Koláta mi e nóva. | My car is new.
+e: Майка ми е лекарка. | Májka mi e lékarka. | My mother is a doctor.
+e: Къде е телефонът ти? | Kădé e telefónăt ti? | Where is your phone?
+e: Децата им са в училище. | Decáta im sa v učílište. | Their children are at school.
+e: Тази книга е нейна. | Tázi kníga e néjna. | This book is hers.
+q: Това е ___ кола. | моята | моят; моето; моите | This is my car. | кола is feminine: моята.
+q: Колата ___ е нова. | ми | ти; му; ни | My car is new. | my = ми
+q: Майка ___ е лекарка. | му | ѝ; им; ми | His mother is a doctor. | his = му
+q: Къде е телефонът ___? | ти | ми; му; им | Where is your phone? | your (one person) = ти
+q: Децата ___ са в училище. | им | ѝ; ни; му | Their children are at school. | their = им
+q: Тази книга е ___. | нейна | неин; нейно; нейни | This book is hers. | книга is feminine: нейна.
+q: Това е ___ къща. | нашата | нашият; нашето; нашите | This is our house. | къща is feminine: нашата.
+q: Този телефон е ___. | мой | моя; мое; мои | This phone is mine. | телефон is masculine: мой.
+
+@lesson object-pronouns
+title: Short object pronouns and word order
+level: A2
+intro: Say "me, you, him, her, us, them" with the short pronouns ме, те, го, я, ни, ви, ги, and put them in the right place.
+p: The short object pronouns **ме, те, го, я, ни, ви, ги** mean "me, you, him / it, her / it, us, you, them". "It" is **го** for masculine and neuter nouns and **я** for feminine nouns: **Къде е книгата? Не я виждам.** "Where is the book? I don't see it."
+p: "To me, to him..." uses the same short words as the possessives, **ми, ти, му, ѝ, ни, ви, им**: **Кажи ми!** "Tell me!"
+p: These short words never start a sentence. If something comes before the verb (for example a pronoun, **не**, **ще**, **да** or a question word), they go right before the verb: **Аз го виждам.**, **Не го виждам.**, **Ще го видя.** If the verb comes first, they go after it: **Виждам го.**
+p: In a question where ли follows the verb, they come after ли: **Виждаш ли го?** "Do you see him?" With **ще** they stay before the verb: **Ще го видиш ли?** "Will you see him?"
+p: The long forms **мене, тебе, него, нея, нас, вас, тях** are used after prepositions and for emphasis: **с него** "with him", **за нея** "for her".
+table: Short pronouns
+| | object | to ... | long form |
+| I | ме | ми | мене |
+| you | те | ти | тебе |
+| he / it | го | му | него |
+| she / it | я | ѝ | нея |
+| we | ни | ни | нас |
+| you (plural) | ви | ви | вас |
+| they | ги | им | тях |
+table: Word order
+| Bulgarian | English |
+| Виждам го. | I see him. |
+| Аз го виждам. | I see him. |
+| Не го виждам. | I don't see him. |
+| Ще го видя. | I'll see him. |
+| Искам да го видя. | I want to see him. |
+| Виждаш ли го? | Do you see him? |
+e: Обичам те. | Obíčam te. | I love you.
+e: Познаваш ли я? | Poznávaš li ja? | Do you know her?
+e: Не го разбирам. | Ne go razbíram. | I don't understand it.
+e: Ще ви чакам тук. | Šte vi čákam tuk. | I'll wait for you here.
+e: Мама ни вика. | Máma ni víka. | Mum is calling us.
+e: Кажи ми! | Kaží mi! | Tell me!
+q: Обичам ___. | те | ме; го; ги | I love you. | you (one person) = те
+q: Не ___ виждам. | го | я; ги; ме | I don't see him. | him = го, between не and the verb.
+q: Познаваш ли ___? | я | го; ги; ни | Do you know her? | her = я
+q: Мама ___ вика. | ни | ги; ви; ме | Mum is calling us. | us = ни
+q: Къде е книгата? Не ___ виждам. | я | го; ги; ме | Where is the book? I don't see it. | книга is feminine, so "it" is я.
+q: Виждам ___ всеки ден. | ги | го; им; ни | I see them every day. | them = ги (им means "to them").
+q: Ще ___ видя утре. | я | ѝ; го; ги | I'll see her tomorrow. | her = я (ѝ means "to her").
+q: Кажи ___ истината! | ми | ме; ни; му | Tell me the truth! | "Tell me" = say to me: ми.
+
+@lesson verbal-aspect
+title: Verbal aspect and да
+level: A2
+intro: Most verbs come in pairs: one for actions in progress or habits, one for a single finished action.
+p: Most Bulgarian verbs come in **pairs** with the same meaning but a different view of the action, called **aspect**. The **imperfective** verb is for an action in progress, a habit or a repeated action. The **perfective** verb is for one complete action with a result.
+p: The pairs are formed in different ways: with a prefix (**чета / прочета**, **пиша / напиша**), with a different suffix (**купувам / купя**, **казвам / кажа**) or with a different word (**идвам / дойда**).
+p: A perfective verb in the present form cannot describe what is happening now. It is used after **да**, after **ще**, after **когато** "when" or **ако** "if", and in the past: **ще купя**, **купих**.
+p: **Да** plus a present form does the job of the English "to" form: **Искам да купя хляб.** "I want to buy bread." The verb after да still changes for the person: **Искаш ли да купиш хляб?** "Do you want to buy bread?"
+p: Use the imperfective for habits and actions in progress (**Всеки ден купувам хляб.**) and the perfective for one finished action (**Утре ще купя хляб.**, **Вчера купих хляб.**).
+table: Common pairs
+| imperfective | perfective | meaning |
+| чета | прочета | read |
+| пиша | напиша | write |
+| купувам | купя | buy |
+| казвам | кажа | say, tell |
+| давам | дам | give |
+| вземам | взема | take |
+| виждам | видя | see |
+| идвам | дойда | come |
+| правя | направя | do, make |
+| започвам | започна | begin |
+e: Всеки ден купувам хляб. | Vséki den kupúvam hljab. | I buy bread every day.
+e: Искам да купя хляб. | Ískam da kúpja hljab. | I want to buy bread.
+e: Сега пиша писмо. | Segá píša pismó. | I'm writing a letter now.
+e: Вчера написах писмо. | Včéra napísah pismó. | Yesterday I wrote a letter.
+e: Утре ще прочета книгата. | Útre šte pročetá knígata. | Tomorrow I'll read the book to the end.
+e: Кога ще дойдеш? | Kogá šte dójdeš? | When will you come?
+q: Всеки ден ___ хляб. | купувам | купя; купих; купиш | I buy bread every day. | A habit: imperfective. купя cannot stand alone in the present.
+q: Искам да ___ хляб. | купя | купиш; купи; купих | I want to buy bread. | да + the "I" form: купя.
+q: Сега ___ писмо. | пиша | напиша; написах; пише | I'm writing a letter now. | An action in progress: imperfective.
+q: Вечер често ___ книги. | чета | прочета; прочетох; прочетеш | In the evenings I often read books. | A habit: imperfective present.
+q: Утре ще ___ цялата книга. | прочета | прочете; прочетох; прочетат | Tomorrow I'll read the whole book. | ще + the "I" form of the perfective: прочета.
+q: Когато ___ книгата, ще ти я дам. | прочета | чета; прочетеш; прочетох | When I finish reading the book, I'll give it to you. | One finished action after когато: perfective.
+q: Искам да ___ писмо на баба. | напиша | напишеш; напише; написах | I want to write a letter to Grandma. | да + the "I" form: напиша.
+q: Той ___ всеки ден в седем. | идва | дойде; дойда; дойдох | He comes every day at seven. | A habit: imperfective (идвам).
+
+@lesson numbers-nouns
+title: Numbers with nouns
+level: A2
+intro: Count things with един, два, три..., and use the counting form: два стола.
+p: **Един** "one" and **два** "two" change with gender: **един стол**, **една книга**, **едно кафе**; **два стола**, but **две книги**, **две кафета**. From three on, numbers don't change: **три**, **четири**, **пет**...
+p: After a number, a masculine noun for a thing takes a special **counting form** ending in **-а** or **-я**: **два стола**, **пет телефона**, **три часа**. The same form is used after **колко** "how many" and **няколко** "a few".
+p: The counting form looks like the short article form, but sometimes the stress is different: **града** (gradá) "the city", but **три града** (tri gráda) "three cities".
+p: Masculine nouns for people don't use the counting form. For men, or groups with at least one man, there are special numbers: **двама**, **трима**, **четирима**, **петима**: **двама братя**, **трима приятели**.
+p: Feminine and neuter nouns simply use the plural: **три книги**, **пет деца**.
+table: Numbers 1–10
+| | number | reading |
+| 1 | един, една, едно | edín, edná, ednó |
+| 2 | два, две | dva, dve |
+| 3 | три | tri |
+| 4 | четири | čétiri |
+| 5 | пет | pet |
+| 6 | шест | šest |
+| 7 | седем | sédem |
+| 8 | осем | ósem |
+| 9 | девет | dévet |
+| 10 | десет | déset |
+table: Numbers with nouns
+| | one | two | five |
+| стол (m) | един стол | два стола | пет стола |
+| книга (f) | една книга | две книги | пет книги |
+| кафе (n) | едно кафе | две кафета | пет кафета |
+| брат (m, person) | един брат | двама братя | петима братя |
+e: Имам два билета. | Ímam dva biléta. | I have two tickets.
+e: Искам две кафета, моля. | Ískam dve kaféta, mólja. | I'd like two coffees, please.
+e: В стаята има три стола. | V stájata íma tri stóla. | There are three chairs in the room.
+e: Чаках два часа. | Čákah dva čása. | I waited for two hours.
+e: Имам двама братя и една сестра. | Ímam dváma brátja i edná sestrá. | I have two brothers and one sister.
+e: Колко билета искате? | Kólko biléta ískate? | How many tickets would you like?
+q: Имам ___ брат. | един | една; едно; едни | I have one brother. | брат is masculine: един.
+q: Искам ___ кафета, моля. | две | два; двама; двете | I'd like two coffees, please. | кафе is neuter: две.
+q: В стаята има три ___. | стола | стол; столове; столът | There are three chairs in the room. | Masculine thing after a number: counting form.
+q: Имам два ___. | билета | билет; билети; билетът | I have two tickets. | Counting form: билета.
+q: Имам ___ братя. | двама | две; двамата; трима | I have two brothers. | Two male people: двама.
+q: Тук има пет ___. | магазина | магазин; магазини; магазинът | There are five shops here. | Counting form: магазина.
+q: Чаках два ___. | часа | час; часове; часът | I waited for two hours. | Counting form: часа.
+q: Искам ___ кафе. | едно | един; една; едни | I'd like one coffee. | кафе is neuter: едно.
+
+@lesson modal-verbs
+title: Want, can, must: искам да, мога да, трябва да
+level: A2
+intro: Say what you want to, can and must do with искам да, мога да and трябва да.
+p: Bulgarian has no "to" form of the verb, so "I want to sleep" is **искам да спя**, literally "I want that I sleep". Both verbs change for the person: **искаш да спиш**, **искат да спят**.
+p: **Мога** "I can" changes г to ж in most forms: **мога, можеш, може, можем, можете, могат**.
+p: **Трябва** "must, have to" never changes in this meaning; only the second verb shows who: **Трябва да тръгвам.** "I have to go." **Трябва да учиш.** "You have to study."
+p: For "can't" and "don't want to" just add **не**: **не мога да**, **не искам да**. But **не трябва да** means "must not"; for "don't have to" say **няма нужда да**: **Няма нужда да чакаш.** "You don't have to wait."
+table: искам, мога, трябва
+| | want | can | must |
+| аз | искам | мога | трябва |
+| ти | искаш | можеш | трябва |
+| той / тя | иска | може | трябва |
+| ние | искаме | можем | трябва |
+| вие | искате | можете | трябва |
+| те | искат | могат | трябва |
+table: With a second verb
+| English | Bulgarian |
+| I want to read. | Искам да чета. |
+| I can read. | Мога да чета. |
+| I must read. | Трябва да чета. |
+| I must not read. | Не трябва да чета. |
+| I don't have to read. | Няма нужда да чета. |
+e: Искам да спя. | Ískam da spja. | I want to sleep.
+e: Можеш ли да ми помогнеш? | Móžeš li da mi pomógneš? | Can you help me?
+e: Трябва да тръгвам. | Trjábva da trắgvam. | I have to go.
+e: Не мога да дойда утре. | Ne móga da dójda útre. | I can't come tomorrow.
+e: Децата искат да играят. | Decáta ískat da igrájat. | The children want to play.
+e: Няма нужда да чакаш. | Njáma núžda da čákaš. | You don't have to wait.
+q: Искам да ___. | спя | спиш; спи; спят | I want to sleep. | Both verbs are in the "I" form: искам да спя.
+q: ___ ли да ми помогнеш? | Можеш | Мога; Можем; Могат | Can you help me? | ти: можеш
+q: Трябва да ___. | тръгвам | тръгваш; тръгва; тръгват | I have to go. | трябва doesn't change; the second verb shows "I".
+q: Той ___ да учи. | трябва | трябват; трябвам; трябваш | He has to study. | Before да, трябва never changes; трябват, трябвам, трябваш mean "be needed" (Трябваш ми. "I need you.")
+q: Не ___ да дойда утре. | мога | можеш; можем; могат | I can't come tomorrow. | аз: мога
+q: Децата ___ да играят. | искат | иска; искаме; искате | The children want to play. | децата = they: искат
+q: Тя ___ да говори английски. | може | мога; можеш; могат | She can speak English. | тя: може
+q: ___ нужда да чакаш. | Няма | Не; Има; Ще | You don't have to wait. | "Don't have to" = няма нужда да.

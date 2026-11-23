@@ -1,0 +1,126 @@
+# Italian vocabulary for Alphabet Writer. Nouns carry their article (il, la, lo, l', i, le), which shows the gender.
+# Columns: topic<TAB>picture<TAB>word<TAB>pronunciation in Cyrillic<TAB>meaning<TAB>(unused)<TAB>note (optional)
+greetings	👋	ciao	чао	hi; bye
+greetings	🌅	buongiorno	буонджорно	good morning; good day
+greetings	🌙	buonasera	буонасера	good evening
+greetings	😴	buonanotte	буонаноте	good night
+greetings	🙏	grazie	грацие	thank you
+greetings	🤲	per favore	пер фаворе	please
+greetings	🙇	scusi	скузи	excuse me; sorry		To a friend: scusa (скуза).
+greetings	✅	sì	си	yes
+greetings	❌	no	но	no
+greetings	🚶	arrivederci	ариведерчи	goodbye
+greetings	😊	come stai?	коме стай?	how are you?		Politely: come sta? (коме ста?)
+greetings	🆗	bene	бене	fine; well
+greetings	🤝	piacere	пиачере	nice to meet you
+greetings	📛	il nome	ил номе	name
+greetings	❓	che cosa	ке коза	what
+numbers	0	zero	дзеро	zero
+numbers	1	uno	уно	one
+numbers	2	due	дуе	two
+numbers	3	tre	тре	three
+numbers	4	quattro	куатро	four
+numbers	5	cinque	чинкуе	five
+numbers	6	sei	сей	six
+numbers	7	sette	сете	seven
+numbers	8	otto	ото	eight
+numbers	9	nove	нове	nine
+numbers	10	dieci	диечи	ten
+numbers	100	cento	ченто	hundred
+numbers	1000	mille	миле	thousand
+shopping	💶	i soldi	и солди	money
+shopping	🏷️	quanto costa?	куанто коста?	how much is it?
+shopping	🛒	la spesa	ла спеза	(grocery) shopping
+shopping	🏪	il negozio	ил негоцио	shop
+shopping	💳	la carta	ла карта	card
+shopping	🧾	lo scontrino	ло сконтрино	receipt
+shopping	👕	la camicia	ла камича	shirt
+shopping	👟	le scarpe	ле скарпе	shoes
+shopping	👜	la borsa	ла борса	bag
+shopping	💎	caro	каро	expensive
+shopping	🪙	economico	економико	cheap
+shopping	🤲	vorrei	ворей	I would like
+shopping	📏	la taglia	ла таля	size (of clothes)
+food	💧	l'acqua	лакуа	water
+food	🍵	il tè	ил те	tea
+food	☕	il caffè	ил кафе	coffee
+food	🍺	la birra	ла бира	beer
+food	🍷	il vino	ил вино	wine
+food	🍞	il pane	ил пане	bread
+food	🐟	il pesce	ил пеше	fish
+food	🥩	la carne	ла карне	meat
+food	🥚	l'uovo	луово	egg		Plural: le uova (ле уова).
+food	🍎	la mela	ла мела	apple
+food	🧀	il formaggio	ил формаджо	cheese
+food	🫒	l'oliva	лолива	olive
+food	🥗	l'insalata	линсалата	salad
+food	😋	buono	буоно	good; tasty
+travel	✈️	l'aereo	лаерео	airplane
+travel	🚆	il treno	ил трено	train
+travel	🚌	l'autobus	лаутобус	bus
+travel	🚕	il taxi	ил такси	taxi
+travel	🚢	la nave	ла наве	ship
+travel	🚉	la stazione	ла стацьоне	railway station
+travel	🛫	l'aeroporto	лаеропорто	airport
+travel	🏨	l'albergo	лалберго	hotel		Also l'hotel (лотел).
+travel	🎫	il biglietto	ил бильето	ticket
+travel	🛂	il passaporto	ил паспорто	passport
+travel	🧳	la valigia	ла валиджа	suitcase
+travel	🗺️	la mappa	ла мапа	map
+travel	🚻	il bagno	ил баньо	toilet; bathroom
+travel	⬅️	a sinistra	а синистра	left
+travel	➡️	a destra	а дестра	right
+travel	⬆️	dritto	дрито	straight ahead
+travel	🏖️	la spiaggia	ла спиаджа	beach
+time	📅	oggi	оджи	today
+time	⏭️	domani	домани	tomorrow
+time	⏮️	ieri	иери	yesterday
+time	🌄	la mattina	ла матина	morning
+time	🌞	il mezzogiorno	ил медзоджорно	noon
+time	🌆	la sera	ла сера	evening
+time	🌃	la notte	ла ноте	night
+time	⌚	adesso	адесо	now
+time	⏰	l'ora	лора	hour
+time	🗓️	la settimana	ла сетимана	week
+family	👨‍👧	il padre	ил падре	father
+family	👩‍👦	la madre	ла мадре	mother
+family	👦	il ragazzo	ил рагацо	boy
+family	👧	la ragazza	ла рагаца	girl
+family	👶	il bebè	ил бебе	baby
+family	👫	l'amico	ламико	friend		A female friend: l'amica (ламика).
+family	👪	la famiglia	ла фамиля	family
+family	👴	il nonno	ил ноно	grandfather
+family	👵	la nonna	ла нона	grandmother
+family	🧑‍🏫	l'insegnante	линсенянте	teacher
+family	🧍	la persona	ла персона	person
+colours	🔴	rosso	росо	red
+colours	🔵	blu	блу	blue
+colours	🟢	verde	верде	green
+colours	🟡	giallo	джало	yellow
+colours	⚫	nero	неро	black
+colours	⚪	bianco	бянко	white
+colours	🟣	viola	виола	purple
+colours	🟠	arancione	аранчоне	orange
+colours	🟤	marrone	мароне	brown
+colours	🩷	rosa	роза	pink
+weather	☀️	il sole	ил соле	sun
+weather	🌧️	la pioggia	ла пиоджа	rain
+weather	❄️	la neve	ла неве	snow
+weather	☁️	la nuvola	ла нувола	cloud
+weather	💨	il vento	ил венто	wind
+weather	🥵	caldo	калдо	hot
+weather	🥶	freddo	фредо	cold
+weather	☂️	l'ombrello	ломбрело	umbrella
+weather	⛈️	il temporale	ил темпорале	thunderstorm
+weather	🌈	l'arcobaleno	ларкобалено	rainbow
+animals	🐶	il cane	ил кане	dog
+animals	🐱	il gatto	ил гато	cat
+animals	🐦	l'uccello	лучело	bird
+animals	🐴	il cavallo	ил кавало	horse
+animals	🐮	la mucca	ла мука	cow
+animals	🐷	il maiale	ил маяле	pig
+animals	🐭	il topo	ил топо	mouse
+animals	🐰	il coniglio	ил конильо	rabbit
+animals	🐻	l'orso	лорсо	bear
+animals	🐵	la scimmia	ла шимия	monkey
+animals	🐘	l'elefante	лелефанте	elephant

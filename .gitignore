@@ -1,0 +1,14 @@
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+dist/
+__pycache__/
+.DS_Store
+*.apk
+*.aab
+# Local build setup for the home build machine; see LOCAL-BUILD.md (kept out of git too).
+build-on-studio.sh
+.build-job.sh
+LOCAL-BUILD.md
