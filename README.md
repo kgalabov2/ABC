@@ -1,5 +1,7 @@
 # Alphabet Writer (shown on the phone as "ABC")
 
+[![Build](https://github.com/kgalabov2/ABC/actions/workflows/build.yml/badge.svg)](https://github.com/kgalabov2/ABC/actions/workflows/build.yml)
+
 Android app for learning languages: words, grammar and writing foreign alphabets by hand. It opens on the
 Words tab; the bottom bar has Words, Grammar and Letters. The phone shows it as **ABC**; the package
 (`com.alphabetwriter`), the progress file format and the class names keep the old name, so progress and
@@ -64,7 +66,8 @@ install missing parts with the SDK manager). Gradle 9.8.2 comes through the wrap
 adb install -r app/build/outputs/apk/debug/app-debug.apk
 ```
 
-The build also runs the unit tests (`app/src/test`): stroke data coverage and stroke counts, word lists and
+GitHub Actions (`.github/workflows/build.yml`) does the same on every push and pull request and keeps the
+APK and the test report as the run's artifacts. The build also runs the unit tests (`app/src/test`): stroke data coverage and stroke counts, word lists and
 levels, photo and animation data, grammar lessons and word forms, and the practice and quiz logic.
 
 ## Stroke data
